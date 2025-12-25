@@ -1,0 +1,6 @@
+*.log
+*.swp
+.DS_Store
+__pycache__/
+novelwriter.egg-info/
+# 保留 .nwx 项目文件和正文，排除缓存/临时文件

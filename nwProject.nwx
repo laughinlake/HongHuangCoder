@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2025-12-26 01:21:52">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="2" autoCount="5" editTime="569">
+    <name>HongHuang</name>
+    <author>JQ</author>
+  </project>
+  <settings>
+    <doBackup>yes</doBackup>
+    <language>en_GB</language>
+    <spellChecking auto="no">None</spellChecking>
+    <lastHandle>
+      <entry key="editor">528f8233c37cb</entry>
+      <entry key="viewer">None</entry>
+      <entry key="novelTree">c4a9a239c9ccb</entry>
+      <entry key="outline">None</entry>
+    </lastHandle>
+    <autoReplace />
+    <status>
+      <entry key="s54df93" count="5" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
+      <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
+      <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
+    </status>
+    <importance>
+      <entry key="i662472" count="3" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="i34cafd" count="0" red="200" green="50" blue="0" shape="SQUARE">Minor</entry>
+      <entry key="i1347ee" count="0" red="200" green="150" blue="0" shape="SQUARE">Major</entry>
+      <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
+    </importance>
+  </settings>
+  <content items="8" novelWords="40" notesWords="0">
+    <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
+      <meta expanded="yes" />
+      <name status="s54df93" import="i662472">Novel</name>
+    </item>
+    <item handle="785085c761654" parent="c4a9a239c9ccb" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H1" charCount="48" wordCount="10" paraCount="3" cursorPos="112" />
+      <name status="s54df93" import="i662472" active="yes">Title Page</name>
+    </item>
+    <item handle="6790da3cae3b2" parent="c4a9a239c9ccb" root="c4a9a239c9ccb" order="1" type="FOLDER" class="NOVEL">
+      <meta expanded="no" />
+      <name status="s54df93" import="i662472">XiYou</name>
+    </item>
+    <item handle="528f8233c37cb" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="494" wordCount="30" paraCount="23" cursorPos="307" />
+      <name status="s54df93" import="i662472" active="yes">00 引子</name>
+    </item>
+    <item handle="9574c6251d257" parent="None" root="9574c6251d257" order="1" type="ROOT" class="PLOT">
+      <meta expanded="no" />
+      <name status="s54df93" import="i662472">Plot</name>
+    </item>
+    <item handle="a54a193fbc58c" parent="None" root="a54a193fbc58c" order="2" type="ROOT" class="CHARACTER">
+      <meta expanded="no" />
+      <name status="s54df93" import="i662472">Characters</name>
+    </item>
+    <item handle="95f33353c331f" parent="None" root="95f33353c331f" order="3" type="ROOT" class="ARCHIVE">
+      <meta expanded="no" />
+      <name status="s54df93" import="i662472">Archive</name>
+    </item>
+    <item handle="ab032525a499c" parent="None" root="ab032525a499c" order="4" type="ROOT" class="TRASH">
+      <meta expanded="no" />
+      <name status="s54df93" import="i662472">Trash</name>
+    </item>
+  </content>
+</novelWriterXML>
