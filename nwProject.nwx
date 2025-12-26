@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2025-12-26 01:21:52">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="2" autoCount="5" editTime="569">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2025-12-26 09:47:10">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="3" autoCount="52" editTime="30621">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,26 +9,26 @@
     <language>en_GB</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">528f8233c37cb</entry>
+      <entry key="editor">785085c761654</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="5" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="13" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
     </status>
     <importance>
-      <entry key="i662472" count="3" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="i662472" count="7" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="i34cafd" count="0" red="200" green="50" blue="0" shape="SQUARE">Minor</entry>
       <entry key="i1347ee" count="0" red="200" green="150" blue="0" shape="SQUARE">Major</entry>
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="8" novelWords="40" notesWords="0">
+  <content items="20" novelWords="339" notesWords="13">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">Novel</name>
@@ -38,28 +38,76 @@
       <name status="s54df93" import="i662472" active="yes">Title Page</name>
     </item>
     <item handle="6790da3cae3b2" parent="c4a9a239c9ccb" root="c4a9a239c9ccb" order="1" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">XiYou</name>
     </item>
-    <item handle="528f8233c37cb" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="494" wordCount="30" paraCount="23" cursorPos="307" />
-      <name status="s54df93" import="i662472" active="yes">00 引子</name>
+    <item handle="0473edfa83de0" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="yes" heading="H2" charCount="635" wordCount="12" paraCount="6" cursorPos="658" />
+      <name status="s54df93" import="i662472" active="yes">章节目录</name>
+    </item>
+    <item handle="7e38fb87d5690" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="490" wordCount="29" paraCount="23" cursorPos="138" />
+      <name status="s54df93" import="i662472" active="yes">00 引子 神话纪元的召唤</name>
+    </item>
+    <item handle="08bb43c25847b" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="1819" wordCount="51" paraCount="17" cursorPos="20" />
+      <name status="s54df93" import="i662472" active="yes">01 0和1的枷锁，桃花香的悸动</name>
+    </item>
+    <item handle="3ff3a0ce02ec4" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="1454" wordCount="41" paraCount="22" cursorPos="14" />
+      <name status="s54df93" import="i662472" active="yes">02 金色蜥蜴的信使</name>
+    </item>
+    <item handle="49c13972fa24a" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="1199" wordCount="53" paraCount="24" cursorPos="194" />
+      <name status="s54df93" import="i662472" active="yes">03 金箍微动破樊笼</name>
+    </item>
+    <item handle="4c1472eda097d" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="1484" wordCount="25" paraCount="12" cursorPos="3" />
+      <name status="s54df93" import="i662472" active="yes">04 真言疑云，龟壳藏踪</name>
+    </item>
+    <item handle="409a9545104e6" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="1752" wordCount="37" paraCount="24" cursorPos="16" />
+      <name status="s54df93" import="i662472" active="yes">05 逆咒瞒天，土拨替身</name>
+    </item>
+    <item handle="77d4cd2ace0b6" parent="c4a9a239c9ccb" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="6" wordCount="1" paraCount="0" cursorPos="0" />
+      <name status="s54df93" import="i662472" active="no">第一次的相遇</name>
     </item>
     <item handle="9574c6251d257" parent="None" root="9574c6251d257" order="1" type="ROOT" class="PLOT">
       <meta expanded="no" />
       <name status="s54df93" import="i662472">Plot</name>
     </item>
     <item handle="a54a193fbc58c" parent="None" root="a54a193fbc58c" order="2" type="ROOT" class="CHARACTER">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">Characters</name>
+    </item>
+    <item handle="d96a1ebf50b30" parent="a54a193fbc58c" root="a54a193fbc58c" order="0" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="yes" heading="H1" charCount="4" wordCount="1" paraCount="0" cursorPos="2" />
+      <name status="s54df93" import="i662472" active="yes">宠物天团</name>
+    </item>
+    <item handle="efcb6725f9a68" parent="a54a193fbc58c" root="a54a193fbc58c" order="1" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="653" wordCount="12" paraCount="5" cursorPos="678" />
+      <name status="s54df93" import="i662472" active="yes">西游众神</name>
     </item>
     <item handle="95f33353c331f" parent="None" root="95f33353c331f" order="3" type="ROOT" class="ARCHIVE">
       <meta expanded="no" />
       <name status="s54df93" import="i662472">Archive</name>
     </item>
+    <item handle="46a1803310578" parent="95f33353c331f" root="95f33353c331f" order="0" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+      <meta expanded="no" heading="H0" charCount="0" wordCount="0" paraCount="0" cursorPos="0" />
+      <name status="s54df93" import="i662472" active="yes">三部曲</name>
+    </item>
     <item handle="ab032525a499c" parent="None" root="ab032525a499c" order="4" type="ROOT" class="TRASH">
       <meta expanded="no" />
       <name status="s54df93" import="i662472">Trash</name>
+    </item>
+    <item handle="528f8233c37cb" parent="ab032525a499c" root="ab032525a499c" order="0" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="490" wordCount="29" paraCount="23" cursorPos="543" />
+      <name status="s54df93" import="i662472" active="yes">00 引子</name>
+    </item>
+    <item handle="5d0ff8e47d0c1" parent="ab032525a499c" root="ab032525a499c" order="1" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="1819" wordCount="51" paraCount="17" cursorPos="1857" />
+      <name status="s54df93" import="i662472" active="yes">01 0和1的枷锁，桃花香的悸动</name>
     </item>
   </content>
 </novelWriterXML>

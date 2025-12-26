@@ -1,0 +1,69 @@
+{
+  "novelWriter.guiOptions": {
+    "GuiManuscript": {
+      "winWidth": 674,
+      "winHeight": 500,
+      "optsWidth": 221,
+      "viewWidth": 418,
+      "listHeight": 146,
+      "detailsHeight": 204,
+      "detailsWidth": 100,
+      "detailsExpanded": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "showNewPage": true
+    },
+    "GuiDocViewerPanel": {
+      "colWidths": {
+        "CHARACTER": [132, 132, 132, 132],
+        "PLOT": [132, 132, 132, 132],
+        "WORLD": [132, 132, 132, 132],
+        "TIMELINE": [132, 132, 132, 132],
+        "OBJECT": [132, 132, 132, 132],
+        "ENTITY": [132, 132, 132, 132],
+        "CUSTOM": [132, 132, 132, 132]
+      },
+      "hideInactive": false
+    },
+    "GuiOutlineDetails": {
+      "detailsWidth": 977,
+      "tagsWidth": 884
+    },
+    "GuiOutline": {
+      "columnState": {
+        "TITLE": [false, 266],
+        "LEVEL": [true, 53],
+        "LABEL": [false, 200],
+        "LINE": [true, 53],
+        "STATUS": [true, 133],
+        "CCOUNT": [true, 66],
+        "WCOUNT": [false, 66],
+        "PCOUNT": [false, 66],
+        "POV": [false, 133],
+        "FOCUS": [true, 133],
+        "CHAR": [false, 133],
+        "PLOT": [false, 133],
+        "TIME": [true, 133],
+        "WORLD": [false, 133],
+        "OBJECT": [true, 133],
+        "ENTITY": [true, 133],
+        "CUSTOM": [true, 133],
+        "STORY": [true, 133],
+        "MENTION": [true, 133],
+        "SYNOP": [false, 733]
+      }
+    },
+    "GuiNovelView": {
+      "lastCol": "HIDDEN",
+      "lastColSize": 25
+    },
+    "GuiDocSplit": {
+      "spLevel": 3,
+      "intoFolder": true,
+      "docHierarchy": true
+    }
+  }
+}

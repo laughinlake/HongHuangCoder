@@ -1,0 +1,76 @@
+{
+  "novelWriter.tagsIndex": {},
+  "novelWriter.itemIndex": {
+    "785085c761654": {
+      "headings": {
+        "T0001": {"level": "H1", "title": "\u6d2a\u8352\u4ee3\u7801\u67b6\u6784\u5e08", "line": 7, "tag": "", "cCount": 28, "wCount": 5, "pCount": 2, "synopsis": ""}
+      }
+    },
+    "528f8233c37cb": {
+      "headings": {
+        "T0001": {"level": "H3", "title": "\u5f15\u5b50 \u795e\u8bdd\u7eaa\u5143\u7684\u53ec\u5524", "line": 1, "tag": "", "cCount": 490, "wCount": 29, "pCount": 23, "synopsis": ""}
+      }
+    },
+    "5d0ff8e47d0c1": {
+      "headings": {
+        "T0001": {"level": "H3", "title": "\u7b2c1\u7ae0\uff1a0\u548c1\u7684\u67b7\u9501\uff0c\u6843\u82b1\u9999\u7684\u60b8\u52a8", "line": 1, "tag": "", "cCount": 1819, "wCount": 51, "pCount": 17, "synopsis": ""}
+      }
+    },
+    "0473edfa83de0": {
+      "headings": {
+        "T0001": {"level": "H2", "title": "\u65b0\u7ae0\u8282", "line": 1, "tag": "", "cCount": 635, "wCount": 12, "pCount": 6, "synopsis": ""}
+      }
+    },
+    "77d4cd2ace0b6": {
+      "headings": {
+        "T0001": {"level": "H3", "title": "\u7b2c\u4e00\u6b21\u7684\u76f8\u9047", "line": 1, "tag": "", "cCount": 6, "wCount": 1, "pCount": 0, "synopsis": ""}
+      }
+    },
+    "efcb6725f9a68": {
+      "headings": {
+        "T0001": {"level": "H1", "title": "\u897f\u6e38\u4f17\u795e", "line": 1, "tag": "", "cCount": 4, "wCount": 1, "pCount": 0, "synopsis": ""},
+        "T0002": {"level": "H3", "title": "\u5929\u5ead\u7684\u67b6\u6784", "line": 3, "tag": "", "cCount": 649, "wCount": 11, "pCount": 5, "synopsis": ""}
+      }
+    },
+    "d96a1ebf50b30": {
+      "headings": {
+        "T0001": {"level": "H1", "title": "\u5ba0\u7269\u5929\u56e2", "line": 1, "tag": "", "cCount": 4, "wCount": 1, "pCount": 0, "synopsis": ""}
+      }
+    },
+    "46a1803310578": {
+      "headings": {
+        "T0000": {"level": "H0", "title": "", "line": 0, "tag": "", "cCount": 0, "wCount": 0, "pCount": 0, "synopsis": ""}
+      }
+    },
+    "3ff3a0ce02ec4": {
+      "headings": {
+        "T0001": {"level": "H2", "title": "\u7b2c\u4e8c\u7ae0 \u91d1\u8272\u8725\u8734\u7684\u4fe1\u4f7f", "line": 1, "tag": "", "cCount": 1454, "wCount": 41, "pCount": 22, "synopsis": ""}
+      }
+    },
+    "08bb43c25847b": {
+      "headings": {
+        "T0001": {"level": "H2", "title": "\u7b2c\u4e00\u7ae0\uff1a0\u548c1\u7684\u67b7\u9501\uff0c\u6843\u82b1\u9999\u7684\u60b8\u52a8", "line": 1, "tag": "", "cCount": 1819, "wCount": 51, "pCount": 17, "synopsis": ""}
+      }
+    },
+    "7e38fb87d5690": {
+      "headings": {
+        "T0001": {"level": "H2", "title": "\u5f15\u5b50 \u795e\u8bdd\u7eaa\u5143\u7684\u53ec\u5524", "line": 1, "tag": "", "cCount": 490, "wCount": 29, "pCount": 23, "synopsis": ""}
+      }
+    },
+    "49c13972fa24a": {
+      "headings": {
+        "T0001": {"level": "H2", "title": "\u7b2c\u4e09\u7ae0 \u91d1\u7b8d\u5fae\u52a8\u7834\u6a0a\u7b3c", "line": 1, "tag": "", "cCount": 1199, "wCount": 53, "pCount": 24, "synopsis": ""}
+      }
+    },
+    "4c1472eda097d": {
+      "headings": {
+        "T0001": {"level": "H2", "title": "\u7b2c\u56db\u7ae0 \u771f\u8a00\u7591\u4e91\uff0c\u9f9f\u58f3\u85cf\u8e2a", "line": 1, "tag": "", "cCount": 1484, "wCount": 25, "pCount": 12, "synopsis": ""}
+      }
+    },
+    "409a9545104e6": {
+      "headings": {
+        "T0001": {"level": "H2", "title": "\u7b2c\u4e94\u7ae0 \u9006\u5492\u7792\u5929\uff0c\u571f\u62e8\u66ff\u8eab", "line": 1, "tag": "", "cCount": 1752, "wCount": 37, "pCount": 24, "synopsis": ""}
+      }
+    }
+  }
+}
