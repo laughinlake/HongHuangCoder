@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2025-12-30 03:20:42">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="3" autoCount="545" editTime="353033">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2025-12-31 05:32:25">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="3" autoCount="667" editTime="447335">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>en_GB</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">3c9b7eb4a0672</entry>
+      <entry key="editor">0473edfa83de0</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="35" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="36" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="44" novelWords="3111" notesWords="13">
+  <content items="45" novelWords="3265" notesWords="13">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">Novel</name>
@@ -42,7 +42,7 @@
       <name status="s54df93" import="i662472">XiYou</name>
     </item>
     <item handle="0473edfa83de0" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H2" charCount="5321" wordCount="136" paraCount="17" cursorPos="4867" />
+      <meta expanded="yes" heading="H2" charCount="5723" wordCount="152" paraCount="19" cursorPos="4365" />
       <name status="s54df93" import="i662472" active="yes">章节目录</name>
     </item>
     <item handle="7e38fb87d5690" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -78,66 +78,70 @@
       <name status="s54df93" import="i662472" active="yes">第七章 洞开见故人 欢语满洞天</name>
     </item>
     <item handle="84fe2d9d78b92" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H2" charCount="1111" wordCount="24" paraCount="19" cursorPos="377" />
-      <name status="s54df93" import="i662472" active="yes">第八章 夜话・蟠桃核里的旧代码</name>
+      <meta expanded="yes" heading="H2" charCount="1111" wordCount="24" paraCount="19" cursorPos="18" />
+      <name status="s54df93" import="i662472" active="yes">第八章 夜话・水帘洞的物流终端</name>
     </item>
     <item handle="38a4ac3e2101f" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3091" wordCount="52" paraCount="39" cursorPos="3175" />
+      <meta expanded="no" heading="H2" charCount="3091" wordCount="52" paraCount="39" cursorPos="1010" />
       <name status="s54df93" import="i662472" active="yes">第九章 闯营・桃花香里旧相逢</name>
     </item>
     <item handle="5026bd8ff2484" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2521" wordCount="39" paraCount="22" cursorPos="2567" />
+      <meta expanded="no" heading="H2" charCount="3543" wordCount="65" paraCount="38" cursorPos="3183" />
       <name status="s54df93" import="i662472" active="yes">第十章（上） 篝火议事・花果山核心班子就位</name>
     </item>
     <item handle="496fa250009ce" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4101" wordCount="46" paraCount="37" cursorPos="1792" />
+      <meta expanded="no" heading="H2" charCount="5066" wordCount="68" paraCount="47" cursorPos="4176" />
       <name status="s54df93" import="i662472" active="yes">第十章（下） 月下约定・取经归来再启工</name>
     </item>
     <item handle="af6ff8a93b470" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2468" wordCount="47" paraCount="35" cursorPos="301" />
+      <meta expanded="no" heading="H2" charCount="2474" wordCount="51" paraCount="34" cursorPos="2549" />
       <name status="s54df93" import="i662472" active="yes">第十一章 晴光破晓・巡山启途</name>
     </item>
     <item handle="7e4011c4bb28c" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3566" wordCount="46" paraCount="35" cursorPos="1886" />
+      <meta expanded="no" heading="H2" charCount="2068" wordCount="62" paraCount="35" cursorPos="2149" />
       <name status="s54df93" import="i662472" active="yes">第十二章 第一日 沧溟忆旧・石畔潮声（日篇）</name>
     </item>
     <item handle="ff4fa2ed6bc30" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="15" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3677" wordCount="124" paraCount="53" cursorPos="901" />
+      <meta expanded="no" heading="H2" charCount="3961" wordCount="135" paraCount="64" cursorPos="3975" />
       <name status="s54df93" import="i662472" active="yes">第十三章 第一日 灯下旧痕·日志谜章（夜篇）</name>
     </item>
-    <item handle="3c9b7eb4a0672" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="16" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3136" wordCount="94" paraCount="36" cursorPos="3114" />
-      <name status="s54df93" import="i662472" active="yes">第十四章 第二日 晨露沾衣·基建夯土（日篇）</name>
-    </item>
-    <item handle="d99c0a5984ddf" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="17" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2869" wordCount="55" paraCount="38" cursorPos="2952" />
+    <item handle="d99c0a5984ddf" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="16" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="2869" wordCount="55" paraCount="38" cursorPos="2139" />
       <name status="s54df93" import="i662472" active="yes">第十五章 第二日 星垂平野·桃下私语（夜篇）</name>
     </item>
-    <item handle="a2fd44563a73b" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="18" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H2" charCount="38430" wordCount="817" paraCount="508" cursorPos="39563" />
-      <name status="s54df93" import="i662472" active="yes">完整版</name>
+    <item handle="3c9b7eb4a0672" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="17" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3726" wordCount="103" paraCount="46" cursorPos="3630" />
+      <name status="s54df93" import="i662472" active="yes">第十四章 第二日 晨露沾衣·基建夯土（日篇）v1</name>
     </item>
-    <item handle="71697362c360b" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="19" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="69c85b5ad3580" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="18" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="31" wordCount="9" paraCount="2" cursorPos="28" />
+      <name status="s54df93" import="i662472" active="yes">第十六章 第三日・日：灵植园的月露与桃香</name>
+    </item>
+    <item handle="a2fd44563a73b" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="19" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="yes" heading="H2" charCount="36566" wordCount="858" paraCount="510" cursorPos="37047" />
+      <name status="s54df93" import="i662472" active="yes">完整版 1</name>
+    </item>
+    <item handle="71697362c360b" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="20" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="18706" wordCount="699" paraCount="39" cursorPos="2370" />
       <name status="s54df93" import="i662472" active="yes">花果山20个日夜</name>
     </item>
-    <item handle="16d81e68a0249" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="20" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="16d81e68a0249" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="21" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="829" wordCount="18" paraCount="1" cursorPos="844" />
       <name status="s54df93" import="i662472" active="yes">一桃定情缘</name>
     </item>
-    <item handle="0bd40b30b92eb" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="21" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="0bd40b30b92eb" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="22" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="652" wordCount="34" paraCount="2" cursorPos="23" />
       <name status="s54df93" import="i662472" active="yes">取经日常・嘎巴豆立功记</name>
     </item>
-    <item handle="a747a1b5b5590" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="22" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="a747a1b5b5590" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="23" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1104" wordCount="44" paraCount="1" cursorPos="1124" />
       <name status="s54df93" import="i662472" active="yes">取经后环游三界计划书</name>
     </item>
-    <item handle="e332f87dfb01a" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="23" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="e332f87dfb01a" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="24" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1640" wordCount="49" paraCount="14" cursorPos="1104" />
       <name status="s54df93" import="i662472" active="yes">第十章 取经前奏・长安来的风</name>
     </item>
-    <item handle="2ac1bec84da0e" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="24" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="2ac1bec84da0e" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="25" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="3" wordCount="1" paraCount="0" cursorPos="0" />
       <name status="s54df93" import="i662472" active="yes">小章鱼在他耳畔发出细微的、满足的吐泡声。东海的潮声、仙石的轮廓，都被他们远远抛在身后。巡山第一日，在夕阳的余晖中安然结束。 悟空牵着紫霞，走在回水帘洞的山路上。山风送来桃林的香气，远处传来归巢猴群的嬉闹。一切都很美好，很平静。</name>
     </item>
