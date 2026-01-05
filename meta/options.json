@@ -1,12 +1,12 @@
 {
   "novelWriter.guiOptions": {
     "GuiManuscript": {
-      "winWidth": 674,
-      "winHeight": 500,
+      "winWidth": 1644,
+      "winHeight": 924,
       "optsWidth": 221,
-      "viewWidth": 418,
-      "listHeight": 146,
-      "detailsHeight": 204,
+      "viewWidth": 1388,
+      "listHeight": 321,
+      "detailsHeight": 453,
       "detailsWidth": 100,
       "detailsExpanded": [
         false,
@@ -34,26 +34,26 @@
     },
     "GuiOutline": {
       "columnState": {
-        "TITLE": [false, 266],
-        "LEVEL": [true, 53],
+        "TITLE": [false, 265],
+        "LEVEL": [true, 52],
         "LABEL": [false, 200],
-        "LINE": [true, 53],
-        "STATUS": [true, 133],
-        "CCOUNT": [true, 66],
-        "WCOUNT": [false, 66],
-        "PCOUNT": [false, 66],
-        "POV": [false, 133],
-        "FOCUS": [true, 133],
-        "CHAR": [false, 133],
-        "PLOT": [false, 133],
-        "TIME": [true, 133],
-        "WORLD": [false, 133],
-        "OBJECT": [true, 133],
-        "ENTITY": [true, 133],
-        "CUSTOM": [true, 133],
-        "STORY": [true, 133],
-        "MENTION": [true, 133],
-        "SYNOP": [false, 733]
+        "LINE": [true, 52],
+        "STATUS": [true, 132],
+        "CCOUNT": [true, 65],
+        "WCOUNT": [false, 65],
+        "PCOUNT": [false, 65],
+        "POV": [false, 132],
+        "FOCUS": [true, 132],
+        "CHAR": [false, 132],
+        "PLOT": [false, 132],
+        "TIME": [true, 132],
+        "WORLD": [false, 132],
+        "OBJECT": [true, 132],
+        "ENTITY": [true, 132],
+        "CUSTOM": [true, 132],
+        "STORY": [true, 132],
+        "MENTION": [true, 132],
+        "SYNOP": [false, 742]
       }
     },
     "GuiNovelView": {
@@ -64,6 +64,43 @@
       "spLevel": 3,
       "intoFolder": true,
       "docHierarchy": true
+    },
+    "GuiProjectSettings": {
+      "winWidth": 856,
+      "winHeight": 505,
+      "statusColW": 128,
+      "importColW": 128,
+      "replaceColW": 128
+    },
+    "GuiNovelDetails": {
+      "winWidth": 548,
+      "winHeight": 400,
+      "novelRoot": "c4a9a239c9ccb",
+      "widthCol0": 200,
+      "widthCol1": 60,
+      "widthCol2": 60,
+      "widthCol3": 60,
+      "widthCol4": 88,
+      "wordsPerPage": 350,
+      "countFrom": 1,
+      "clearDouble": true
+    },
+    "GuiWritingStats": {
+      "winWidth": 549,
+      "winHeight": 500,
+      "widthCol0": 180,
+      "widthCol1": 80,
+      "widthCol2": 80,
+      "widthCol3": 80,
+      "sortCol": 0,
+      "sortOrder": 1,
+      "incNovel": true,
+      "incNotes": true,
+      "hideZeros": true,
+      "hideNegative": false,
+      "groupByDay": false,
+      "showIdleTime": false,
+      "histMax": 2000
     }
   }
 }
