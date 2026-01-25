@@ -34,14 +34,14 @@
     },
     "GuiOutline": {
       "columnState": {
-        "TITLE": [false, 265],
+        "TITLE": [false, 264],
         "LEVEL": [true, 52],
         "LABEL": [false, 200],
         "LINE": [true, 52],
         "STATUS": [true, 132],
-        "CCOUNT": [true, 65],
-        "WCOUNT": [false, 65],
-        "PCOUNT": [false, 65],
+        "CCOUNT": [true, 64],
+        "WCOUNT": [false, 64],
+        "PCOUNT": [false, 64],
         "POV": [false, 132],
         "FOCUS": [true, 132],
         "CHAR": [false, 132],
@@ -53,7 +53,7 @@
         "CUSTOM": [true, 132],
         "STORY": [true, 132],
         "MENTION": [true, 132],
-        "SYNOP": [false, 742]
+        "SYNOP": [false, 741]
       }
     },
     "GuiNovelView": {

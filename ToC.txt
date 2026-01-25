@@ -3,9 +3,38 @@ Table of Contents
 =================
 
 File Name                  Class      Layout    Document Label
-------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 content/785085c761654.nwd  NOVEL      DOCUMENT  Title Page
-content/0473edfa83de0.nwd  NOVEL      DOCUMENT  章节目录
+content/0473edfa83de0.nwd  NOVEL      NOTE      章节大纲概要
+content/e5d7d5eade009.nwd  NOVEL      DOCUMENT  章节大纲详细设计示例
+content/c6f8e37ec1a78.nwd  NOVEL      DOCUMENT  第 22 章 日篇 商业模块・月宫品鉴会：七仙女种草 + 敲定渠道
+content/ebeda5a3f0bfc.nwd  NOVEL      DOCUMENT  方寸山篇四章大纲
+content/da1c9b8cf4391.nwd  NOVEL      DOCUMENT  隐退关门 和花果山的 “开源传承”
+content/b909eb2ea6948.nwd  NOVEL      DOCUMENT  三界平台架构
+content/9f10a291ba5a6.nwd  NOVEL      DOCUMENT  第 X 章 斜月三星逢故师，仙桃蜜酒叩山门
+content/b9d9c554265b3.nwd  NOVEL      DOCUMENT  X+1章 三星洞内论灵算 鸿蒙本源话前尘
+content/a1fad30cae4ef.nwd  NOVEL      DOCUMENT  X+2章 斜月崖前双习武 剑符声里两心通
+content/da1150f67202a.nwd  NOVEL      DOCUMENT  X+3 方寸崖头辞师礼 鸿蒙囊里藏珍奇
+content/c1e83fff11e5c.nwd  NOVEL      DOCUMENT  1
+content/e1a904e4ffceb.nwd  NOVEL      DOCUMENT  2
+content/f4aa111a68b54.nwd  NOVEL      DOCUMENT  新文档
+content/d353ab7fd9b89.nwd  NOVEL      NOTE      悟空东海寻根
+content/e332f87dfb01a.nwd  NOVEL      DOCUMENT  第十章 取经前奏・长安来的风
+content/5328e96b297bd.nwd  NOVEL      DOCUMENT  章节大纲
+content/116180f77ca1e.nwd  NOVEL      DOCUMENT  扩建细节
+content/e673a9ee0deb9.nwd  NOVEL      DOCUMENT  第一章：红衣僧人与送斋少妇
+content/611c7547494dd.nwd  NOVEL      DOCUMENT  第二章：寻女老妇与被掳的徒弟
+content/c345fc6f725b1.nwd  NOVEL      DOCUMENT  第三章：白发老翁与红衣女儿身
+content/d23049bbd8e14.nwd  NOVEL      DOCUMENT  章节大纲
+content/542fbc515af6d.nwd  NOVEL      DOCUMENT  四章目录
+content/ecb7899fb8be9.nwd  NOVEL      DOCUMENT  IT撒糖
+content/00b4542d03315.nwd  NOVEL      DOCUMENT  管理系统升级三部曲
+content/eb211e84fb721.nwd  NOVEL      DOCUMENT  练兵
+content/df1fd50d22f7b.nwd  NOVEL      NOTE      大纲梗概2
+content/a767e59ba4bc9.nwd  NOVEL      DOCUMENT  明线-暗线-冲突线
+content/c067e9ba224cb.nwd  NOVEL      NOTE      篝火碰头・旧忆温故
+content/2116b8f8705da.nwd  NOVEL      NOTE      篝火碰头・旧忆温故 细化大纲
+content/07b271e5e8039.nwd  NOVEL      DOCUMENT  200章
 content/7e38fb87d5690.nwd  NOVEL      DOCUMENT  引子 神话纪元的召唤
 content/08bb43c25847b.nwd  NOVEL      DOCUMENT  第一章 0和1的枷锁，桃花香的悸动
 content/3ff3a0ce02ec4.nwd  NOVEL      DOCUMENT  第二章 金色蜥蜴的信使
@@ -14,59 +43,64 @@ content/4c1472eda097d.nwd  NOVEL      DOCUMENT  第四章 真言疑云，龟壳�
 content/409a9545104e6.nwd  NOVEL      DOCUMENT  第五章 逆咒瞒天，土拨替身
 content/a5cb3a3d44724.nwd  NOVEL      DOCUMENT  第六章 归山・荒林里的二进制纹路
 content/6243431507fde.nwd  NOVEL      DOCUMENT  第七章 洞开见故人 欢语满洞天
+content/e83233901d125.nwd  NOVEL      DOCUMENT  第八章 桃粥醉醒・石畔寻踪
 content/84fe2d9d78b92.nwd  NOVEL      DOCUMENT  第八章 夜话・水帘洞的物流终端
 content/38a4ac3e2101f.nwd  NOVEL      DOCUMENT  第九章 闯营・桃花香里旧相逢
 content/5026bd8ff2484.nwd  NOVEL      DOCUMENT  第十章（上） 篝火议事・花果山核心班子就位
-content/496fa250009ce.nwd  NOVEL      DOCUMENT  第十章（下） 月下约定・取经归来再启工
-content/af6ff8a93b470.nwd  NOVEL      DOCUMENT  第十一章 晴光破晓・巡山启途
-content/7e4011c4bb28c.nwd  NOVEL      DOCUMENT  第十二章 第一日 沧溟忆旧・石畔潮声（日篇）
-content/ff4fa2ed6bc30.nwd  NOVEL      DOCUMENT  第十三章 第一日 灯下旧痕·日志谜章（夜篇）
-content/3c9b7eb4a0672.nwd  NOVEL      DOCUMENT  第十四章 第二日 晨露沾衣·基建夯土（日篇）v1
-content/d99c0a5984ddf.nwd  NOVEL      DOCUMENT  第十五章 第二日 星垂平野·桃下私语（夜篇）
-content/69c85b5ad3580.nwd  NOVEL      DOCUMENT  第十六章 第三日・日：灵植园的月露与桃香
+content/496fa250009ce.nwd  NOVEL      DOCUMENT  第十章（下）蓝图初现・月下约定
+content/af6ff8a93b470.nwd  NOVEL      DOCUMENT  第十一章 石扉初启・巡山启途
+content/7e4011c4bb28c.nwd  NOVEL      DOCUMENT  第十二章 石扉初启・凝思旧忆
+content/41146878d69d0.nwd  NOVEL      DOCUMENT  【彩蛋・一桃定情缘】
+content/ff4fa2ed6bc30.nwd  NOVEL      DOCUMENT  第十三章 石扉初启・日志谜章
+content/3c9b7eb4a0672.nwd  NOVEL      DOCUMENT  第十四章 灵渠数典・渠网新筑
+content/d99c0a5984ddf.nwd  NOVEL      DOCUMENT  第十五章 灵渠数典・二进制忆
+content/69c85b5ad3580.nwd  NOVEL      DOCUMENT  第十六章 仓廪玄机・失窃疑云
+content/262bfd6eea889.nwd  NOVEL      DOCUMENT  第十七章 仓廪玄机・库房焕新
+content/3d18ec41af81e.nwd  NOVEL      DOCUMENT  第十八章 仙桃树语・灵桃改良
+content/92ce05f7d03b2.nwd  NOVEL      DOCUMENT  第十九章 仙桃树语・蟠园旧梦
+content/8e0b522d062ce.nwd  NOVEL      DOCUMENT  第二十章 花果新耕・灵田双改
+content/c774a362afeaa.nwd  NOVEL      DOCUMENT  第二十一章 花果新耕・月宫探亲
+content/4cfb678c226d3.nwd  NOVEL      DOCUMENT  第二十二章 月上西楼・月宫品鉴会
+content/4811be59b1e61.nwd  NOVEL      DOCUMENT  第二十三章 月上西楼・桂树传仙音
+content/4e1616c58b90a.nwd  NOVEL      DOCUMENT  第二十四章 太白金星・云栈言梦
+content/175e7b427a5da.nwd  NOVEL      DOCUMENT  第二十五章 太白金星・温候弼马
+content/b11e9c3426fd7.nwd  NOVEL      DOCUMENT  第二十六章 御马监・残盏窥秘
+content/5c64cad625a8c.nwd  NOVEL      DOCUMENT  第二十七章 御马监・灵驹归山
+content/0e60007c583d5.nwd  NOVEL      DOCUMENT  第二十八章 水帘洞茶话・灵溪畔欢歌
+content/02431fb30e0ce.nwd  NOVEL      DOCUMENT  第二十九章 内部管理系统1.0・野生架构师的黑历史
+content/dadd6aea60705.nwd  NOVEL      DOCUMENT  第三十章 内部管理系统2.0・崩溃和重生
+content/6745dbd194871.nwd  NOVEL      DOCUMENT  第三十一章 算力告急・天庭监察使上门找茬
+content/a9a8b50ded6ae.nwd  NOVEL      DOCUMENT  第三十二章 薅秃广寒宫！小玉带货月桂来
+content/11890f250e7f3.nwd  NOVEL      DOCUMENT  第三十三章 双模基站通三界，魔性舞步测宽带
+content/f3a1a91532dc3.nwd  NOVEL      DOCUMENT  第三十四章 太阴灵石焕新计，算力集群镇山门
+content/174126e4f3288.nwd  NOVEL      DOCUMENT  第三十五章 强军策・花果山信息战初鸣
+content/3aba72a434c16.nwd  NOVEL      DOCUMENT  【彩蛋・马猴的练兵往事】
+content/5cf93b438294d.nwd  NOVEL      DOCUMENT  第三十六章 强军策・明阵暗藏挫黑熊
+content/1fba733e83822.nwd  NOVEL      DOCUMENT  第三十七章 强军策・锻火造器备奇袭
+content/f551c40666730.nwd  NOVEL      DOCUMENT  第三十八章 强军策・黑风岭特战显神威
+content/64c461d703315.nwd  NOVEL      DOCUMENT  第三十九章 强军策・三军军演镇四方
+content/314e55a4fa8cd.nwd  NOVEL      DOCUMENT  第四十章 聚仙坊里・小市初兴
+content/ee4690b54dc28.nwd  NOVEL      DOCUMENT  第四十一章 掌中符文・海客来寻
+content/eb0e72acfbb30.nwd  NOVEL      DOCUMENT  第四十二章 东海涡乱定海局 碧波初平议商途
+content/e72ed010a108b.nwd  NOVEL      DOCUMENT  第四十三章 龙宫宴叙前尘事 盟定东海共通商
+content/53eb90e0d78d9.nwd  NOVEL      DOCUMENT  【彩蛋・小玄的初次相遇】
+content/b068bd077972e.nwd  NOVEL      DOCUMENT  第四十四章 归山安营 辞寨赴方寸
+content/46309625ded39.nwd  NOVEL      DOCUMENT  第四十五章 祥云叩方寸 棋盘解语入山门
 content/1d7b48157de63.nwd  NOVEL      DOCUMENT  完整版
-content/a2fd44563a73b.nwd  NOVEL      DOCUMENT  完整版 old
-content/e332f87dfb01a.nwd  NOVEL      DOCUMENT  第十章 取经前奏・长安来的风
-content/9f11989164003.nwd  NOVEL      DOCUMENT  终章彩蛋：代码库里的秘密
+content/16d81e68a0249.nwd  NOVEL      NOTE      彩蛋1: 一桃定情缘
 content/9f737543b5807.nwd  NOVEL      DOCUMENT  完结彩蛋
+content/9f11989164003.nwd  NOVEL      DOCUMENT  终章彩蛋：代码库里的秘密
+content/7d1ea3c4d1fba.nwd  NOVEL      DOCUMENT  电话
+content/1bfee7ec87649.nwd  NOVEL      DOCUMENT  新文档
+content/6234f70f1b270.nwd  NOVEL      DOCUMENT  新文档
+content/0dc0bd2b21b0e.nwd  NOVEL      DOCUMENT  46 章 桃林院初栖，师门队友初组队（认师门 + 群像登场 + 解锁基础练术场）
+content/b23ebd5b4a9ed.nwd  NOVEL      DOCUMENT  47 章 晨课练控韵，灵韵迷阵初闯关（基础练术 + 首次组队闯关 + 撸宝传音玉）
+content/ddf873ef3c9c3.nwd  NOVEL      DOCUMENT  48 章 大师兄归山，洪荒灵韵初揭秘（大咖师兄彩蛋 + 进阶练术 + 论道洪荒）
+content/b9813a0ff6844.nwd  NOVEL      DOCUMENT  49 章 双人战比斗，开源灵韵初悟透（师门比斗 + 核心论道 + 撸宝护心镜）
+content/63d127a840091.nwd  NOVEL      DOCUMENT  50 章 方寸寻灵植，三界灵韵初探底（师门任务 + 野外练术 + 撸宝三界分布图）
+content/0c1c42b51509f.nwd  NOVEL      DOCUMENT  51 章 进阶练仙法，取经短板全补齐（专属定制学艺 + 论道取经意义 + 小撸宝技能符）
+content/ed27789f06219.nwd  NOVEL      DOCUMENT  52 章 藏宝阁终撸宝，辞师归山启取经（终极撸宝 + 菩提嘱托 + 承上启下）
 content/fe90354556a51.nwd  NOVEL      DOCUMENT  倒数1
-content/71697362c360b.nwd  PLOT       NOTE      花果山20个日夜
-content/16d81e68a0249.nwd  PLOT       NOTE      一桃定情缘
-content/0bd40b30b92eb.nwd  PLOT       NOTE      取经日常・嘎巴豆立功记
-content/a747a1b5b5590.nwd  PLOT       NOTE      取经后环游三界计划书
-content/6723593250b83.nwd  PLOT       NOTE      生死簿
-content/0a0c7150d3ba2.nwd  PLOT       NOTE      悟空的战术进阶路
-content/f13bde40ab247.nwd  PLOT       NOTE      假雷音寺之战
-content/bd43077dc8c42.nwd  PLOT       NOTE      星际柳梢雪趣
-content/ced1d7c62aeb0.nwd  PLOT       NOTE      番外・星雪初遇
-content/52b71d0109cf5.nwd  PLOT       NOTE      讨厌加讨厌
-content/cd8ffdee58a05.nwd  PLOT       NOTE      歌声为钥
-content/8e13dd1ba284b.nwd  PLOT       NOTE      偷桃天团
-content/a3b13d7552a4f.nwd  PLOT       NOTE      五指山前之战
-content/228236cc73f44.nwd  PLOT       NOTE      设计模式
-content/b8ab9acce9e53.nwd  PLOT       NOTE      病毒
-content/11abfb45090ec.nwd  PLOT       NOTE      救治
-content/5c698a14953e1.nwd  PLOT       NOTE      AI实现熵减
-content/7423188995b90.nwd  PLOT       NOTE      桃干的由来
-content/a3276018f87e8.nwd  PLOT       NOTE      蟠桃园
-content/5099a6cb4f586.nwd  PLOT       NOTE      日常互怼
-content/598bbb547316b.nwd  PLOT       NOTE      天庭攻打1
-content/d74350fd64cc8.nwd  PLOT       NOTE      大闹天宫感情升级线
-content/25c39d5c51f41.nwd  PLOT       NOTE      水帘洞
-content/c67252ea1e087.nwd  PLOT       NOTE      代码与古诗结合
-content/8102cc2643b10.nwd  PLOT       NOTE      玩乐场
-content/b2ed4976bb16b.nwd  PLOT       NOTE      默契
-content/e6f32f5330b08.nwd  PLOT       NOTE      古今胸罩
-content/6c1dad1694e26.nwd  PLOT       NOTE      蓝月星云与月光宝盒
-content/281dab47ed396.nwd  PLOT       NOTE      灵山灯盏里的吐槽大会
-content/8de8bc456a3cb.nwd  PLOT       NOTE      宝塔蹦迪记
-content/0932e8c7defa1.nwd  PLOT       NOTE      盗版正版谁厉害
-content/b9fc975d13a56.nwd  PLOT       NOTE      真香理论
-content/8469a3c43e918.nwd  PLOT       NOTE      第 439 章 量子干扰：紫霞裂
-content/c60ad734074a3.nwd  PLOT       NOTE      第440章 青霞冷眼观帝国
-content/1ceedb886be1a.nwd  PLOT       NOTE      第 501 章 算力撕裂三界壁
-content/fcc1e891e94fa.nwd  PLOT       NOTE      帝国崛起篇 番外：机架旁的仙果茶
-content/1b507c2ba06c0.nwd  PLOT       NOTE      定魂珠里的小醋精
 content/b4e108db1bbef.nwd  PLOT       NOTE      深夜代码夜 —— 悟空发现青霞子程序的那个晚上
 content/fc07fd8c5d0c3.nwd  PLOT       NOTE      如来禅理对决・最终名场面
 content/2eea3bdcaba43.nwd  PLOT       NOTE      终极名场面
@@ -74,35 +108,116 @@ content/237e05d11034c.nwd  PLOT       NOTE      花果山摸鱼
 content/49c841ef77917.nwd  PLOT       NOTE      狼狈归狼狈，发育不要停
 content/523ea77ec3d09.nwd  PLOT       NOTE      代码与月光的共鸣
 content/3a385a1f7a001.nwd  PLOT       NOTE      禅房争执与和解
-content/7010d2dc4d9e5.nwd  PLOT       NOTE      极简人物关系表
+content/6078e0d375daa.nwd  PLOT       NOTE      庭资源接口搭建场景
+content/201d8fc33a98b.nwd  PLOT       NOTE      绘制天庭架构图
+content/4244c3248846e.nwd  PLOT       NOTE      道生一
+content/0bd40b30b92eb.nwd  PLOT       NOTE      取经日常・嘎巴豆立功记
+content/6723593250b83.nwd  PLOT       NOTE      生死簿
+content/a747a1b5b5590.nwd  PLOT       NOTE      取经后环游三界计划书
+content/0a0c7150d3ba2.nwd  PLOT       NOTE      悟空的战术进阶路
+content/f13bde40ab247.nwd  PLOT       NOTE      假雷音寺之战
+content/fe0f895451939.nwd  PLOT       NOTE      日志终章・新篇序章
+content/11abfb45090ec.nwd  PLOT       NOTE      救治
+content/e6f32f5330b08.nwd  PLOT       NOTE      古今胸罩
+content/d74350fd64cc8.nwd  PLOT       NOTE      大闹天宫感情升级线
+content/7423188995b90.nwd  PLOT       NOTE      桃干的由来
+content/a3276018f87e8.nwd  PLOT       NOTE      蟠桃园
+content/25c39d5c51f41.nwd  PLOT       NOTE      水帘洞
+content/b9fc975d13a56.nwd  PLOT       NOTE      真香理论
+content/8102cc2643b10.nwd  PLOT       NOTE      玩乐场
+content/598bbb547316b.nwd  PLOT       NOTE      天庭攻打1
+content/cd8ffdee58a05.nwd  PLOT       NOTE      歌声为钥
+content/5099a6cb4f586.nwd  PLOT       NOTE      日常互怼
+content/8469a3c43e918.nwd  PLOT       NOTE      第 439 章 量子干扰：紫霞裂
+content/c60ad734074a3.nwd  PLOT       NOTE      第440章 青霞冷眼观帝国
+content/1ceedb886be1a.nwd  PLOT       NOTE      第 501 章 算力撕裂三界壁
+content/fcc1e891e94fa.nwd  PLOT       NOTE      帝国崛起篇 番外：机架旁的仙果茶
+content/a3b13d7552a4f.nwd  PLOT       NOTE      五指山前之战
+content/8e13dd1ba284b.nwd  PLOT       NOTE      偷桃天团
+content/b8ab9acce9e53.nwd  PLOT       NOTE      病毒
+content/281dab47ed396.nwd  PLOT       NOTE      灵山灯盏里的吐槽大会
+content/8de8bc456a3cb.nwd  PLOT       NOTE      宝塔蹦迪记
+content/0932e8c7defa1.nwd  PLOT       NOTE      盗版正版谁厉害
+content/c67252ea1e087.nwd  PLOT       NOTE      代码与古诗结合
+content/52b71d0109cf5.nwd  PLOT       NOTE      讨厌加讨厌
+content/228236cc73f44.nwd  PLOT       NOTE      设计模式
+content/ffe2895396590.nwd  PLOT       NOTE      九曲湖夜游
+content/7daa24eaa8e15.nwd  PLOT       NOTE      同心符
+content/ec31b9f2661ab.nwd  PLOT       NOTE      楔子・代码撞破洪荒天
+content/aea107ded5aa6.nwd  PLOT       NOTE      彩蛋解锁
+content/fb9e3c6754492.nwd  PLOT       NOTE      3.0?
+content/f7722c744eb26.nwd  PLOT       NOTE      争紫霞
+content/3750369998afb.nwd  PLOT       NOTE      花果山旧日记三则
+content/3515541089bb3.nwd  PLOT       NOTE      天道API攻防战
+content/f14d08864c955.nwd  PLOT       NOTE      宝剑认主
+content/8857e2f43680c.nwd  PLOT       NOTE      天马物流
+content/d535bf73291bf.nwd  PLOT       NOTE      世界破破烂烂，唯有小动物带来开心
+content/f6b95f51bb26f.nwd  PLOT       NOTE      模块化作战单元
+content/d3c86a8715354.nwd  PLOT       NOTE      月光信号塔
+content/87f1fb741dd11.nwd  PLOT       NOTE      灵识网络
+content/ffa3124704780.nwd  PLOT       NOTE      俺老孙到此一游
+content/97be8e7f0390b.nwd  PLOT       NOTE      花果山建设终章1
+content/31ac34b5891eb.nwd  PLOT       NOTE      新笔记
+content/314e7bc9992f4.nwd  PLOT       NOTE      紫霞学艺
+content/cdb24e59143b4.nwd  PLOT       NOTE      五指山 初见
+content/282bf165568b0.nwd  PLOT       NOTE      醋坛子翻了
+content/b930458557663.nwd  PLOT       NOTE      环游三界规划书
+content/5d2f659a724e4.nwd  PLOT       NOTE      四大洲
+content/2995c78bc1c1a.nwd  PLOT       NOTE      冰原天问
+content/49356843f9e86.nwd  PLOT       NOTE      日头坠东海 蝉鸣漫山涧
+content/651d43eaa2fb5.nwd  PLOT       NOTE      桃核炮轰巨灵神
+content/5cbf9b3977f23.nwd  PLOT       NOTE      灵山法会，逐佞肃佛
+content/38cb0c5a12d87.nwd  PLOT       NOTE      灵山终战，佛道更迭
+content/55aa2733ac0be.nwd  PLOT       NOTE      灵山终战・悟空鏖战如来
+content/07add1d70b545.nwd  PLOT       NOTE      剑鸣识心
+content/474a56611f5a6.nwd  PLOT       NOTE      花果山吐槽大会
+content/1d2bf0dca2611.nwd  PLOT       NOTE      宠物升级路线
+content/30a71a7468267.nwd  PLOT       NOTE      摆烂
+content/5ee869c4a90d8.nwd  PLOT       NOTE      古今牌
+content/2b91ee044ef2a.nwd  PLOT       NOTE      六耳猕猴的大数据防伪
+content/07d33dc059831.nwd  PLOT       NOTE      拥有过后的思念，比五百年的等待还磨人
+content/23f820dd22cf3.nwd  PLOT       NOTE      主角悟天道
 content/d6ef6268ac947.nwd  PLOT       NOTE      阐截之争
+content/7010d2dc4d9e5.nwd  PLOT       NOTE      极简人物关系表
 content/01937a94822da.nwd  PLOT       NOTE      小学生互怼
-content/976555ec0591c.nwd  PLOT       NOTE      粘粘乎乎
-content/48955e9ddbc2c.nwd  PLOT       NOTE      分离
-content/3316e588f902c.nwd  PLOT       NOTE      新笔记
 content/ea5d562339bfe.nwd  PLOT       NOTE      一秒齐人之福
+content/48955e9ddbc2c.nwd  PLOT       NOTE      分离
+content/b2ed4976bb16b.nwd  PLOT       NOTE      默契
+content/1b507c2ba06c0.nwd  PLOT       NOTE      定魂珠里的小醋精
+content/6c1dad1694e26.nwd  PLOT       NOTE      蓝月星云与月光宝盒
+content/be6297cdee54e.nwd  PLOT       NOTE      鸿钧讲坛
+content/e9379a8e9b128.nwd  PLOT       NOTE      二郎神
+content/60ee19fca1491.nwd  PLOT       NOTE      rom
+content/7bd3d630d3d16.nwd  PLOT       NOTE      山海经异兽对应
+content/976555ec0591c.nwd  PLOT       NOTE      粘粘乎乎
 content/d4d16c536f5d1.nwd  PLOT       NOTE      星球小妹妹
 content/3d17a6d4de8e1.nwd  PLOT       NOTE      星际迷幻魔方区
 content/3af6c18aea653.nwd  PLOT       NOTE      量子迁移和黑丝
 content/44ac162d816cd.nwd  PLOT       NOTE      星际星夜
-content/ffe2895396590.nwd  PLOT       NOTE      九曲湖夜游
-content/7daa24eaa8e15.nwd  PLOT       NOTE      同心符
-content/e9379a8e9b128.nwd  PLOT       NOTE      二郎神
-content/60ee19fca1491.nwd  PLOT       NOTE      rom
-content/7bd3d630d3d16.nwd  PLOT       NOTE      山海经异兽对应
-content/766af93c608ee.nwd  PLOT       NOTE      开卷诗
-content/c514ee7760182.nwd  PLOT       NOTE      爱江山更爱美人
-content/19e1a18f0cb5b.nwd  PLOT       NOTE      15s-2
-content/ab5defaa0ce24.nwd  PLOT       NOTE      武 Martial
-content/8749035fc21f3.nwd  PLOT       NOTE      一生所爱
+content/ced1d7c62aeb0.nwd  PLOT       NOTE      番外・星雪初遇
+content/bd43077dc8c42.nwd  PLOT       NOTE      星际柳梢雪趣
+content/5c698a14953e1.nwd  PLOT       NOTE      AI实现熵减
 content/f5083f25caa27.nwd  PLOT       NOTE      我独行在天地间
+content/ab5defaa0ce24.nwd  PLOT       NOTE      武 Martial
+content/19e1a18f0cb5b.nwd  PLOT       NOTE      15s-2
+content/c514ee7760182.nwd  PLOT       NOTE      爱江山更爱美人
 content/ab200b85c2004.nwd  PLOT       NOTE      金光神咒
+content/8749035fc21f3.nwd  PLOT       NOTE      一生所爱
+content/766af93c608ee.nwd  PLOT       NOTE      开卷诗
+content/20ede91b57c7c.nwd  PLOT       NOTE      乘黄
 content/34ab2cb1d30c7.nwd  PLOT       NOTE      桃树下的量子金箍
 content/7ab7a42e71598.nwd  PLOT       NOTE      阿石的苦海奇遇
 content/05bc097322d4d.nwd  PLOT       NOTE      宇宙渡有缘人
 content/a39e9407c6c27.nwd  PLOT       NOTE      学艺
+content/678bc9295eaa4.nwd  PLOT       NOTE      通天塔
+content/fa3d5439c3882.nwd  PLOT       NOTE      阿基米德螺旋
+content/6618627c9a33c.nwd  PLOT       NOTE      古渡禅语，罪迹难销
 content/5fc4d878405c0.nwd  PLOT       NOTE      外星生命与宇宙碰撞
 content/e54fc8a99c442.nwd  PLOT       NOTE      神话劫难
+content/8b79b3f8b59de.nwd  PLOT       NOTE      陷阱
+content/8442f78029c6e.nwd  PLOT       NOTE      时空流速
+content/8f1961602789a.nwd  PLOT       NOTE      英雄本色分析
+content/d9212c1c1e376.nwd  PLOT       NOTE      碟中谍
 content/93fea3cf9538d.nwd  PLOT       NOTE      测不准原理
 content/907ed0889f709.nwd  PLOT       NOTE      物理常数的本质
 content/72033eae064b2.nwd  PLOT       NOTE      哈密顿算符
@@ -126,8 +241,16 @@ content/0dd068a737570.nwd  PLOT       NOTE      思考的快与慢
 content/1f80301cd46f7.nwd  PLOT       NOTE      蒙特卡洛树
 content/3214eb6a24d24.nwd  PLOT       NOTE      AI原生架构
 content/5bf0c7dfcaeab.nwd  PLOT       NOTE      P = NP
-content/8f1961602789a.nwd  PLOT       NOTE      英雄本色分析
-content/d9212c1c1e376.nwd  PLOT       NOTE      碟中谍
+content/cd6a695150293.nwd  PLOT       NOTE      卷积神经网络
+content/7f8c4a0241e25.nwd  PLOT       NOTE      留白
+content/40555041ed4fe.nwd  PLOT       NOTE      起伏
+content/2c5efac130130.nwd  PLOT       NOTE      伏笔
+content/8933a6e7a7283.nwd  PLOT       NOTE      反差萌
+content/e2aa7825f7883.nwd  PLOT       NOTE      生活气息
+content/af299028e4e1d.nwd  PLOT       NOTE      基础技巧
+content/12384008a1e60.nwd  PLOT       NOTE      三分钟说一个完整的故事
+content/805d849fcd924.nwd  PLOT       NOTE      意外人公式
+content/a001b4d2802bb.nwd  PLOT       NOTE      金总的小说
 content/d96a1ebf50b30.nwd  CHARACTER  NOTE      宠物天团
 content/efcb6725f9a68.nwd  CHARACTER  NOTE      西游众神
 content/73f1a442a182b.nwd  CHARACTER  NOTE      紫霞
@@ -155,6 +278,11 @@ content/1b4361c583c6e.nwd  CHARACTER  NOTE      黄袍怪
 content/b5c4b6f53840c.nwd  CHARACTER  NOTE      太上老君
 content/04ee49eee5985.nwd  CHARACTER  NOTE      四圣
 content/cae0b10ce2332.nwd  CHARACTER  NOTE      车迟国三妖
+content/3fdb476c7f50b.nwd  CHARACTER  NOTE      昵称
+content/89d252aa7c915.nwd  CHARACTER  NOTE      口头禅
+content/04de0eed81038.nwd  CHARACTER  NOTE      破妄子
+content/50b2bfa51603c.nwd  CHARACTER  NOTE      黑熊精
+content/e03f97876b062.nwd  CHARACTER  NOTE      核舟记（量子须弥核舟）
 content/87b4bcda49e7f.nwd  CHARACTER  NOTE      金箍棒
 content/db01d0e608c06.nwd  CHARACTER  NOTE      九环锡杖
 content/2ef27aafd907a.nwd  CHARACTER  NOTE      武器分级
@@ -167,7 +295,10 @@ content/657af2e4506ed.nwd  CHARACTER  NOTE      金铃
 content/b38d336b944db.nwd  CHARACTER  NOTE      日月神灯
 content/19d964ade2d71.nwd  CHARACTER  NOTE      灵能大炮
 content/6565e12de5717.nwd  CHARACTER  NOTE      定颜珠
-content/e03f97876b062.nwd  CHARACTER  NOTE      核舟记（量子须弥核舟）
+content/ad063ab1f9e47.nwd  CHARACTER  NOTE      七十二变
+content/6a22db83c97ac.nwd  CHARACTER  NOTE      如来大手印
+content/592019b485306.nwd  CHARACTER  NOTE      灵脉
+content/5e85caf335c17.nwd  CHARACTER  NOTE      洪荒盾构机
 content/705482fddb63f.nwd  CHARACTER  NOTE      量子桂花桃酿
 content/d8ac64156b67a.nwd  CHARACTER  NOTE      桃酥
 content/0f54265daa9ce.nwd  CHARACTER  NOTE      糯唧唧的桂花糕
@@ -190,26 +321,38 @@ content/cd3ca0e79bc81.nwd  CHARACTER  NOTE      九尾狐
 content/bae9d902a8255.nwd  CHARACTER  NOTE      噬元团子
 content/1e7fd0e1a3060.nwd  CHARACTER  NOTE      武器
 content/7104bce51acd8.nwd  CHARACTER  NOTE      同心符
-content/0d512fa988964.nwd  ARCHIVE    DOCUMENT  取经的意义
-content/c043ecaa8b647.nwd  ARCHIVE    DOCUMENT  双层架构设定251202
-content/88cb859ef13b5.nwd  ARCHIVE    DOCUMENT  升级线路251203
+content/695a3179cba09.nwd  CHARACTER  NOTE      武打设计
+content/71697362c360b.nwd  ARCHIVE    NOTE      花果山20个日夜
+content/9b1141726a93a.nwd  ARCHIVE    DOCUMENT  旧目录
 content/15f42db1e9537.nwd  ARCHIVE    DOCUMENT  大纲0 - 石猴
 content/035c8b5ca5b10.nwd  ARCHIVE    DOCUMENT  大纲1
-content/c6358b499377b.nwd  ARCHIVE    NOTE      81难
-content/9b1141726a93a.nwd  ARCHIVE    DOCUMENT  旧目录
-content/9cf3bd46af946.nwd  ARCHIVE    DOCUMENT  势力分析
 content/aeb0810a4b877.nwd  ARCHIVE    DOCUMENT  500
 content/379d770c6f3be.nwd  ARCHIVE    DOCUMENT  81-10小卷
+content/342ce2e5d8107.nwd  ARCHIVE    DOCUMENT  16-45
+content/2f675493eef39.nwd  ARCHIVE    DOCUMENT  16-33
+content/d1a99ff51e3e4.nwd  ARCHIVE    DOCUMENT  1-6month
+content/c043ecaa8b647.nwd  ARCHIVE    DOCUMENT  双层架构设定251202
+content/0d512fa988964.nwd  ARCHIVE    DOCUMENT  取经的意义
+content/c6358b499377b.nwd  ARCHIVE    NOTE      81难
+content/9cf3bd46af946.nwd  ARCHIVE    DOCUMENT  势力分析
 content/be12741655c71.nwd  ARCHIVE    DOCUMENT  薅羊毛
 content/d5b162204b267.nwd  ARCHIVE    DOCUMENT  魔改
 content/e6a6f781a4a78.nwd  ARCHIVE    DOCUMENT  递进主线
 content/f4f68f8d23d87.nwd  ARCHIVE    DOCUMENT  私的分级
 content/2bf8fcb2f954a.nwd  ARCHIVE    DOCUMENT  双代码库设定
-content/aea107ded5aa6.nwd  ARCHIVE    DOCUMENT  彩蛋解锁
 content/f36a85d5a02f0.nwd  ARCHIVE    DOCUMENT  如来pk
-content/08035eb099a12.nwd  ARCHIVE    DOCUMENT  腹黑悟空 2.0 × 紫霞特工队 反攻版大纲
+content/08035eb099a12.nwd  ARCHIVE    DOCUMENT  腹黑悟空 × 紫霞特工队
 content/3b3de8c067238.nwd  ARCHIVE    DOCUMENT  功法升级
 content/0ea6668aec277.nwd  ARCHIVE    NOTE      情关
+content/efe839b8b969a.nwd  ARCHIVE    DOCUMENT  天道认知进阶
+content/cbc6a2919ad70.nwd  ARCHIVE    DOCUMENT  见天地 见众生 见自己
+content/1cd8fffbff8b8.nwd  ARCHIVE    DOCUMENT  三大平台细分
+content/4d8d3d4580604.nwd  ARCHIVE    DOCUMENT  鸿蒙
+content/9b33486d9bf15.nwd  ARCHIVE    DOCUMENT  花果山和天庭的商业冲突
+content/59836183dfe3a.nwd  ARCHIVE    DOCUMENT  天庭架构图
+content/210843873b26b.nwd  ARCHIVE    DOCUMENT  搞笑buff
+content/20e7137b3540f.nwd  ARCHIVE    DOCUMENT  西游线路
+content/92de710fdb2e2.nwd  ARCHIVE    DOCUMENT  半生缘
 content/561488b897656.nwd  ARCHIVE    DOCUMENT  设定
 content/7c5418c52238f.nwd  ARCHIVE    DOCUMENT  1000
 content/37e610cfaec0d.nwd  ARCHIVE    DOCUMENT  封神到星际
@@ -220,15 +363,16 @@ content/78504b63a1315.nwd  ARCHIVE    DOCUMENT  架构0
 content/9537675ff112e.nwd  ARCHIVE    DOCUMENT  宇宙级
 content/25c3fdbf049e9.nwd  ARCHIVE    DOCUMENT  外星领主的侵蚀
 content/e83b81196fac6.nwd  ARCHIVE    DOCUMENT  内核
-content/5ee869c4a90d8.nwd  ARCHIVE    DOCUMENT  古今牌
+content/102bee39a91b4.nwd  ARCHIVE    DOCUMENT  外宇宙殖民
 content/6f0af0aaddb40.nwd  ARCHIVE    DOCUMENT  王胖版本60/120
 content/ac0f5bf5ebae9.nwd  ARCHIVE    DOCUMENT  三卷
+content/aa8cb8daf3e69.nwd  ARCHIVE    DOCUMENT  新三卷
+content/ff41a16abfaef.nwd  ARCHIVE    DOCUMENT  三卷血肉
 content/91dd8cc7a7c6c.nwd  ARCHIVE    DOCUMENT  纯代码版
 content/fe7b78e23866e.nwd  ARCHIVE    DOCUMENT  物理梗
 content/55ed168c2f9d6.nwd  ARCHIVE    DOCUMENT  神话
 content/6173653962cb8.nwd  ARCHIVE    DOCUMENT  地球文明的99次新生
 content/0b440f9470d39.nwd  ARCHIVE    DOCUMENT  IT帝国
-content/ff41a16abfaef.nwd  ARCHIVE    DOCUMENT  你是我的“星辰大海”
 content/06f284df5bcb4.nwd  ARCHIVE    NOTE      情感淬火路线图
 content/fe66e97d27ef6.nwd  ARCHIVE    NOTE      荣耀模式
 content/ff92b3fbfb534.nwd  ARCHIVE    DOCUMENT  中西合璧
@@ -240,3 +384,6 @@ content/46a1803310578.nwd  ARCHIVE    DOCUMENT  三部曲
 content/9b44987fdb10a.nwd  ARCHIVE    DOCUMENT  诞生251202
 content/cd30cf8044e10.nwd  ARCHIVE    DOCUMENT  核心线
 content/e9c3c98786d00.nwd  ARCHIVE    NOTE      天道
+content/f1aa247ee735c.nwd  ARCHIVE    DOCUMENT  完美即腐朽
+content/5de8e984ff8f0.nwd  ARCHIVE    DOCUMENT  阴阳相对论
+content/88cb859ef13b5.nwd  TRASH      DOCUMENT  升级线路251203
