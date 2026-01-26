@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-01-26 20:48:18">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="8" autoCount="4904" editTime="2746473">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-01-27 03:39:47">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="8" autoCount="5052" editTime="2771161">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">938d356dc2adc</entry>
+      <entry key="editor">28d6d2ea8ab22</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="193" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="195" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="449" novelWords="16355" notesWords="9060">
+  <content items="451" novelWords="16475" notesWords="9060">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -410,30 +410,38 @@
       <name status="s54df93" import="i662472" active="yes">第四十四章 归山安营 辞寨赴方寸</name>
     </item>
     <item handle="46309625ded39" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="52" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3745" wordCount="71" paraCount="40" cursorPos="3637" />
+      <meta expanded="no" heading="H2" charCount="3737" wordCount="71" paraCount="40" cursorPos="2456" />
       <name status="s54df93" import="i662472" active="yes">第四十五章 祥云叩方寸 棋盘解语入山门</name>
     </item>
     <item handle="938d356dc2adc" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="53" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3655" wordCount="32" paraCount="27" cursorPos="60" />
-      <name status="s54df93" import="i662472" active="yes">第四十六章 灵台仙山藏玄境 十二辈分续文脉</name>
+      <meta expanded="no" heading="H2" charCount="3733" wordCount="36" paraCount="28" cursorPos="2401" />
+      <name status="s54df93" import="i662472" active="yes">第四十六章 灵台仙山藏玄境 悟元两辈续文脉</name>
     </item>
-    <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="54" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="1e5752b114599" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="54" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3387" wordCount="50" paraCount="37" cursorPos="3059" />
+      <name status="s54df93" import="i662472" active="yes">第四十七章 棋堂初课翻船记</name>
+    </item>
+    <item handle="28d6d2ea8ab22" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="55" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3567" wordCount="62" paraCount="39" cursorPos="2849" />
+      <name status="s54df93" import="i662472" active="yes">第四十八章 双堂授艺 生息戏里乐融融</name>
+    </item>
+    <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="56" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="141358" wordCount="3116" paraCount="1813" cursorPos="2" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
-    <item handle="16d81e68a0249" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="55" type="FILE" class="NOVEL" layout="NOTE">
+    <item handle="16d81e68a0249" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="57" type="FILE" class="NOVEL" layout="NOTE">
       <meta expanded="no" heading="H2" charCount="829" wordCount="18" paraCount="15" cursorPos="818" />
       <name status="s54df93" import="i662472" active="yes">彩蛋1: 一桃定情缘</name>
     </item>
-    <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="56" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="58" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="507" wordCount="11" paraCount="9" cursorPos="534" />
       <name status="s54df93" import="i662472" active="yes">完结彩蛋</name>
     </item>
-    <item handle="9f11989164003" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="57" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="9f11989164003" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="59" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1712" wordCount="99" paraCount="23" cursorPos="1747" />
       <name status="s54df93" import="i662472" active="yes">终章彩蛋：代码库里的秘密</name>
     </item>
-    <item handle="80e57fc6ca001" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="58" type="FOLDER" class="NOVEL">
+    <item handle="80e57fc6ca001" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="60" type="FOLDER" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">废弃</name>
     </item>
@@ -441,39 +449,39 @@
       <meta expanded="no" heading="H0" charCount="798" wordCount="18" paraCount="11" cursorPos="687" />
       <name status="s54df93" import="i662472" active="yes">电话</name>
     </item>
-    <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="59" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="7404" wordCount="29" paraCount="26" cursorPos="2588" />
+    <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="61" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="2356" wordCount="33" paraCount="1" cursorPos="2381" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
-    <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="60" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2060" wordCount="20" paraCount="2" cursorPos="2076" />
+    <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="62" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="2060" wordCount="20" paraCount="2" cursorPos="891" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
-    <item handle="0dc0bd2b21b0e" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="61" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="0dc0bd2b21b0e" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="63" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="290" wordCount="18" paraCount="1" cursorPos="298" />
       <name status="s54df93" import="i662472" active="yes">46 章 桃林院初栖，师门队友初组队（认师门 + 群像登场 + 解锁基础练术场）</name>
     </item>
-    <item handle="b23ebd5b4a9ed" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="62" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="249" wordCount="16" paraCount="1" cursorPos="44" />
+    <item handle="b23ebd5b4a9ed" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="64" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="249" wordCount="16" paraCount="1" cursorPos="257" />
       <name status="s54df93" import="i662472" active="yes">47 章 晨课练控韵，灵韵迷阵初闯关（基础练术 + 首次组队闯关 + 撸宝传音玉）</name>
     </item>
-    <item handle="ddf873ef3c9c3" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="63" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="ddf873ef3c9c3" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="65" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="283" wordCount="15" paraCount="1" cursorPos="291" />
       <name status="s54df93" import="i662472" active="yes">48 章 大师兄归山，洪荒灵韵初揭秘（大咖师兄彩蛋 + 进阶练术 + 论道洪荒）</name>
     </item>
-    <item handle="b9813a0ff6844" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="64" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="b9813a0ff6844" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="66" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="306" wordCount="22" paraCount="1" cursorPos="314" />
       <name status="s54df93" import="i662472" active="yes">49 章 双人战比斗，开源灵韵初悟透（师门比斗 + 核心论道 + 撸宝护心镜）</name>
     </item>
-    <item handle="63d127a840091" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="65" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="63d127a840091" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="67" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="299" wordCount="17" paraCount="1" cursorPos="307" />
       <name status="s54df93" import="i662472" active="yes">50 章 方寸寻灵植，三界灵韵初探底（师门任务 + 野外练术 + 撸宝三界分布图）</name>
     </item>
-    <item handle="0c1c42b51509f" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="66" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="0c1c42b51509f" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="68" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="291" wordCount="17" paraCount="1" cursorPos="299" />
       <name status="s54df93" import="i662472" active="yes">51 章 进阶练仙法，取经短板全补齐（专属定制学艺 + 论道取经意义 + 小撸宝技能符）</name>
     </item>
-    <item handle="ed27789f06219" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="67" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="ed27789f06219" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="69" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="412" wordCount="27" paraCount="1" cursorPos="423" />
       <name status="s54df93" import="i662472" active="yes">52 章 藏宝阁终撸宝，辞师归山启取经（终极撸宝 + 菩提嘱托 + 承上启下）</name>
     </item>
