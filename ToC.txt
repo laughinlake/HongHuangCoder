@@ -86,6 +86,13 @@ content/e72ed010a108b.nwd  NOVEL      DOCUMENT  第四十三章 龙宫宴叙前�
 content/53eb90e0d78d9.nwd  NOVEL      DOCUMENT  【彩蛋・小玄的初次相遇】
 content/b068bd077972e.nwd  NOVEL      DOCUMENT  第四十四章 归山安营 辞寨赴方寸
 content/46309625ded39.nwd  NOVEL      DOCUMENT  第四十五章 祥云叩方寸 棋盘解语入山门
+content/938d356dc2adc.nwd  NOVEL      DOCUMENT  第四十六章 灵台仙山藏玄境 悟元两辈续文脉
+content/1e5752b114599.nwd  NOVEL      DOCUMENT  第四十七章 棋堂初课翻船记
+content/28d6d2ea8ab22.nwd  NOVEL      DOCUMENT  第四十八章 双堂授艺 生息戏里乐融融
+content/efa2f866cd8ae.nwd  NOVEL      DOCUMENT  第四十九章 棋开天元悟不争 武科试劲晓刚柔
+content/af10dbae7cc1b.nwd  NOVEL      DOCUMENT  第五十章 错借丹方闹书馆 乱入丹炉戏青烟
+content/dffbf036a6c37.nwd  NOVEL      DOCUMENT  第五十一章 中盘算尽劫杀路 卦辞惊破生死关
+content/36529af20f030.nwd  NOVEL      DOCUMENT  第五十二章 棋悟死活藏妙手 心悬劫数觅珍奇
 content/1d7b48157de63.nwd  NOVEL      DOCUMENT  完整版
 content/16d81e68a0249.nwd  NOVEL      NOTE      彩蛋1: 一桃定情缘
 content/9f737543b5807.nwd  NOVEL      DOCUMENT  完结彩蛋
@@ -93,13 +100,13 @@ content/9f11989164003.nwd  NOVEL      DOCUMENT  终章彩蛋：代码库里的�
 content/7d1ea3c4d1fba.nwd  NOVEL      DOCUMENT  电话
 content/1bfee7ec87649.nwd  NOVEL      DOCUMENT  新文档
 content/6234f70f1b270.nwd  NOVEL      DOCUMENT  新文档
-content/0dc0bd2b21b0e.nwd  NOVEL      DOCUMENT  46 章 桃林院初栖，师门队友初组队（认师门 + 群像登场 + 解锁基础练术场）
 content/b23ebd5b4a9ed.nwd  NOVEL      DOCUMENT  47 章 晨课练控韵，灵韵迷阵初闯关（基础练术 + 首次组队闯关 + 撸宝传音玉）
 content/ddf873ef3c9c3.nwd  NOVEL      DOCUMENT  48 章 大师兄归山，洪荒灵韵初揭秘（大咖师兄彩蛋 + 进阶练术 + 论道洪荒）
 content/b9813a0ff6844.nwd  NOVEL      DOCUMENT  49 章 双人战比斗，开源灵韵初悟透（师门比斗 + 核心论道 + 撸宝护心镜）
 content/63d127a840091.nwd  NOVEL      DOCUMENT  50 章 方寸寻灵植，三界灵韵初探底（师门任务 + 野外练术 + 撸宝三界分布图）
 content/0c1c42b51509f.nwd  NOVEL      DOCUMENT  51 章 进阶练仙法，取经短板全补齐（专属定制学艺 + 论道取经意义 + 小撸宝技能符）
 content/ed27789f06219.nwd  NOVEL      DOCUMENT  52 章 藏宝阁终撸宝，辞师归山启取经（终极撸宝 + 菩提嘱托 + 承上启下）
+content/f5bf87eb7e6de.nwd  NOVEL      DOCUMENT  第 51 章 卦台边的棋艺课
 content/fe90354556a51.nwd  NOVEL      DOCUMENT  倒数1
 content/b4e108db1bbef.nwd  PLOT       NOTE      深夜代码夜 —— 悟空发现青霞子程序的那个晚上
 content/fc07fd8c5d0c3.nwd  PLOT       NOTE      如来禅理对决・最终名场面
@@ -299,6 +306,7 @@ content/ad063ab1f9e47.nwd  CHARACTER  NOTE      七十二变
 content/6a22db83c97ac.nwd  CHARACTER  NOTE      如来大手印
 content/592019b485306.nwd  CHARACTER  NOTE      灵脉
 content/5e85caf335c17.nwd  CHARACTER  NOTE      洪荒盾构机
+content/86a00be01b018.nwd  CHARACTER  NOTE      七情六欲峰
 content/705482fddb63f.nwd  CHARACTER  NOTE      量子桂花桃酿
 content/d8ac64156b67a.nwd  CHARACTER  NOTE      桃酥
 content/0f54265daa9ce.nwd  CHARACTER  NOTE      糯唧唧的桂花糕
@@ -353,6 +361,8 @@ content/59836183dfe3a.nwd  ARCHIVE    DOCUMENT  天庭架构图
 content/210843873b26b.nwd  ARCHIVE    DOCUMENT  搞笑buff
 content/20e7137b3540f.nwd  ARCHIVE    DOCUMENT  西游线路
 content/92de710fdb2e2.nwd  ARCHIVE    DOCUMENT  半生缘
+content/67e0796edc66b.nwd  ARCHIVE    DOCUMENT  菩提
+content/7c3d6f928b57e.nwd  ARCHIVE    NOTE      方寸山
 content/561488b897656.nwd  ARCHIVE    DOCUMENT  设定
 content/7c5418c52238f.nwd  ARCHIVE    DOCUMENT  1000
 content/37e610cfaec0d.nwd  ARCHIVE    DOCUMENT  封神到星际
@@ -386,4 +396,6 @@ content/cd30cf8044e10.nwd  ARCHIVE    DOCUMENT  核心线
 content/e9c3c98786d00.nwd  ARCHIVE    NOTE      天道
 content/f1aa247ee735c.nwd  ARCHIVE    DOCUMENT  完美即腐朽
 content/5de8e984ff8f0.nwd  ARCHIVE    DOCUMENT  阴阳相对论
+content/8b42896583603.nwd  ARCHIVE    DOCUMENT  格局
 content/88cb859ef13b5.nwd  TRASH      DOCUMENT  升级线路251203
+content/0dc0bd2b21b0e.nwd  TRASH      DOCUMENT  46 章 桃林院初栖，师门队友初组队（认师门 + 群像登场 + 解锁基础练术场）
