@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-09 19:39:38">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="12" autoCount="7695" editTime="3913581">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-09 20:03:38">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="12" autoCount="7705" editTime="3915021">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,7 +9,7 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">1d7b48157de63</entry>
+      <entry key="editor">5f36a5125b24f</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="482" novelWords="20789" notesWords="9454">
+  <content items="482" novelWords="20802" notesWords="9454">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -530,15 +530,15 @@
       <name status="s54df93" import="i662472" active="yes">第七十六章 乱礁洋海妖袭 探得金银屿巢</name>
     </item>
     <item handle="37cf1a704f05f" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="83" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3409" wordCount="65" paraCount="50" cursorPos="3480" />
+      <meta expanded="no" heading="H2" charCount="3409" wordCount="65" paraCount="50" cursorPos="1838" />
       <name status="s54df93" import="i662472" active="yes">第七十七章 金银屿敛灵锁仙力 排兵阵回合斩蟹王</name>
     </item>
     <item handle="0ce393a8bce35" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="84" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3378" wordCount="60" paraCount="41" cursorPos="3174" />
+      <meta expanded="no" heading="H2" charCount="3699" wordCount="67" paraCount="44" cursorPos="3791" />
       <name status="s54df93" import="i662472" active="yes">第七十八章 悟洁卧底解危局 紫霞一剑斩蟹王</name>
     </item>
     <item handle="5f36a5125b24f" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="85" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4661" wordCount="81" paraCount="49" cursorPos="1338" />
+      <meta expanded="no" heading="H2" charCount="4954" wordCount="87" paraCount="54" cursorPos="2090" />
       <name status="s54df93" import="i662472" active="yes">第七十九章 花果山・归山定计双线行</name>
     </item>
     <item handle="1fdb89e341a5f" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="86" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -546,7 +546,7 @@
       <name status="s54df93" import="i662472" active="yes">第八十章 花果山・微行途畔辨疑云</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="87" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="264545" wordCount="5293" paraCount="3135" cursorPos="269441" />
+      <meta expanded="no" heading="H2" charCount="264545" wordCount="5293" paraCount="3135" cursorPos="271470" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="88" type="FILE" class="NOVEL" layout="DOCUMENT">
