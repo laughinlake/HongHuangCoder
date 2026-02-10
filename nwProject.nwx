@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-10 12:48:43">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="12" autoCount="7981" editTime="3975326">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-10 12:58:43">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="12" autoCount="7989" editTime="3975926">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="487" novelWords="21573" notesWords="9454">
+  <content items="487" novelWords="21574" notesWords="9454">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -542,11 +542,11 @@
       <name status="s54df93" import="i662472" active="yes">第七十九章 花果山・归山定计双线行</name>
     </item>
     <item handle="1fdb89e341a5f" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="86" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2996" wordCount="81" paraCount="74" cursorPos="1564" />
+      <meta expanded="no" heading="H2" charCount="2996" wordCount="81" paraCount="74" cursorPos="3151" />
       <name status="s54df93" import="i662472" active="yes">第八十章 花果山・烟霞问心赴长安</name>
     </item>
     <item handle="b5cce433faa65" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="87" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3221" wordCount="71" paraCount="60" cursorPos="1812" />
+      <meta expanded="no" heading="H2" charCount="3245" wordCount="72" paraCount="61" cursorPos="2163" />
       <name status="s54df93" import="i662472" active="yes">第八十一章 花果山・一枕仙梦到帝京</name>
     </item>
     <item handle="1b635aa32697a" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="88" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -554,7 +554,7 @@
       <name status="s54df93" import="i662472" active="yes">第八十二章 仙力大会・天风临山万仙至</name>
     </item>
     <item handle="f84519392515c" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="89" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3043" wordCount="59" paraCount="50" cursorPos="3122" />
+      <meta expanded="no" heading="H2" charCount="3043" wordCount="59" paraCount="50" cursorPos="3149" />
       <name status="s54df93" import="i662472" active="yes">第八十三章 仙力大会・天庭威压定新规</name>
     </item>
     <item handle="acae78ee044f0" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="90" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -566,7 +566,7 @@
       <name status="s54df93" import="i662472" active="yes">第八十五章 仙力大会・暗市纵横算力开</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="92" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="284576" wordCount="5686" paraCount="3475" cursorPos="292234" />
+      <meta expanded="no" heading="H2" charCount="284600" wordCount="5686" paraCount="3475" cursorPos="284599" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="93" type="FILE" class="NOVEL" layout="DOCUMENT">
