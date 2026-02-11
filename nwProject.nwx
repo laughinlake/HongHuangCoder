@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-12 07:29:37">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="14" autoCount="8359" editTime="4128980">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-12 07:30:37">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="14" autoCount="8360" editTime="4129040">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,7 +9,7 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">e9977b1d35659</entry>
+      <entry key="editor">1d7b48157de63</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="495" novelWords="22724" notesWords="9454">
+  <content items="495" novelWords="22723" notesWords="9454">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -586,11 +586,11 @@
       <name status="s54df93" import="i662472" active="yes">第九十一章 长安行・才出城头逢双劫</name>
     </item>
     <item handle="e9977b1d35659" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="99" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3004" wordCount="65" paraCount="50" cursorPos="1962" />
+      <meta expanded="no" heading="H2" charCount="3004" wordCount="65" paraCount="50" cursorPos="3111" />
       <name status="s54df93" import="i662472" active="yes">第九十二章 长安行・一言喝退两拨妖</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="100" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="301588" wordCount="6162" paraCount="3843" cursorPos="302008" />
+      <meta expanded="no" heading="H2" charCount="301565" wordCount="6161" paraCount="3842" cursorPos="308109" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="101" type="FILE" class="NOVEL" layout="DOCUMENT">
