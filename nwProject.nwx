@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-12 07:30:37">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="14" autoCount="8360" editTime="4129040">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-13 07:07:33">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="14" autoCount="8451" editTime="4214056">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">1d7b48157de63</entry>
+      <entry key="editor">ef3570f0a6445</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="230" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="232" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="495" novelWords="22723" notesWords="9454">
+  <content items="497" novelWords="23082" notesWords="9454">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -586,35 +586,39 @@
       <name status="s54df93" import="i662472" active="yes">第九十一章 长安行・才出城头逢双劫</name>
     </item>
     <item handle="e9977b1d35659" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="99" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3004" wordCount="65" paraCount="50" cursorPos="3111" />
+      <meta expanded="no" heading="H2" charCount="3040" wordCount="70" paraCount="55" cursorPos="3157" />
       <name status="s54df93" import="i662472" active="yes">第九十二章 长安行・一言喝退两拨妖</name>
     </item>
-    <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="100" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="301565" wordCount="6161" paraCount="3842" cursorPos="308109" />
+    <item handle="ef3570f0a6445" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="100" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3593" wordCount="84" paraCount="78" cursorPos="3751" />
+      <name status="s54df93" import="i662472" active="yes">第九十三章 两界碑窥天・镜像道初生</name>
+    </item>
+    <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="101" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H1" charCount="308443" wordCount="6331" paraCount="3958" cursorPos="16" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
-    <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="101" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="102" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="507" wordCount="11" paraCount="9" cursorPos="534" />
       <name status="s54df93" import="i662472" active="yes">完结彩蛋</name>
     </item>
-    <item handle="9f11989164003" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="102" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="9f11989164003" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="103" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1712" wordCount="99" paraCount="23" cursorPos="1747" />
       <name status="s54df93" import="i662472" active="yes">终章彩蛋：代码库里的秘密</name>
     </item>
-    <item handle="80e57fc6ca001" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="103" type="FOLDER" class="NOVEL">
+    <item handle="80e57fc6ca001" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="104" type="FOLDER" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">废弃</name>
     </item>
-    <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="104" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="1494" wordCount="71" paraCount="1" cursorPos="1557" />
+    <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="105" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="2196" wordCount="49" paraCount="1" cursorPos="2243" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
-    <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="105" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H2" charCount="4162" wordCount="60" paraCount="46" cursorPos="4253" />
+    <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="106" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="yes" heading="H2" charCount="3737" wordCount="71" paraCount="5" cursorPos="978" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
-    <item handle="2a2c27f923120" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="106" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="2120" wordCount="92" paraCount="1" cursorPos="2211" />
+    <item handle="2a2c27f923120" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="107" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H0" charCount="3075" wordCount="110" paraCount="1" cursorPos="3178" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="ea741de536154" parent="26a01eb608699" root="c4a9a239c9ccb" order="1" type="FOLDER" class="NOVEL">
@@ -1725,95 +1729,99 @@
       <meta expanded="no" heading="H0" charCount="3182" wordCount="195" paraCount="7" cursorPos="3240" />
       <name status="s54df93" import="i662472" active="yes">取经的意义</name>
     </item>
-    <item handle="c6358b499377b" parent="b2aae2162b3fd" root="95f33353c331f" order="3" type="FILE" class="ARCHIVE" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="15069" wordCount="850" paraCount="20" cursorPos="13493" />
-      <name status="s54df93" import="i662472" active="yes">81难</name>
+    <item handle="5ebe0d456f52d" parent="b2aae2162b3fd" root="95f33353c331f" order="3" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+      <meta expanded="no" heading="H0" charCount="417" wordCount="93" paraCount="1" cursorPos="498" />
+      <name status="s54df93" import="i662472" active="yes">原81难</name>
     </item>
-    <item handle="9cf3bd46af946" parent="b2aae2162b3fd" root="95f33353c331f" order="4" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="c6358b499377b" parent="b2aae2162b3fd" root="95f33353c331f" order="4" type="FILE" class="ARCHIVE" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="15069" wordCount="850" paraCount="20" cursorPos="13493" />
+      <name status="s54df93" import="i662472" active="yes">81难IT梗</name>
+    </item>
+    <item handle="9cf3bd46af946" parent="b2aae2162b3fd" root="95f33353c331f" order="5" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="33" wordCount="11" paraCount="1" cursorPos="35" />
       <name status="s54df93" import="i662472" active="yes">势力分析</name>
     </item>
-    <item handle="be12741655c71" parent="b2aae2162b3fd" root="95f33353c331f" order="5" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="be12741655c71" parent="b2aae2162b3fd" root="95f33353c331f" order="6" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1399" wordCount="44" paraCount="3" cursorPos="1437" />
       <name status="s54df93" import="i662472" active="yes">薅羊毛</name>
     </item>
-    <item handle="d5b162204b267" parent="b2aae2162b3fd" root="95f33353c331f" order="6" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="d5b162204b267" parent="b2aae2162b3fd" root="95f33353c331f" order="7" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="2780" wordCount="86" paraCount="4" cursorPos="2848" />
       <name status="s54df93" import="i662472" active="yes">魔改</name>
     </item>
-    <item handle="e6a6f781a4a78" parent="b2aae2162b3fd" root="95f33353c331f" order="7" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="e6a6f781a4a78" parent="b2aae2162b3fd" root="95f33353c331f" order="8" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1447" wordCount="45" paraCount="2" cursorPos="1470" />
       <name status="s54df93" import="i662472" active="yes">递进主线</name>
     </item>
-    <item handle="f4f68f8d23d87" parent="b2aae2162b3fd" root="95f33353c331f" order="8" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="f4f68f8d23d87" parent="b2aae2162b3fd" root="95f33353c331f" order="9" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="843" wordCount="48" paraCount="1" cursorPos="850" />
       <name status="s54df93" import="i662472" active="yes">私的分级</name>
     </item>
-    <item handle="2bf8fcb2f954a" parent="b2aae2162b3fd" root="95f33353c331f" order="9" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="2bf8fcb2f954a" parent="b2aae2162b3fd" root="95f33353c331f" order="10" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="3619" wordCount="91" paraCount="6" cursorPos="1299" />
       <name status="s54df93" import="i662472" active="yes">双代码库设定</name>
     </item>
-    <item handle="f36a85d5a02f0" parent="b2aae2162b3fd" root="95f33353c331f" order="10" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="f36a85d5a02f0" parent="b2aae2162b3fd" root="95f33353c331f" order="11" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1200" wordCount="44" paraCount="5" cursorPos="1068" />
       <name status="s54df93" import="i662472" active="yes">如来pk</name>
     </item>
-    <item handle="08035eb099a12" parent="b2aae2162b3fd" root="95f33353c331f" order="11" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="08035eb099a12" parent="b2aae2162b3fd" root="95f33353c331f" order="12" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="3185" wordCount="210" paraCount="2" cursorPos="3231" />
       <name status="s54df93" import="i662472" active="yes">腹黑悟空 × 紫霞特工队</name>
     </item>
-    <item handle="3b3de8c067238" parent="b2aae2162b3fd" root="95f33353c331f" order="12" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="3b3de8c067238" parent="b2aae2162b3fd" root="95f33353c331f" order="13" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1641" wordCount="122" paraCount="2" cursorPos="1667" />
       <name status="s54df93" import="i662472" active="yes">功法升级</name>
     </item>
-    <item handle="0ea6668aec277" parent="b2aae2162b3fd" root="95f33353c331f" order="13" type="FILE" class="ARCHIVE" layout="NOTE">
+    <item handle="0ea6668aec277" parent="b2aae2162b3fd" root="95f33353c331f" order="14" type="FILE" class="ARCHIVE" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="785" wordCount="50" paraCount="1" cursorPos="794" />
       <name status="s54df93" import="i662472" active="yes">情关</name>
     </item>
-    <item handle="efe839b8b969a" parent="b2aae2162b3fd" root="95f33353c331f" order="14" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="efe839b8b969a" parent="b2aae2162b3fd" root="95f33353c331f" order="15" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="800" wordCount="43" paraCount="1" cursorPos="234" />
       <name status="s54df93" import="i662472" active="yes">天道认知进阶</name>
     </item>
-    <item handle="cbc6a2919ad70" parent="b2aae2162b3fd" root="95f33353c331f" order="15" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="cbc6a2919ad70" parent="b2aae2162b3fd" root="95f33353c331f" order="16" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="926" wordCount="79" paraCount="1" cursorPos="526" />
       <name status="s54df93" import="i662472" active="yes">见天地 见众生 见自己</name>
     </item>
-    <item handle="1cd8fffbff8b8" parent="b2aae2162b3fd" root="95f33353c331f" order="16" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="1cd8fffbff8b8" parent="b2aae2162b3fd" root="95f33353c331f" order="17" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="865" wordCount="45" paraCount="1" cursorPos="880" />
       <name status="s54df93" import="i662472" active="yes">三大平台细分</name>
     </item>
-    <item handle="4d8d3d4580604" parent="b2aae2162b3fd" root="95f33353c331f" order="17" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="4d8d3d4580604" parent="b2aae2162b3fd" root="95f33353c331f" order="18" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="2211" wordCount="63" paraCount="12" cursorPos="38" />
       <name status="s54df93" import="i662472" active="yes">鸿蒙</name>
     </item>
-    <item handle="9b33486d9bf15" parent="b2aae2162b3fd" root="95f33353c331f" order="18" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="9b33486d9bf15" parent="b2aae2162b3fd" root="95f33353c331f" order="19" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="961" wordCount="64" paraCount="1" cursorPos="979" />
       <name status="s54df93" import="i662472" active="yes">花果山和天庭的商业冲突</name>
     </item>
-    <item handle="59836183dfe3a" parent="b2aae2162b3fd" root="95f33353c331f" order="19" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="59836183dfe3a" parent="b2aae2162b3fd" root="95f33353c331f" order="20" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1425" wordCount="35" paraCount="2" cursorPos="1450" />
       <name status="s54df93" import="i662472" active="yes">天庭架构图</name>
     </item>
-    <item handle="210843873b26b" parent="b2aae2162b3fd" root="95f33353c331f" order="20" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="210843873b26b" parent="b2aae2162b3fd" root="95f33353c331f" order="21" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1165" wordCount="47" paraCount="5" cursorPos="1189" />
       <name status="s54df93" import="i662472" active="yes">搞笑buff</name>
     </item>
-    <item handle="20e7137b3540f" parent="b2aae2162b3fd" root="95f33353c331f" order="21" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="20e7137b3540f" parent="b2aae2162b3fd" root="95f33353c331f" order="22" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="138" wordCount="18" paraCount="10" cursorPos="151" />
       <name status="s54df93" import="i662472" active="yes">西游线路</name>
     </item>
-    <item handle="92de710fdb2e2" parent="b2aae2162b3fd" root="95f33353c331f" order="22" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="92de710fdb2e2" parent="b2aae2162b3fd" root="95f33353c331f" order="23" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1358" wordCount="32" paraCount="8" cursorPos="1382" />
       <name status="s54df93" import="i662472" active="yes">半生缘</name>
     </item>
-    <item handle="67e0796edc66b" parent="b2aae2162b3fd" root="95f33353c331f" order="23" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="67e0796edc66b" parent="b2aae2162b3fd" root="95f33353c331f" order="24" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="170" wordCount="10" paraCount="1" cursorPos="173" />
       <name status="s54df93" import="i662472" active="yes">菩提</name>
     </item>
-    <item handle="7c3d6f928b57e" parent="b2aae2162b3fd" root="95f33353c331f" order="24" type="FILE" class="ARCHIVE" layout="NOTE">
+    <item handle="7c3d6f928b57e" parent="b2aae2162b3fd" root="95f33353c331f" order="25" type="FILE" class="ARCHIVE" layout="NOTE">
       <meta expanded="no" heading="H2" charCount="6654" wordCount="347" paraCount="11" cursorPos="3572" />
       <name status="s54df93" import="i662472" active="yes">方寸山</name>
     </item>
-    <item handle="85d7d82384c88" parent="b2aae2162b3fd" root="95f33353c331f" order="25" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+    <item handle="85d7d82384c88" parent="b2aae2162b3fd" root="95f33353c331f" order="26" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1181" wordCount="90" paraCount="1" cursorPos="1196" />
       <name status="s54df93" import="i662472" active="yes">本源护符Github</name>
     </item>
@@ -1918,7 +1926,7 @@
       <name status="s54df93" import="i662472" active="yes">荣耀模式</name>
     </item>
     <item handle="0a66f23c7b643" parent="95f33353c331f" root="95f33353c331f" order="1" type="FOLDER" class="ARCHIVE">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">文明编年史</name>
     </item>
     <item handle="ff92b3fbfb534" parent="0a66f23c7b643" root="95f33353c331f" order="0" type="FILE" class="ARCHIVE" layout="DOCUMENT">
