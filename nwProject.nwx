@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-14 06:52:30">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="14" autoCount="8769" editTime="4299553">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-14 23:20:19">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="14" autoCount="8819" editTime="4358822">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="504" novelWords="24360" notesWords="9454">
+  <content items="504" novelWords="24480" notesWords="9532">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -610,19 +610,19 @@
       <name status="s54df93" import="i662472" active="yes">第九十七章 双叉岭禅杖初鸣 刘家宅超度亡魂</name>
     </item>
     <item handle="1b9cfae5654ca" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="105" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3096" wordCount="89" paraCount="77" cursorPos="1911" />
+      <meta expanded="no" heading="H2" charCount="3114" wordCount="88" paraCount="77" cursorPos="3272" />
       <name status="s54df93" import="i662472" active="yes">第九十八章 两界山一别红尘 五行山初见石猴</name>
     </item>
     <item handle="bbb07c144a2dd" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="106" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3567" wordCount="85" paraCount="68" cursorPos="3707" />
+      <meta expanded="no" heading="H2" charCount="3649" wordCount="87" paraCount="67" cursorPos="3788" />
       <name status="s54df93" import="i662472" active="yes">第九十九章 六贼行凶杀凡马 大圣佯怒赴东海</name>
     </item>
     <item handle="0a5740a09672b" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="107" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3606" wordCount="118" paraCount="83" cursorPos="1282" />
+      <meta expanded="no" heading="H2" charCount="4014" wordCount="119" paraCount="84" cursorPos="1831" />
       <name status="s54df93" import="i662472" active="yes">第一百章 观音赐箍藏佛计 大圣暗改灵山门</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="108" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="331783" wordCount="6897" paraCount="4449" cursorPos="341549" />
+      <meta expanded="no" heading="H1" charCount="335389" wordCount="7015" paraCount="4532" cursorPos="345331" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="109" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1346,7 +1346,7 @@
       <name status="s54df93" import="i662472">角色</name>
     </item>
     <item handle="8c02504a21787" parent="a54a193fbc58c" root="a54a193fbc58c" order="0" type="FOLDER" class="CHARACTER">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">大圣纪元</name>
     </item>
     <item handle="55e759ccaac57" parent="8c02504a21787" root="a54a193fbc58c" order="0" type="FOLDER" class="CHARACTER">
@@ -1377,49 +1377,49 @@
       <meta expanded="no" heading="H1" charCount="2228" wordCount="100" paraCount="31" cursorPos="84" />
       <name status="s54df93" import="i662472" active="yes">悟空</name>
     </item>
-    <item handle="7b4720dd453b5" parent="3bc49322ef69c" root="a54a193fbc58c" order="5" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="dab5ea8257835" parent="3bc49322ef69c" root="a54a193fbc58c" order="5" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="752" wordCount="82" paraCount="2" cursorPos="820" />
+      <name status="s54df93" import="i662472" active="yes">唐僧</name>
+    </item>
+    <item handle="7b4720dd453b5" parent="3bc49322ef69c" root="a54a193fbc58c" order="6" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="1727" wordCount="105" paraCount="1" cursorPos="1753" />
       <name status="s54df93" import="i662472" active="yes">取经团队</name>
     </item>
-    <item handle="24db08e805e71" parent="3bc49322ef69c" root="a54a193fbc58c" order="6" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="24db08e805e71" parent="3bc49322ef69c" root="a54a193fbc58c" order="7" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="748" wordCount="27" paraCount="2" cursorPos="41" />
       <name status="s54df93" import="i662472" active="yes">八戒</name>
     </item>
-    <item handle="97eddcb23eec8" parent="3bc49322ef69c" root="a54a193fbc58c" order="7" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="97eddcb23eec8" parent="3bc49322ef69c" root="a54a193fbc58c" order="8" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="1331" wordCount="38" paraCount="2" cursorPos="12" />
       <name status="s54df93" import="i662472" active="yes">沙僧</name>
     </item>
-    <item handle="50e62322dcffd" parent="3bc49322ef69c" root="a54a193fbc58c" order="8" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="50e62322dcffd" parent="3bc49322ef69c" root="a54a193fbc58c" order="9" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="1528" wordCount="86" paraCount="3" cursorPos="16" />
       <name status="s54df93" import="i662472" active="yes">玉帝</name>
     </item>
-    <item handle="2008d4992b5ff" parent="3bc49322ef69c" root="a54a193fbc58c" order="9" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="2008d4992b5ff" parent="3bc49322ef69c" root="a54a193fbc58c" order="10" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="965" wordCount="66" paraCount="3" cursorPos="983" />
       <name status="s54df93" import="i662472" active="yes">王母</name>
     </item>
-    <item handle="0ffd6bba797b3" parent="3bc49322ef69c" root="a54a193fbc58c" order="10" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="0ffd6bba797b3" parent="3bc49322ef69c" root="a54a193fbc58c" order="11" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="1001" wordCount="56" paraCount="2" cursorPos="226" />
       <name status="s54df93" import="i662472" active="yes">七仙女</name>
     </item>
-    <item handle="731a7f2cd2a3a" parent="3bc49322ef69c" root="a54a193fbc58c" order="11" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="731a7f2cd2a3a" parent="3bc49322ef69c" root="a54a193fbc58c" order="12" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="2407" wordCount="48" paraCount="7" cursorPos="2451" />
       <name status="s54df93" import="i662472" active="yes">豆包</name>
     </item>
-    <item handle="cd86c4bf2baed" parent="3bc49322ef69c" root="a54a193fbc58c" order="12" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="cd86c4bf2baed" parent="3bc49322ef69c" root="a54a193fbc58c" order="13" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="48" wordCount="10" paraCount="2" cursorPos="47" />
       <name status="s54df93" import="i662472" active="yes">如来</name>
     </item>
-    <item handle="34373f5b0b3aa" parent="3bc49322ef69c" root="a54a193fbc58c" order="13" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="34373f5b0b3aa" parent="3bc49322ef69c" root="a54a193fbc58c" order="14" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="5" wordCount="2" paraCount="1" cursorPos="4" />
       <name status="s54df93" import="i662472" active="yes">嫦娥</name>
     </item>
-    <item handle="0f9ec9cf84548" parent="3bc49322ef69c" root="a54a193fbc58c" order="14" type="FILE" class="CHARACTER" layout="NOTE">
+    <item handle="0f9ec9cf84548" parent="3bc49322ef69c" root="a54a193fbc58c" order="15" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="51" wordCount="7" paraCount="1" cursorPos="58" />
       <name status="s54df93" import="i662472" active="yes">马猴</name>
-    </item>
-    <item handle="dab5ea8257835" parent="3bc49322ef69c" root="a54a193fbc58c" order="15" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="33" wordCount="4" paraCount="1" cursorPos="27" />
-      <name status="s54df93" import="i662472" active="yes">唐僧</name>
     </item>
     <item handle="a8f2f1cabf452" parent="3bc49322ef69c" root="a54a193fbc58c" order="16" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="288" wordCount="5" paraCount="1" cursorPos="294" />
