@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-18 02:21:36">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="18" autoCount="9611" editTime="4628899">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-18 07:06:05">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="19" autoCount="9744" editTime="4645968">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,26 +9,26 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">c05de94ebd2f3</entry>
+      <entry key="editor">1d7b48157de63</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="283" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="285" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
     </status>
     <importance>
-      <entry key="i662472" count="260" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="i662472" count="263" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="i34cafd" count="0" red="200" green="50" blue="0" shape="SQUARE">Minor</entry>
       <entry key="i1347ee" count="0" red="200" green="150" blue="0" shape="SQUARE">Major</entry>
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="543" novelWords="28225" notesWords="9550">
+  <content items="548" novelWords="28804" notesWords="9550">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -46,7 +46,7 @@
       <name status="s54df93" import="i662472">西游</name>
     </item>
     <item handle="66d29b6f15fa0" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="0" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">大纲</name>
     </item>
     <item handle="0473edfa83de0" parent="66d29b6f15fa0" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="NOTE">
@@ -106,7 +106,7 @@
       <name status="s54df93" import="i662472" active="yes">悟空东海寻根</name>
     </item>
     <item handle="a84cb9d2d1d57" parent="66d29b6f15fa0" root="c4a9a239c9ccb" order="5" type="FOLDER" class="NOVEL">
-      <meta expanded="yes" />
+      <meta expanded="no" />
       <name status="s54df93" import="i662472">白骨精</name>
     </item>
     <item handle="5328e96b297bd" parent="a84cb9d2d1d57" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -118,15 +118,15 @@
       <name status="s54df93" import="i662472" active="yes">扩建细节</name>
     </item>
     <item handle="e673a9ee0deb9" parent="a84cb9d2d1d57" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3544" wordCount="55" paraCount="41" cursorPos="3629" />
+      <meta expanded="no" heading="H2" charCount="3544" wordCount="55" paraCount="41" cursorPos="2697" />
       <name status="s54df93" import="i662472" active="yes">第一章：红衣僧人与送斋少妇</name>
     </item>
     <item handle="611c7547494dd" parent="a84cb9d2d1d57" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3681" wordCount="42" paraCount="33" cursorPos="3750" />
+      <meta expanded="no" heading="H2" charCount="3683" wordCount="42" paraCount="33" cursorPos="3293" />
       <name status="s54df93" import="i662472" active="yes">第二章：寻女老妇与被掳的徒弟</name>
     </item>
     <item handle="c345fc6f725b1" parent="a84cb9d2d1d57" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2860" wordCount="34" paraCount="25" cursorPos="2133" />
+      <meta expanded="no" heading="H2" charCount="2860" wordCount="34" paraCount="25" cursorPos="1872" />
       <name status="s54df93" import="i662472" active="yes">第三章：白发老翁与红衣女儿身</name>
     </item>
     <item handle="d23049bbd8e14" parent="a84cb9d2d1d57" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -790,11 +790,19 @@
       <name status="s54df93" import="i662472" active="yes">第一百一十三章 战镇元群雄合力 窃圣水仙树重荣</name>
     </item>
     <item handle="c05de94ebd2f3" parent="084245d117cfc" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3356" wordCount="80" paraCount="62" cursorPos="3477" />
+      <meta expanded="no" heading="H2" charCount="3356" wordCount="80" paraCount="62" cursorPos="3491" />
       <name status="s54df93" import="i662472" active="yes">第一百一十四章 花果山植灵根 五行图破藏宝</name>
     </item>
+    <item handle="54d1ce39ed194" parent="084245d117cfc" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3302" wordCount="73" paraCount="61" cursorPos="3431" />
+      <name status="s54df93" import="i662472" active="yes">第一百一十五章 白骨误咬仙拨鼠 枯骨初生暗焕形</name>
+    </item>
+    <item handle="f94b29c0dcb9a" parent="084245d117cfc" root="c4a9a239c9ccb" order="15" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3487" wordCount="97" paraCount="69" cursorPos="3630" />
+      <name status="s54df93" import="i662472" active="yes">第一百一十六章 声东击西再咬鼠 一丹化形绝色成</name>
+    </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="378740" wordCount="8243" paraCount="5473" cursorPos="390712" />
+      <meta expanded="no" heading="H1" charCount="382096" wordCount="8323" paraCount="5535" cursorPos="394206" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -810,11 +818,11 @@
       <name status="s54df93" import="i662472">废弃</name>
     </item>
     <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="5010" wordCount="58" paraCount="50" cursorPos="5109" />
+      <meta expanded="no" heading="H2" charCount="3300" wordCount="48" paraCount="37" cursorPos="3375" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H2" charCount="2932" wordCount="69" paraCount="1" cursorPos="2523" />
+      <meta expanded="yes" heading="H2" charCount="7089" wordCount="78" paraCount="72" cursorPos="7232" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="2a2c27f923120" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -846,7 +854,7 @@
       <name status="s54df93" import="i662472">《超维纪元》</name>
     </item>
     <item handle="9574c6251d257" parent="None" root="9574c6251d257" order="1" type="ROOT" class="PLOT">
-      <meta expanded="yes" />
+      <meta expanded="no" />
       <name status="s54df93" import="i662472">场景</name>
     </item>
     <item handle="070ee0a8483b8" parent="9574c6251d257" root="9574c6251d257" order="0" type="FOLDER" class="PLOT">
@@ -1522,7 +1530,7 @@
       <name status="s54df93" import="i662472" active="yes">金总的小说</name>
     </item>
     <item handle="a54a193fbc58c" parent="None" root="a54a193fbc58c" order="2" type="ROOT" class="CHARACTER">
-      <meta expanded="yes" />
+      <meta expanded="no" />
       <name status="s54df93" import="i662472">角色</name>
     </item>
     <item handle="8c02504a21787" parent="a54a193fbc58c" root="a54a193fbc58c" order="0" type="FOLDER" class="CHARACTER">
@@ -1878,7 +1886,7 @@
       <name status="s54df93" import="i662472" active="yes">武打设计</name>
     </item>
     <item handle="95f33353c331f" parent="None" root="95f33353c331f" order="3" type="ROOT" class="ARCHIVE">
-      <meta expanded="yes" />
+      <meta expanded="no" />
       <name status="s54df93" import="i662472">架构</name>
     </item>
     <item handle="18e61551894b0" parent="95f33353c331f" root="95f33353c331f" order="0" type="FOLDER" class="ARCHIVE">
@@ -2200,6 +2208,18 @@
     <item handle="dcd6b1413a84d" parent="ab032525a499c" root="ab032525a499c" order="0" type="FILE" class="TRASH" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="3657" wordCount="112" paraCount="97" cursorPos="340" />
       <name status="s54df93" import="i662472" active="yes">第一百一十一章 四圣化庄试禅心 灵香暗结圣人缘</name>
+    </item>
+    <item handle="31762f020544b" parent="ab032525a499c" root="ab032525a499c" order="1" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3726" wordCount="108" paraCount="80" cursorPos="3892" />
+      <name status="s54df93" import="i662472" active="yes">第一百一十五章 红衣僧人入白虎 少妇送斋露妖形</name>
+    </item>
+    <item handle="0f3f91df6046d" parent="ab032525a499c" root="ab032525a499c" order="2" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3658" wordCount="133" paraCount="42" cursorPos="1982" />
+      <name status="s54df93" import="i662472" active="yes">第一百一十六章 野果陷坑惊憨徒 老妇寻女藏杀机</name>
+    </item>
+    <item handle="94564bd4e1122" parent="ab032525a499c" root="ab032525a499c" order="3" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="2708" wordCount="89" paraCount="2" cursorPos="1111" />
+      <name status="s54df93" import="i662472" active="yes">第一百一十七章 悬崖绝路照痴骨 一念放下归花果山</name>
     </item>
   </content>
 </novelWriterXML>
