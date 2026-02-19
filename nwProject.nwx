@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-20 07:09:37">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="19" autoCount="10085" editTime="4818980">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-20 07:24:43">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="19" autoCount="10089" editTime="4819886">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">4f7d0e8f7a01f</entry>
+      <entry key="editor">f729db8e44547</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="297" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="298" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="561" novelWords="30368" notesWords="9559">
+  <content items="562" novelWords="30792" notesWords="9559">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -838,7 +838,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百二十章 金箍荡平吞宝妖 汉家重光昌洲岛</name>
     </item>
     <item handle="4f7d0e8f7a01f" parent="084245d117cfc" root="c4a9a239c9ccb" order="20" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3478" wordCount="99" paraCount="80" cursorPos="3643" />
+      <meta expanded="no" heading="H2" charCount="3478" wordCount="99" paraCount="80" cursorPos="463" />
       <name status="s54df93" import="i662472" active="yes">第一百二十一章 文昌定密计 心狐影惑心</name>
     </item>
     <item handle="c0152af1a76da" parent="084245d117cfc" root="c4a9a239c9ccb" order="21" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -849,8 +849,12 @@
       <meta expanded="no" heading="H2" charCount="4513" wordCount="174" paraCount="135" cursorPos="4799" />
       <name status="s54df93" import="i662472" active="yes">第一百二十三章 三羞断尘缘 一醒破痴狂</name>
     </item>
+    <item handle="f729db8e44547" parent="084245d117cfc" root="c4a9a239c9ccb" order="23" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="2919" wordCount="54" paraCount="44" cursorPos="2981" />
+      <name status="s54df93" import="i662472" active="yes">第一百二十四章 尘缘终有尽 一别两心宽</name>
+    </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="401687" wordCount="8874" paraCount="5990" cursorPos="410068" />
+      <meta expanded="no" heading="H1" charCount="412789" wordCount="9244" paraCount="6282" cursorPos="426496" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
