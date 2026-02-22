@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-22 06:04:11">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="20" autoCount="10293" editTime="4987854">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-22 09:34:48">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="21" autoCount="10429" editTime="5000222">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -16,7 +16,7 @@
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="303" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="305" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="567" novelWords="31373" notesWords="9559">
+  <content items="569" novelWords="31830" notesWords="9559">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -842,7 +842,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百二十一章 文昌定密计 心狐影惑心</name>
     </item>
     <item handle="c0152af1a76da" parent="084245d117cfc" root="c4a9a239c9ccb" order="21" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3140" wordCount="98" paraCount="78" cursorPos="3152" />
+      <meta expanded="no" heading="H2" charCount="3136" wordCount="96" paraCount="75" cursorPos="3296" />
       <name status="s54df93" import="i662472" active="yes">第一百二十二章 困途临厄难 禅心自见真</name>
     </item>
     <item handle="8f8251a8cab39" parent="084245d117cfc" root="c4a9a239c9ccb" order="22" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -854,7 +854,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百二十四章 尘缘终有尽 一别两心宽</name>
     </item>
     <item handle="1eb842cd82d56" parent="084245d117cfc" root="c4a9a239c9ccb" order="24" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3601" wordCount="100" paraCount="73" cursorPos="2510" />
+      <meta expanded="no" heading="H2" charCount="3607" wordCount="102" paraCount="73" cursorPos="3762" />
       <name status="s54df93" import="i662472" active="yes">第一百二十五章 妖王演拙计 三徒振威风</name>
     </item>
     <item handle="756ccd1bc9ccc" parent="084245d117cfc" root="c4a9a239c9ccb" order="25" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -866,11 +866,19 @@
       <name status="s54df93" import="i662472" active="yes">第一百二十七章 文昌观卦疑云起 四英暗护取经人</name>
     </item>
     <item handle="42b92c4dd9aa6" parent="084245d117cfc" root="c4a9a239c9ccb" order="27" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3908" wordCount="98" paraCount="63" cursorPos="3832" />
-      <name status="s54df93" import="i662472" active="yes">第一百二十八章 平顶山野炊戏呆子 破忘子报怨老君</name>
+      <meta expanded="no" heading="H2" charCount="3536" wordCount="94" paraCount="63" cursorPos="2007" />
+      <name status="s54df93" import="i662472" active="yes">第一百二十八章 平顶山野炊戏呆子 破妄子报怨老君</name>
+    </item>
+    <item handle="476ba4183c606" parent="084245d117cfc" root="c4a9a239c9ccb" order="28" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3556" wordCount="93" paraCount="67" cursorPos="1630" />
+      <name status="s54df93" import="i662472" active="yes">第一百二十九章 搬山难压大圣体 二妖自困宝瓶中</name>
+    </item>
+    <item handle="529fd2283ed4f" parent="084245d117cfc" root="c4a9a239c9ccb" order="29" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3181" wordCount="101" paraCount="84" cursorPos="2508" />
+      <name status="s54df93" import="i662472" active="yes">第一百三十章 化妖骗绳归青丘 赠宝分途赴乌鸡</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="423643" wordCount="9551" paraCount="6529" cursorPos="437888" />
+      <meta expanded="no" heading="H1" charCount="433890" wordCount="9837" paraCount="6741" cursorPos="430453" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -886,15 +894,15 @@
       <name status="s54df93" import="i662472">废弃</name>
     </item>
     <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3588" wordCount="94" paraCount="1" cursorPos="3649" />
+      <meta expanded="no" heading="H2" charCount="3284" wordCount="86" paraCount="1" cursorPos="3363" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H2" charCount="3134" wordCount="40" paraCount="35" cursorPos="344" />
+      <meta expanded="yes" heading="H2" charCount="2748" wordCount="58" paraCount="1" cursorPos="2771" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="2a2c27f923120" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4982" wordCount="123" paraCount="1" cursorPos="524" />
+      <meta expanded="no" heading="H2" charCount="6540" wordCount="94" paraCount="78" cursorPos="6698" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="34d7aba0152f7" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
