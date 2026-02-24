@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-24 08:50:17">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="22" autoCount="10811" editTime="5170299">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-25 07:46:24">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="22" autoCount="11022" editTime="5252865">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -16,19 +16,19 @@
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="316" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="320" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
     </status>
     <importance>
-      <entry key="i662472" count="264" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="i662472" count="265" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="i34cafd" count="0" red="200" green="50" blue="0" shape="SQUARE">Minor</entry>
       <entry key="i1347ee" count="0" red="200" green="150" blue="0" shape="SQUARE">Major</entry>
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="580" novelWords="33854" notesWords="9559">
+  <content items="585" novelWords="34079" notesWords="9559">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -314,7 +314,7 @@
       <name status="s54df93" import="i662472" active="yes">80后续</name>
     </item>
     <item handle="92f3b83a3c2c9" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="3" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">0-44</name>
     </item>
     <item handle="7e38fb87d5690" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -702,7 +702,7 @@
       <name status="s54df93" import="i662472" active="yes">第八十八章 长安行・灯火人间动慈心</name>
     </item>
     <item handle="8338dc5391203" parent="7e493d5ec4f80" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3844" wordCount="111" paraCount="81" cursorPos="295" />
+      <meta expanded="no" heading="H2" charCount="3844" wordCount="111" paraCount="81" cursorPos="2251" />
       <name status="s54df93" import="i662472" active="yes">第八十九章 金山寺・一锁时光救浮生</name>
     </item>
     <item handle="e16687aac5e88" parent="7e493d5ec4f80" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -898,7 +898,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百三十五章 金丹还阳 金殿证理</name>
     </item>
     <item handle="271db8fb33960" parent="084245d117cfc" root="c4a9a239c9ccb" order="35" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3281" wordCount="79" paraCount="55" cursorPos="20" />
+      <meta expanded="no" heading="H2" charCount="3281" wordCount="79" paraCount="55" cursorPos="3409" />
       <name status="s54df93" import="i662472" active="yes">第一百三十六章 万民同乐 除年守岁</name>
     </item>
     <item handle="26088afa27dae" parent="084245d117cfc" root="c4a9a239c9ccb" order="36" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -921,6 +921,22 @@
       <meta expanded="no" heading="H2" charCount="3426" wordCount="71" paraCount="63" cursorPos="3557" />
       <name status="s54df93" import="i662472" active="yes">第一百四十章 川音老乡遇上火云娃 观音笑收小辣椒童</name>
     </item>
+    <item handle="abfed0e7b6c9a" parent="084245d117cfc" root="c4a9a239c9ccb" order="41" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3940" wordCount="137" paraCount="113" cursorPos="4175" />
+      <name status="s54df93" import="i662472" active="yes">第一百四十一章 万里音书至 三地念相思</name>
+    </item>
+    <item handle="4127896fdce04" parent="084245d117cfc" root="c4a9a239c9ccb" order="42" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3070" wordCount="66" paraCount="57" cursorPos="3188" />
+      <name status="s54df93" import="i662472" active="yes">第一百四十二章 黑水设伏 二龙子初交锋</name>
+    </item>
+    <item handle="a2e1353c783e9" parent="084245d117cfc" root="c4a9a239c9ccb" order="43" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3500" wordCount="109" paraCount="89" cursorPos="3683" />
+      <name status="s54df93" import="i662472" active="yes">第一百四十三章 魔影突袭 亦可赴西海路</name>
+    </item>
+    <item handle="308fe03657f37" parent="084245d117cfc" root="c4a9a239c9ccb" order="44" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3483" wordCount="111" paraCount="82" cursorPos="3651" />
+      <name status="s54df93" import="i662472" active="yes">第一百四十四章 阵破龙擒 旧识败走魔踪</name>
+    </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H1" charCount="468057" wordCount="10732" paraCount="7456" cursorPos="473685" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
@@ -938,7 +954,7 @@
       <name status="s54df93" import="i662472">废弃</name>
     </item>
     <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="14416" wordCount="330" paraCount="278" cursorPos="15012" />
+      <meta expanded="no" heading="H2" charCount="3268" wordCount="112" paraCount="1" cursorPos="3354" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -2074,7 +2090,7 @@
       <name status="s54df93" import="i662472" active="yes">取经的意义</name>
     </item>
     <item handle="5ebe0d456f52d" parent="b2aae2162b3fd" root="95f33353c331f" order="3" type="FILE" class="ARCHIVE" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="1774" wordCount="144" paraCount="8" cursorPos="278" />
+      <meta expanded="no" heading="H0" charCount="1779" wordCount="136" paraCount="10" cursorPos="1654" />
       <name status="s54df93" import="i662472" active="yes">原81难</name>
     </item>
     <item handle="c6358b499377b" parent="b2aae2162b3fd" root="95f33353c331f" order="4" type="FILE" class="ARCHIVE" layout="NOTE">
@@ -2348,6 +2364,10 @@
     <item handle="94564bd4e1122" parent="ab032525a499c" root="ab032525a499c" order="3" type="FILE" class="TRASH" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="2708" wordCount="89" paraCount="2" cursorPos="1921" />
       <name status="s54df93" import="i662472" active="yes">第一百一十七章 悬崖绝路照痴骨 一念放下归花果山</name>
+    </item>
+    <item handle="b43b458e594e5" parent="ab032525a499c" root="ab032525a499c" order="4" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="777" wordCount="28" paraCount="20" cursorPos="822" />
+      <name status="s54df93" import="i662472" active="yes">【番外：万里传声，亲人回音】</name>
     </item>
   </content>
 </novelWriterXML>
