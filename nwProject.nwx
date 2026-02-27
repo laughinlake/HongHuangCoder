@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-27 11:14:59">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="22" autoCount="11425" editTime="5438181">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-02-27 11:36:59">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="22" autoCount="11437" editTime="5439501">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="588" novelWords="35433" notesWords="9559">
+  <content items="588" novelWords="35323" notesWords="9559">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -962,15 +962,15 @@
       <name status="s54df93" import="i662472" active="yes">第一百四十九章 车迟国僧道颓废 三清观妖厨加餐</name>
     </item>
     <item handle="5fa438e393b8f" parent="da206e06a4a07" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4015" wordCount="133" paraCount="100" cursorPos="4224" />
+      <meta expanded="no" heading="H2" charCount="4087" wordCount="122" paraCount="78" cursorPos="4250" />
       <name status="s54df93" import="i662472" active="yes">第一百五十章 金銮殿三仙斗法 烤全羊惊破邪胆</name>
     </item>
     <item handle="1ebf6f3e116c9" parent="da206e06a4a07" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3055" wordCount="88" paraCount="73" cursorPos="3205" />
+      <meta expanded="no" heading="H2" charCount="3068" wordCount="88" paraCount="73" cursorPos="982" />
       <name status="s54df93" import="i662472" active="yes">第一百五十一章膳房决赛争高下 三妖收作后山厨</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="507140" wordCount="11866" paraCount="8361" cursorPos="525321" />
+      <meta expanded="no" heading="H1" charCount="504157" wordCount="11767" paraCount="8266" cursorPos="522139" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
