@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-03-02 18:37:01">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="22" autoCount="12182" editTime="5723902">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-03-03 06:53:09">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="22" autoCount="12253" editTime="5768071">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,7 +9,7 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">99f709b2f4782</entry>
+      <entry key="editor">b6cf94b1fbf01</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="599" novelWords="37038" notesWords="9559">
+  <content items="599" novelWords="37529" notesWords="9559">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -754,7 +754,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百章 观音赐箍藏佛计 大圣暗改灵山门</name>
     </item>
     <item handle="084245d117cfc" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="6" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">101-148</name>
     </item>
     <item handle="46d94416f4a51" parent="084245d117cfc" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -794,7 +794,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百零九章 双盏合璧 灾备定沙河</name>
     </item>
     <item handle="31219793e4fd0" parent="084245d117cfc" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3458" wordCount="118" paraCount="82" cursorPos="3192" />
+      <meta expanded="no" heading="H2" charCount="3464" wordCount="118" paraCount="82" cursorPos="337" />
       <name status="s54df93" import="i662472" active="yes">第一百一十章 洞天架构初落地 流沙灾备始动工</name>
     </item>
     <item handle="26338657c7214" parent="084245d117cfc" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -986,7 +986,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百五十五章 冰面钓妖金鳞落 老鼋托寿问西天</name>
     </item>
     <item handle="8da7c6f9f8987" parent="da206e06a4a07" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3112" wordCount="80" paraCount="65" cursorPos="3248" />
+      <meta expanded="no" heading="H2" charCount="3497" wordCount="91" paraCount="73" cursorPos="1448" />
       <name status="s54df93" import="i662472" active="yes">第一百五十六章 母晶铸芯通天河 玄龟镇脉收灵鼋</name>
     </item>
     <item handle="c1afc588e4160" parent="da206e06a4a07" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -994,27 +994,27 @@
       <name status="s54df93" import="i662472" active="yes">第一百五十七章 天机微澜狐心变 柳獐雷音探仙山</name>
     </item>
     <item handle="79aeccaf25a00" parent="da206e06a4a07" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3704" wordCount="80" paraCount="72" cursorPos="3852" />
+      <meta expanded="no" heading="H2" charCount="3807" wordCount="83" paraCount="75" cursorPos="3961" />
       <name status="s54df93" import="i662472" active="yes">第一百五十八章 误入西梁女国 误饮假胎河水</name>
     </item>
     <item handle="c2fbdb4dd0b50" parent="da206e06a4a07" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3321" wordCount="65" paraCount="52" cursorPos="3432" />
+      <meta expanded="no" heading="H2" charCount="3337" wordCount="65" paraCount="52" cursorPos="3448" />
       <name status="s54df93" import="i662472" active="yes">第一百五十九章 御花园倾心定情 解阳山斗法取水</name>
     </item>
     <item handle="b6cf94b1fbf01" parent="da206e06a4a07" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3666" wordCount="101" paraCount="79" cursorPos="3830" />
+      <meta expanded="no" heading="H2" charCount="3826" wordCount="101" paraCount="79" cursorPos="1109" />
       <name status="s54df93" import="i662472" active="yes">第一百六十章 月下清歌引胎气 御阶前笑论聘仪</name>
     </item>
     <item handle="0dfb2f3fdace5" parent="da206e06a4a07" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3256" wordCount="96" paraCount="79" cursorPos="3422" />
+      <meta expanded="no" heading="H2" charCount="3256" wordCount="96" paraCount="79" cursorPos="2727" />
       <name status="s54df93" import="i662472" active="yes">第一百六十一章 琵琶洞妖迷圣僧 倾城兵至救禅心</name>
     </item>
     <item handle="99f709b2f4782" parent="da206e06a4a07" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3754" wordCount="123" paraCount="94" cursorPos="9" />
+      <meta expanded="no" heading="H2" charCount="3707" wordCount="121" paraCount="94" cursorPos="2319" />
       <name status="s54df93" import="i662472" active="yes">第一百六十二章 星官啼鸣灭妖影 城西相送万人呼</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="527464" wordCount="12481" paraCount="8824" cursorPos="546629" />
+      <meta expanded="no" heading="H1" charCount="545659" wordCount="12960" paraCount="9211" cursorPos="550999" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
