@@ -62,6 +62,8 @@ content/d02ff276f4639.nwd  NOVEL      DOCUMENT  权谋
 content/0f4dfc7893122.nwd  NOVEL      DOCUMENT  天庭开战
 content/9c1f8569aec1c.nwd  NOVEL      DOCUMENT  势力范围
 content/f5f971f47d8a4.nwd  NOVEL      DOCUMENT  80后续
+content/859862a59b9b9.nwd  NOVEL      DOCUMENT  189
+content/f16a9cd73328a.nwd  NOVEL      DOCUMENT  0-9 章 爽点梳理
 content/7e38fb87d5690.nwd  NOVEL      DOCUMENT  引子 神话纪元的召唤
 content/08bb43c25847b.nwd  NOVEL      DOCUMENT  第一章 0和1的枷锁，桃花香的悸动
 content/3ff3a0ce02ec4.nwd  NOVEL      DOCUMENT  第二章 金色蜥蜴的信使
@@ -196,7 +198,89 @@ content/f729db8e44547.nwd  NOVEL      DOCUMENT  第一百二十四章 尘缘终�
 content/1eb842cd82d56.nwd  NOVEL      DOCUMENT  第一百二十五章 妖王演拙计 三徒振威风
 content/756ccd1bc9ccc.nwd  NOVEL      DOCUMENT  第一百二十六章 六耳戏耍双妖王 灵毫窃听识奸谋
 content/f16aea6cfaf6e.nwd  NOVEL      DOCUMENT  第一百二十七章 文昌观卦疑云起 四英暗护取经人
-content/42b92c4dd9aa6.nwd  NOVEL      DOCUMENT  第一百二十八章 平顶山野炊戏呆子 破忘子报怨老君
+content/42b92c4dd9aa6.nwd  NOVEL      DOCUMENT  第一百二十八章 平顶山野炊戏呆子 破妄子报怨老君
+content/476ba4183c606.nwd  NOVEL      DOCUMENT  第一百二十九章 搬山难压大圣体 二妖自困宝瓶中
+content/529fd2283ed4f.nwd  NOVEL      DOCUMENT  第一百三十章 化妖骗绳归青丘 赠宝分途赴乌鸡
+content/2c83173a58979.nwd  NOVEL      DOCUMENT  第一百三十一章 胜天半子 小胖显神通
+content/4c5d2bd4d7454.nwd  NOVEL      DOCUMENT  第一百三十二章 乌鸡无欢 古寺藏疑
+content/f18273d9b3756.nwd  NOVEL      DOCUMENT  第一百三十三章 井底藏身 地府留魂
+content/9fb87416f8ffb.nwd  NOVEL      DOCUMENT  第一百三十四章 玉圭昭冤 地府明因
+content/5f3f052b1bbfb.nwd  NOVEL      DOCUMENT  第一百三十五章 金丹还阳 金殿证理
+content/271db8fb33960.nwd  NOVEL      DOCUMENT  第一百三十六章 万民同乐 除年守岁
+content/26088afa27dae.nwd  NOVEL      DOCUMENT  【彩蛋・兄妹密语】
+content/c32c1b76acd5d.nwd  NOVEL      DOCUMENT  第一百三十七章 魔府新春谋圣僧 枯松烟起待西行
+content/5f447ab8c1174.nwd  NOVEL      DOCUMENT  第一百三十八章 金箍变作高压水冷 真火难敌自适应洪流
+content/f89cbd47c87ff.nwd  NOVEL      DOCUMENT  第一百三十九章 假魔王巧对生辰 缚灵索初擒火云童
+content/1dc58c3ea5f85.nwd  NOVEL      DOCUMENT  第一百四十章 川音老乡遇上火云娃 观音笑收小辣椒童
+content/abfed0e7b6c9a.nwd  NOVEL      DOCUMENT  第一百四十一章 万里音书至 三地念相思
+content/4127896fdce04.nwd  NOVEL      DOCUMENT  第一百四十二章 黑水设伏 二龙子初交锋
+content/a2e1353c783e9.nwd  NOVEL      DOCUMENT  第一百四十三章 魔影突袭 亦可赴西海路
+content/308fe03657f37.nwd  NOVEL      DOCUMENT  第一百四十四章 阵破龙擒 旧识败走魔踪
+content/1b8d55f20f5b1.nwd  NOVEL      DOCUMENT  第一百四十五章 算力潮起 三界异动
+content/c24f84e4010ad.nwd  NOVEL      DOCUMENT  第一百四十六章 弃子破局 道盟初成
+content/6df3ce7d07477.nwd  NOVEL      DOCUMENT  第一百四十七章 学院肇始 方寸联动
+content/fa3f22e11babc.nwd  NOVEL      DOCUMENT  第一百四十八章 戏耍迦叶 三院初立
+content/fdbd8636a5aa1.nwd  NOVEL      DOCUMENT  第一百四十九章 车迟国僧道颓废 三清观妖厨加餐
+content/5fa438e393b8f.nwd  NOVEL      DOCUMENT  第一百五十章 金銮殿三仙斗法 烤全羊惊破邪胆
+content/1ebf6f3e116c9.nwd  NOVEL      DOCUMENT  第一百五十一章膳房决赛争高下 三妖收作后山厨
+content/e2225910fa876.nwd  NOVEL      DOCUMENT  第一百五十二章 戈壁劫僧
+content/e831b55296adc.nwd  NOVEL      DOCUMENT  第一百五十三章 禅心脱困
+content/185942112f696.nwd  NOVEL      DOCUMENT  第一百五十四章 通天河换童男 沙校草初露颜
+content/3e31f3e1e0747.nwd  NOVEL      DOCUMENT  第一百五十五章 冰面钓妖金鳞落 老鼋托寿问西天
+content/8da7c6f9f8987.nwd  NOVEL      DOCUMENT  第一百五十六章 母晶铸芯通天河 玄龟镇脉收灵鼋
+content/c1afc588e4160.nwd  NOVEL      DOCUMENT  第一百五十七章 天机微澜狐心变 柳獐雷音探仙山
+content/79aeccaf25a00.nwd  NOVEL      DOCUMENT  第一百五十八章 误入西梁女国 误饮假胎河水
+content/c2fbdb4dd0b50.nwd  NOVEL      DOCUMENT  第一百五十九章 御花园倾心定情 解阳山斗法取水
+content/b6cf94b1fbf01.nwd  NOVEL      DOCUMENT  第一百六十章 月下清歌引胎气 御阶前笑论聘仪
+content/0dfb2f3fdace5.nwd  NOVEL      DOCUMENT  第一百六十一章 琵琶洞妖迷圣僧 倾城兵至救禅心
+content/99f709b2f4782.nwd  NOVEL      DOCUMENT  第一百六十二章 星官啼鸣灭妖影 城西相送万人呼
+content/8bda50932fc50.nwd  NOVEL      DOCUMENT  第一百六十三章 塞北四才投山门 悟鹰观卦识星官
+content/7327d0bfb779f.nwd  NOVEL      DOCUMENT  第一百六十四章 四才分职闹仙山 假账虚情报天庭
+content/6a3c7ddb86489.nwd  NOVEL      DOCUMENT  第一百六十五章 遮卦石影动 黄眉卷土来
+content/fbc4de21cf779.nwd  NOVEL      DOCUMENT  第一百六十六章 趁乱碎假石 四才遁天功
+content/c60ba87e95a52.nwd  NOVEL      DOCUMENT  第一百六十七章 青衫箫客论道 悟空破论掳师
+content/d1b60f38183ae.nwd  NOVEL      DOCUMENT  第一百六十八章 金刚琢连吞四宝 破芭蕉扇伏青牛
+content/219fe68c9bab1.nwd  NOVEL      DOCUMENT  第一百六十九章 伪阵遮山藏虚实 旧魁负荆归洞天
+content/529bca33eb1d7.nwd  NOVEL      DOCUMENT  第一百七十章 金光塔囚僧含冤 扫浮尘师徒遇奇妖
+content/bb335b7529ad8.nwd  NOVEL      DOCUMENT  第一百七十一章 金銮唱供沉冤雪 玉龙衔恨请神兵
+content/69246bac1f36f.nwd  NOVEL      DOCUMENT  第一百七十二章 九圣合围斩九头 暗焚舍利换明珠
+content/9f2bc8d6ff40e.nwd  NOVEL      DOCUMENT  第一百七十三章 文昌执考列四罪 云端问责断仙山
+content/96846887bec7a.nwd  NOVEL      DOCUMENT  第一百七十四章 灵山观变局 太白露忠心
+content/437e2520f8c08.nwd  NOVEL      DOCUMENT  第一百七十五章 灵山定暗棋 六耳空闻声
+content/8954d486eeb7b.nwd  NOVEL      DOCUMENT  第一百七十六章 摩云洞儿是前程 铁扇公主碎心归
+content/58469fa43182b.nwd  NOVEL      DOCUMENT  第一百七十七章 双雌对撕鹰隼救主 魔王借故遁无踪
+content/3f6739bb78875.nwd  NOVEL      DOCUMENT  第一百七十八章 虚与委蛇先作戏 双圣太极暗交锋
+content/958edadb67921.nwd  NOVEL      DOCUMENT  第一百七十九章 空手拼平持刀战 双雄罢斗各归还
+content/391fa08f8c340.nwd  NOVEL      DOCUMENT  第一百八十章 积雷山列阵嘲敌 五对五阵前生变
+content/4b34f00a804eb.nwd  NOVEL      DOCUMENT  第一百八十一章 妖王峡谷首战开 芭蕉对帕风不扬
+content/1aeb76b68a87a.nwd  NOVEL      DOCUMENT  第一百八十二章 换阵再战火焰谷 两连败牛王欲降
+content/dbff5d15b1b4b.nwd  NOVEL      DOCUMENT  第一百八十三章 积雷一战草收局 火焰千重双设伏
+content/eb0128a10eee2.nwd  NOVEL      DOCUMENT  第一百八十四章 返途惊觉留铁证 道心藏逆卜乾坤
+content/6dc5f56eb1538.nwd  NOVEL      DOCUMENT  第一百八十五章 禁器惊现算力司 凌霄对质讼滔天
+content/8828305c87402.nwd  NOVEL      DOCUMENT  第一百八十六章 天兵出凌霄 暗线递警音
+content/b363da108f61f.nwd  NOVEL      DOCUMENT  第一百八十七章 四象镇山 云头窥局
+content/af9177b553bed.nwd  NOVEL      DOCUMENT  第一百八十八章 五路平推 一火焚心
+content/a3e1e72da3145.nwd  NOVEL      DOCUMENT  第一百八十九章 明王压阵 双战孔雀
+content/4b7423a409dea.nwd  NOVEL      DOCUMENT  第一百九十章 百脉俱燃 明王开屏
+content/0d5063017b80b.nwd  NOVEL      DOCUMENT  第一百九十一章 观音临世 千机暗藏
+content/ad95d57b453c4.nwd  NOVEL      DOCUMENT  第一百九十二章 问讯紫霞 心证不二
+content/b77e787e02ceb.nwd  NOVEL      DOCUMENT  第一百九十三章 故地重描山如故 新图初画笔藏锋
+content/dd0a9efb7d4cc.nwd  NOVEL      DOCUMENT  第一百九十四章 天庭暗斗 灵山惊心
+content/258658627c23a.nwd  NOVEL      DOCUMENT  第一百九十五章 荆棘岭迷途入仙境 木仙庵禅心化痴缠
+content/e6d8e4e130366.nwd  NOVEL      DOCUMENT  第一百九十六章 云变万象 心起波澜
+content/58cfb441828de.nwd  NOVEL      DOCUMENT  第一百九十七章 稀柿衕老猪吞路 七绝山柿柿如意
+content/9a9d1254a64e3.nwd  NOVEL      DOCUMENT  第一百九十八章 神狂诛草寇 道昧放心猿
+content/f0a74b55e5596.nwd  NOVEL      DOCUMENT  第一百九十九章 文牒失踪师徒急 心猿归正识假身
+content/014cbd02d944d.nwd  NOVEL      DOCUMENT  第二百章 师徒定策探峨眉 真假初分夺牒衣
+content/1ceea25bed2ef.nwd  NOVEL      DOCUMENT  第二百零一章 雷音分大小 悖论定心猿
+content/32204573c19e3.nwd  NOVEL      DOCUMENT  第二百零二章 双猴入假寺 黄眉布禅机
+content/4f5475f8f5de1.nwd  NOVEL      DOCUMENT  第二百零三章 假雷音双猴辨伪 小乘经三妖装懂
+content/766793ca386e8.nwd  NOVEL      DOCUMENT  第二百零四章 二猴合力战黄眉 一棒破空碎金铙
+content/fcd4e86373ef0.nwd  NOVEL      DOCUMENT  第二百零五章 袋内沉沉无日月 一孔微微有生机
+content/707ca1029cbd6.nwd  NOVEL      DOCUMENT  第二百零六章 法宝俱失妖魂散 瓜田真佛辨虚玄
+content/85352c5d15e69.nwd  NOVEL      DOCUMENT  第二百零七章 小雷音余音 花果山云深
+content/2f5c89af75ddb.nwd  NOVEL      DOCUMENT  第二百零八章 乱世野狼抢仙姬 月夜轻歌颂真情
+content/2de960df396c6.nwd  NOVEL      DOCUMENT  第二百零九章 残寺四妖归正果 都城皇榜引禅心
 content/1d7b48157de63.nwd  NOVEL      DOCUMENT  完整版
 content/9f737543b5807.nwd  NOVEL      DOCUMENT  完结彩蛋
 content/9f11989164003.nwd  NOVEL      DOCUMENT  终章彩蛋：代码库里的秘密
@@ -281,6 +365,7 @@ content/5ee869c4a90d8.nwd  PLOT       NOTE      古今牌
 content/2b91ee044ef2a.nwd  PLOT       NOTE      六耳猕猴的大数据防伪
 content/07d33dc059831.nwd  PLOT       NOTE      拥有过后的思念，比五百年的等待还磨人
 content/7b9fe15adc771.nwd  PLOT       NOTE      台风之梦
+content/aae1dd76a8210.nwd  PLOT       NOTE      五指山壁画
 content/23f820dd22cf3.nwd  PLOT       NOTE      主角悟天道
 content/d6ef6268ac947.nwd  PLOT       NOTE      阐截之争
 content/7010d2dc4d9e5.nwd  PLOT       NOTE      极简人物关系表
@@ -432,14 +517,12 @@ content/1e7fd0e1a3060.nwd  CHARACTER  NOTE      武器
 content/7104bce51acd8.nwd  CHARACTER  NOTE      同心符
 content/695a3179cba09.nwd  CHARACTER  NOTE      武打设计
 content/71697362c360b.nwd  ARCHIVE    NOTE      花果山20个日夜
+content/d1a99ff51e3e4.nwd  ARCHIVE    DOCUMENT  花果山1-6month
 content/9b1141726a93a.nwd  ARCHIVE    DOCUMENT  旧目录
 content/15f42db1e9537.nwd  ARCHIVE    DOCUMENT  大纲0 - 石猴
 content/035c8b5ca5b10.nwd  ARCHIVE    DOCUMENT  大纲1
 content/aeb0810a4b877.nwd  ARCHIVE    DOCUMENT  500
 content/379d770c6f3be.nwd  ARCHIVE    DOCUMENT  81-10小卷
-content/342ce2e5d8107.nwd  ARCHIVE    DOCUMENT  16-45
-content/2f675493eef39.nwd  ARCHIVE    DOCUMENT  16-33
-content/d1a99ff51e3e4.nwd  ARCHIVE    DOCUMENT  1-6month
 content/c043ecaa8b647.nwd  ARCHIVE    DOCUMENT  双层架构设定251202
 content/0d512fa988964.nwd  ARCHIVE    DOCUMENT  取经的意义
 content/5ebe0d456f52d.nwd  ARCHIVE    DOCUMENT  原81难
@@ -447,7 +530,6 @@ content/c6358b499377b.nwd  ARCHIVE    NOTE      81难IT梗
 content/9cf3bd46af946.nwd  ARCHIVE    DOCUMENT  势力分析
 content/be12741655c71.nwd  ARCHIVE    DOCUMENT  薅羊毛
 content/d5b162204b267.nwd  ARCHIVE    DOCUMENT  魔改
-content/e6a6f781a4a78.nwd  ARCHIVE    DOCUMENT  递进主线
 content/f4f68f8d23d87.nwd  ARCHIVE    DOCUMENT  私的分级
 content/2bf8fcb2f954a.nwd  ARCHIVE    DOCUMENT  双代码库设定
 content/f36a85d5a02f0.nwd  ARCHIVE    DOCUMENT  如来pk
@@ -465,6 +547,8 @@ content/20e7137b3540f.nwd  ARCHIVE    DOCUMENT  西游线路
 content/92de710fdb2e2.nwd  ARCHIVE    DOCUMENT  半生缘
 content/67e0796edc66b.nwd  ARCHIVE    DOCUMENT  菩提
 content/85d7d82384c88.nwd  ARCHIVE    DOCUMENT  本源护符Github
+content/f47aaccb2749f.nwd  ARCHIVE    DOCUMENT  IT or 仙侠
+content/0b3e4ccf736ca.nwd  ARCHIVE    DOCUMENT  算力公式
 content/561488b897656.nwd  ARCHIVE    DOCUMENT  设定
 content/7c5418c52238f.nwd  ARCHIVE    DOCUMENT  1000
 content/37e610cfaec0d.nwd  ARCHIVE    DOCUMENT  封神到星际
@@ -478,6 +562,7 @@ content/25c3fdbf049e9.nwd  ARCHIVE    DOCUMENT  外星领主的侵蚀
 content/e83b81196fac6.nwd  ARCHIVE    DOCUMENT  内核
 content/102bee39a91b4.nwd  ARCHIVE    DOCUMENT  外宇宙殖民
 content/6f0af0aaddb40.nwd  ARCHIVE    DOCUMENT  王胖版本60/120
+content/e6a6f781a4a78.nwd  ARCHIVE    DOCUMENT  递进主线
 content/ac0f5bf5ebae9.nwd  ARCHIVE    DOCUMENT  三卷
 content/aa8cb8daf3e69.nwd  ARCHIVE    DOCUMENT  新三卷
 content/ff41a16abfaef.nwd  ARCHIVE    DOCUMENT  三卷血肉
@@ -500,7 +585,7 @@ content/e9c3c98786d00.nwd  ARCHIVE    NOTE      天道
 content/f1aa247ee735c.nwd  ARCHIVE    DOCUMENT  完美即腐朽
 content/5de8e984ff8f0.nwd  ARCHIVE    DOCUMENT  阴阳相对论
 content/8b42896583603.nwd  ARCHIVE    DOCUMENT  格局
-content/dcd6b1413a84d.nwd  TRASH      DOCUMENT  第一百一十一章 四圣化庄试禅心 灵香暗结圣人缘
-content/31762f020544b.nwd  TRASH      DOCUMENT  第一百一十五章 红衣僧人入白虎 少妇送斋露妖形
-content/0f3f91df6046d.nwd  TRASH      DOCUMENT  第一百一十六章 野果陷坑惊憨徒 老妇寻女藏杀机
-content/94564bd4e1122.nwd  TRASH      DOCUMENT  第一百一十七章 悬崖绝路照痴骨 一念放下归花果山
+content/f714d1a6ca72f.nwd  ARCHIVE    DOCUMENT  风格
+content/1baa35baf968a.nwd  ARCHIVE    DOCUMENT  理科创世流
+content/4ad2b034cf075.nwd  ARCHIVE    DOCUMENT  待看
+content/ba3fb83f663b6.nwd  TRASH      DOCUMENT  第二百零七章 弥勒金钵辨真伪 花果山再添四妖

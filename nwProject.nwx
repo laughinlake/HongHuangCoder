@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-03-16 22:11:37">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="25" autoCount="14926" editTime="6946378">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-03-19 16:25:46">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="27" autoCount="15450" editTime="7184799">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">1d7b48157de63</entry>
+      <entry key="editor">85352c5d15e69</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="387" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="394" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="648" novelWords="46830" notesWords="9567">
+  <content items="655" novelWords="48176" notesWords="9567">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -438,11 +438,11 @@
       <name status="s54df93" import="i662472" active="yes">【番外｜通信仪的诞生】</name>
     </item>
     <item handle="4e1616c58b90a" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="27" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3538" wordCount="66" paraCount="38" cursorPos="474" />
+      <meta expanded="no" heading="H2" charCount="3538" wordCount="66" paraCount="38" cursorPos="1486" />
       <name status="s54df93" import="i662472" active="yes">第二十四章 太白金星・云栈言梦</name>
     </item>
     <item handle="175e7b427a5da" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="28" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3408" wordCount="73" paraCount="37" cursorPos="334" />
+      <meta expanded="no" heading="H2" charCount="3408" wordCount="73" paraCount="37" cursorPos="28" />
       <name status="s54df93" import="i662472" active="yes">第二十五章 太白金星・温候弼马</name>
     </item>
     <item handle="b11e9c3426fd7" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="29" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -690,7 +690,7 @@
       <name status="s54df93" import="i662472" active="yes">第八十二章 仙力大会・天风临山万仙至</name>
     </item>
     <item handle="f84519392515c" parent="7e493d5ec4f80" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3044" wordCount="59" paraCount="50" cursorPos="1732" />
+      <meta expanded="no" heading="H2" charCount="3044" wordCount="59" paraCount="50" cursorPos="3077" />
       <name status="s54df93" import="i662472" active="yes">第八十三章 仙力大会・天庭威压定新规</name>
     </item>
     <item handle="acae78ee044f0" parent="7e493d5ec4f80" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -794,7 +794,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百零六章 天蓬本仙身 翠兰许归期</name>
     </item>
     <item handle="23ea447e18937" parent="084245d117cfc" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3379" wordCount="100" paraCount="81" cursorPos="3549" />
+      <meta expanded="no" heading="H2" charCount="3379" wordCount="100" paraCount="81" cursorPos="2166" />
       <name status="s54df93" import="i662472" active="yes">第一百零七章 黄风魔风陷两难 一丹定风救唐僧</name>
     </item>
     <item handle="aca6b153f7950" parent="084245d117cfc" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -950,11 +950,11 @@
       <name status="s54df93" import="i662472" active="yes">第一百四十四章 阵破龙擒 旧识败走魔踪</name>
     </item>
     <item handle="1b8d55f20f5b1" parent="084245d117cfc" root="c4a9a239c9ccb" order="45" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3479" wordCount="116" paraCount="90" cursorPos="1037" />
+      <meta expanded="no" heading="H2" charCount="3479" wordCount="116" paraCount="90" cursorPos="2927" />
       <name status="s54df93" import="i662472" active="yes">第一百四十五章 算力潮起 三界异动</name>
     </item>
     <item handle="c24f84e4010ad" parent="084245d117cfc" root="c4a9a239c9ccb" order="46" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3469" wordCount="61" paraCount="48" cursorPos="546" />
+      <meta expanded="no" heading="H2" charCount="3469" wordCount="61" paraCount="48" cursorPos="2682" />
       <name status="s54df93" import="i662472" active="yes">第一百四十六章 弃子破局 道盟初成</name>
     </item>
     <item handle="6df3ce7d07477" parent="084245d117cfc" root="c4a9a239c9ccb" order="47" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -970,7 +970,7 @@
       <name status="s54df93" import="i662472">149-192</name>
     </item>
     <item handle="fdbd8636a5aa1" parent="da206e06a4a07" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4083" wordCount="99" paraCount="82" cursorPos="4259" />
+      <meta expanded="no" heading="H2" charCount="4083" wordCount="99" paraCount="82" cursorPos="2185" />
       <name status="s54df93" import="i662472" active="yes">第一百四十九章 车迟国僧道颓废 三清观妖厨加餐</name>
     </item>
     <item handle="5fa438e393b8f" parent="da206e06a4a07" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1066,11 +1066,11 @@
       <name status="s54df93" import="i662472" active="yes">第一百七十二章 九圣合围斩九头 暗焚舍利换明珠</name>
     </item>
     <item handle="9f2bc8d6ff40e" parent="da206e06a4a07" root="c4a9a239c9ccb" order="24" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="7032" wordCount="195" paraCount="175" cursorPos="2670" />
+      <meta expanded="no" heading="H2" charCount="7032" wordCount="195" paraCount="175" cursorPos="448" />
       <name status="s54df93" import="i662472" active="yes">第一百七十三章 文昌执考列四罪 云端问责断仙山</name>
     </item>
     <item handle="96846887bec7a" parent="da206e06a4a07" root="c4a9a239c9ccb" order="25" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3323" wordCount="102" paraCount="83" cursorPos="2615" />
+      <meta expanded="no" heading="H2" charCount="3323" wordCount="102" paraCount="83" cursorPos="1933" />
       <name status="s54df93" import="i662472" active="yes">第一百七十四章 灵山观变局 太白露忠心</name>
     </item>
     <item handle="437e2520f8c08" parent="da206e06a4a07" root="c4a9a239c9ccb" order="26" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1118,7 +1118,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百八十五章 禁器惊现算力司 凌霄对质讼滔天</name>
     </item>
     <item handle="8828305c87402" parent="da206e06a4a07" root="c4a9a239c9ccb" order="37" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3183" wordCount="100" paraCount="83" cursorPos="3358" />
+      <meta expanded="no" heading="H2" charCount="3183" wordCount="100" paraCount="83" cursorPos="2763" />
       <name status="s54df93" import="i662472" active="yes">第一百八十六章 天兵出凌霄 暗线递警音</name>
     </item>
     <item handle="b363da108f61f" parent="da206e06a4a07" root="c4a9a239c9ccb" order="38" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1154,7 +1154,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百九十三章 故地重描山如故 新图初画笔藏锋</name>
     </item>
     <item handle="dd0a9efb7d4cc" parent="50f00e97272c1" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3278" wordCount="76" paraCount="61" cursorPos="3408" />
+      <meta expanded="no" heading="H2" charCount="3282" wordCount="76" paraCount="61" cursorPos="1333" />
       <name status="s54df93" import="i662472" active="yes">第一百九十四章 天庭暗斗 灵山惊心</name>
     </item>
     <item handle="258658627c23a" parent="50f00e97272c1" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1166,7 +1166,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百九十六章 云变万象 心起波澜</name>
     </item>
     <item handle="58cfb441828de" parent="50f00e97272c1" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3344" wordCount="121" paraCount="103" cursorPos="9" />
+      <meta expanded="no" heading="H2" charCount="3344" wordCount="121" paraCount="103" cursorPos="258" />
       <name status="s54df93" import="i662472" active="yes">第一百九十七章 稀柿衕老猪吞路 七绝山柿柿如意</name>
     </item>
     <item handle="9a9d1254a64e3" parent="50f00e97272c1" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1174,11 +1174,11 @@
       <name status="s54df93" import="i662472" active="yes">第一百九十八章 神狂诛草寇 道昧放心猿</name>
     </item>
     <item handle="f0a74b55e5596" parent="50f00e97272c1" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3993" wordCount="89" paraCount="69" cursorPos="4140" />
+      <meta expanded="no" heading="H2" charCount="3993" wordCount="89" paraCount="69" cursorPos="3782" />
       <name status="s54df93" import="i662472" active="yes">第一百九十九章 文牒失踪师徒急 心猿归正识假身</name>
     </item>
     <item handle="014cbd02d944d" parent="50f00e97272c1" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3396" wordCount="66" paraCount="56" cursorPos="3515" />
+      <meta expanded="no" heading="H2" charCount="3393" wordCount="66" paraCount="56" cursorPos="471" />
       <name status="s54df93" import="i662472" active="yes">第二百章 师徒定策探峨眉 真假初分夺牒衣</name>
     </item>
     <item handle="1ceea25bed2ef" parent="50f00e97272c1" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1186,27 +1186,51 @@
       <name status="s54df93" import="i662472" active="yes">第二百零一章 雷音分大小 悖论定心猿</name>
     </item>
     <item handle="32204573c19e3" parent="50f00e97272c1" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3061" wordCount="87" paraCount="69" cursorPos="1081" />
+      <meta expanded="no" heading="H2" charCount="3061" wordCount="87" paraCount="69" cursorPos="2600" />
       <name status="s54df93" import="i662472" active="yes">第二百零二章 双猴入假寺 黄眉布禅机</name>
     </item>
     <item handle="4f5475f8f5de1" parent="50f00e97272c1" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3419" wordCount="86" paraCount="72" cursorPos="1225" />
+      <meta expanded="no" heading="H2" charCount="3419" wordCount="86" paraCount="72" cursorPos="3285" />
       <name status="s54df93" import="i662472" active="yes">第二百零三章 假雷音双猴辨伪 小乘经三妖装懂</name>
     </item>
     <item handle="766793ca386e8" parent="50f00e97272c1" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3738" wordCount="148" paraCount="125" cursorPos="3995" />
+      <meta expanded="no" heading="H2" charCount="3731" wordCount="148" paraCount="125" cursorPos="3988" />
       <name status="s54df93" import="i662472" active="yes">第二百零四章 二猴合力战黄眉 一棒破空碎金铙</name>
     </item>
     <item handle="fcd4e86373ef0" parent="50f00e97272c1" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3020" wordCount="150" paraCount="130" cursorPos="557" />
+      <meta expanded="no" heading="H2" charCount="3020" wordCount="150" paraCount="130" cursorPos="3220" />
       <name status="s54df93" import="i662472" active="yes">第二百零五章 袋内沉沉无日月 一孔微微有生机</name>
     </item>
     <item handle="707ca1029cbd6" parent="50f00e97272c1" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3458" wordCount="87" paraCount="74" cursorPos="2911" />
+      <meta expanded="no" heading="H2" charCount="3381" wordCount="87" paraCount="76" cursorPos="3540" />
       <name status="s54df93" import="i662472" active="yes">第二百零六章 法宝俱失妖魂散 瓜田真佛辨虚玄</name>
     </item>
+    <item handle="85352c5d15e69" parent="50f00e97272c1" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4113" wordCount="111" paraCount="89" cursorPos="4304" />
+      <name status="s54df93" import="i662472" active="yes">第二百零七章 小雷音余音 花果山云深</name>
+    </item>
+    <item handle="2f5c89af75ddb" parent="50f00e97272c1" root="c4a9a239c9ccb" order="15" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3934" wordCount="93" paraCount="64" cursorPos="4079" />
+      <name status="s54df93" import="i662472" active="yes">第二百零八章 乱世野狼抢仙姬 月夜轻歌颂真情</name>
+    </item>
+    <item handle="2de960df396c6" parent="50f00e97272c1" root="c4a9a239c9ccb" order="16" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4108" wordCount="120" paraCount="100" cursorPos="1192" />
+      <name status="s54df93" import="i662472" active="yes">第二百零九章 残寺四妖归正果 都城皇榜引禅心</name>
+    </item>
+    <item handle="bfffc0d6890dd" parent="50f00e97272c1" root="c4a9a239c9ccb" order="17" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3287" wordCount="115" paraCount="94" cursorPos="3484" />
+      <name status="s54df93" import="i662472" active="yes">第二百一十章 玄丝诊脉试圣僧 禅心暂解帝王忧</name>
+    </item>
+    <item handle="163fafb13836f" parent="50f00e97272c1" root="c4a9a239c9ccb" order="18" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3059" wordCount="86" paraCount="75" cursorPos="3174" />
+      <name status="s54df93" import="i662472" active="yes">第二百一十一章 犬嗅神猴惊洞府 粉香遮味扮小妖</name>
+    </item>
+    <item handle="7e0b88483b384" parent="50f00e97272c1" root="c4a9a239c9ccb" order="19" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3658" wordCount="94" paraCount="82" cursorPos="1068" />
+      <name status="s54df93" import="i662472" active="yes">第二百一十二章 粉香喷嚏露原形 一语惊翻大圣心</name>
+    </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="673771" wordCount="16951" paraCount="12414" cursorPos="691515" />
+      <meta expanded="no" heading="H1" charCount="688241" wordCount="17454" paraCount="12840" cursorPos="716001" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1218,11 +1242,11 @@
       <name status="s54df93" import="i662472" active="yes">终章彩蛋：代码库里的秘密</name>
     </item>
     <item handle="1bfee7ec87649" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2524" wordCount="52" paraCount="1" cursorPos="251" />
+      <meta expanded="no" heading="H2" charCount="1942" wordCount="62" paraCount="1" cursorPos="2001" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="6234f70f1b270" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H2" charCount="2265" wordCount="91" paraCount="1" cursorPos="2351" />
+      <meta expanded="yes" heading="H2" charCount="4306" wordCount="174" paraCount="1" cursorPos="4467" />
       <name status="s54df93" import="i662472" active="yes">新文档</name>
     </item>
     <item handle="2a2c27f923120" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="15" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -2433,12 +2457,16 @@
       <meta expanded="no" heading="H0" charCount="158" wordCount="6" paraCount="3" cursorPos="165" />
       <name status="s54df93" import="i662472" active="yes">IT or 仙侠</name>
     </item>
+    <item handle="0b3e4ccf736ca" parent="b2aae2162b3fd" root="95f33353c331f" order="26" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+      <meta expanded="no" heading="H0" charCount="671" wordCount="131" paraCount="3" cursorPos="112" />
+      <name status="s54df93" import="i662472" active="yes">算力公式</name>
+    </item>
     <item handle="82d85e5c14c22" parent="18e61551894b0" root="95f33353c331f" order="1" type="FOLDER" class="ARCHIVE">
       <meta expanded="no" />
       <name status="s54df93" import="i662472">封神</name>
     </item>
     <item handle="561488b897656" parent="82d85e5c14c22" root="95f33353c331f" order="0" type="FILE" class="ARCHIVE" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="8131" wordCount="340" paraCount="8" cursorPos="8253" />
+      <meta expanded="no" heading="H0" charCount="8131" wordCount="340" paraCount="8" cursorPos="2036" />
       <name status="s54df93" import="i662472" active="yes">设定</name>
     </item>
     <item handle="b0f44c9167ced" parent="82d85e5c14c22" root="95f33353c331f" order="1" type="FILE" class="ARCHIVE" layout="DOCUMENT">
@@ -2458,11 +2486,11 @@
       <name status="s54df93" import="i662472" active="yes">技术</name>
     </item>
     <item handle="93458edde2306" parent="18e61551894b0" root="95f33353c331f" order="2" type="FOLDER" class="ARCHIVE">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">星际</name>
     </item>
     <item handle="2af1e121249b8" parent="93458edde2306" root="95f33353c331f" order="0" type="FILE" class="ARCHIVE" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="1406" wordCount="51" paraCount="3" cursorPos="7" />
+      <meta expanded="no" heading="H0" charCount="1406" wordCount="51" paraCount="3" cursorPos="1058" />
       <name status="s54df93" import="i662472" active="yes">设定</name>
     </item>
     <item handle="c6416c0deb10b" parent="93458edde2306" root="95f33353c331f" order="1" type="FILE" class="ARCHIVE" layout="DOCUMENT">
