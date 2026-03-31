@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-03-31 07:02:45">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="28" autoCount="17795" editTime="8187606">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-03-31 23:47:59">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="29" autoCount="17805" editTime="8247921">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">c161279798708</entry>
+      <entry key="editor">5ebe0d456f52d</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="433" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="435" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="694" novelWords="53488" notesWords="9567">
+  <content items="696" novelWords="53873" notesWords="9567">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -1322,7 +1322,7 @@
       <name status="s54df93" import="i662472" active="yes">第二百三十四章 柳坡寻妖收邪祟 仙翁赐药留仙居</name>
     </item>
     <item handle="c161279798708" parent="50f00e97272c1" root="c4a9a239c9ccb" order="42" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3149" wordCount="46" paraCount="33" cursorPos="2374" />
+      <meta expanded="no" heading="H2" charCount="3149" wordCount="46" paraCount="33" cursorPos="2816" />
       <name status="s54df93" import="i662472" active="yes">第二百三十五章 比丘归山传所学 花果山中学趣浓</name>
     </item>
     <item handle="a7e5a7f3b1658" parent="50f00e97272c1" root="c4a9a239c9ccb" order="43" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1370,7 +1370,7 @@
       <name status="s54df93" import="i662472" active="yes">第二百四十六章 巧变甜饵诱妖洞 智救唐僧脱鼠窝</name>
     </item>
     <item handle="92a43b4621bc7" parent="50f00e97272c1" root="c4a9a239c9ccb" order="54" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3109" wordCount="67" paraCount="52" cursorPos="3221" />
+      <meta expanded="no" heading="H2" charCount="3156" wordCount="68" paraCount="53" cursorPos="925" />
       <name status="s54df93" import="i662472" active="yes">第二百四十七章 灵山灯芯遇故鼠 计定天庭钓文昌</name>
     </item>
     <item handle="fb686f399d66c" parent="50f00e97272c1" root="c4a9a239c9ccb" order="55" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1386,7 +1386,7 @@
       <name status="s54df93" import="i662472" active="yes">第二百五十章 大殿审奸明罪状 鼠女归山了尘缘</name>
     </item>
     <item handle="1d7b48157de63" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="834443" wordCount="20359" paraCount="15137" cursorPos="815672" />
+      <meta expanded="no" heading="H1" charCount="834490" wordCount="20360" paraCount="15138" cursorPos="854778" />
       <name status="s54df93" import="i662472" active="yes">完整版</name>
     </item>
     <item handle="9f737543b5807" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -2522,7 +2522,7 @@
       <name status="s54df93" import="i662472" active="yes">取经的意义</name>
     </item>
     <item handle="5ebe0d456f52d" parent="b2aae2162b3fd" root="95f33353c331f" order="3" type="FILE" class="ARCHIVE" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="1412" wordCount="63" paraCount="6" cursorPos="636" />
+      <meta expanded="no" heading="H0" charCount="1400" wordCount="59" paraCount="5" cursorPos="758" />
       <name status="s54df93" import="i662472" active="yes">原81难</name>
     </item>
     <item handle="c6358b499377b" parent="b2aae2162b3fd" root="95f33353c331f" order="4" type="FILE" class="ARCHIVE" layout="NOTE">
@@ -2618,7 +2618,7 @@
       <name status="s54df93" import="i662472" active="yes">算力公式</name>
     </item>
     <item handle="82d85e5c14c22" parent="18e61551894b0" root="95f33353c331f" order="1" type="FOLDER" class="ARCHIVE">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">封神</name>
     </item>
     <item handle="561488b897656" parent="82d85e5c14c22" root="95f33353c331f" order="0" type="FILE" class="ARCHIVE" layout="DOCUMENT">
@@ -2640,6 +2640,14 @@
     <item handle="9dac1ee9d77ec" parent="82d85e5c14c22" root="95f33353c331f" order="4" type="FILE" class="ARCHIVE" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="11" wordCount="1" paraCount="1" cursorPos="11" />
       <name status="s54df93" import="i662472" active="yes">技术</name>
+    </item>
+    <item handle="463359c929f11" parent="82d85e5c14c22" root="95f33353c331f" order="5" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+      <meta expanded="no" heading="H0" charCount="1395" wordCount="183" paraCount="2" cursorPos="1493" />
+      <name status="s54df93" import="i662472" active="yes">盘古</name>
+    </item>
+    <item handle="41c91c21112fc" parent="82d85e5c14c22" root="95f33353c331f" order="6" type="FILE" class="ARCHIVE" layout="DOCUMENT">
+      <meta expanded="no" heading="H0" charCount="2065" wordCount="204" paraCount="3" cursorPos="2195" />
+      <name status="s54df93" import="i662472" active="yes">核心知识</name>
     </item>
     <item handle="93458edde2306" parent="18e61551894b0" root="95f33353c331f" order="2" type="FOLDER" class="ARCHIVE">
       <meta expanded="yes" />

@@ -63,6 +63,7 @@ content/0f4dfc7893122.nwd  NOVEL      DOCUMENT  天庭开战
 content/9c1f8569aec1c.nwd  NOVEL      DOCUMENT  势力范围
 content/f5f971f47d8a4.nwd  NOVEL      DOCUMENT  80后续
 content/859862a59b9b9.nwd  NOVEL      DOCUMENT  189
+content/6f13171f7e8e7.nwd  NOVEL      DOCUMENT  比丘国
 content/f16a9cd73328a.nwd  NOVEL      DOCUMENT  0-9 章 爽点梳理
 content/7e38fb87d5690.nwd  NOVEL      DOCUMENT  引子 神话纪元的召唤
 content/08bb43c25847b.nwd  NOVEL      DOCUMENT  第一章 0和1的枷锁，桃花香的悸动
@@ -281,6 +282,47 @@ content/707ca1029cbd6.nwd  NOVEL      DOCUMENT  第二百零六章 法宝俱失�
 content/85352c5d15e69.nwd  NOVEL      DOCUMENT  第二百零七章 小雷音余音 花果山云深
 content/2f5c89af75ddb.nwd  NOVEL      DOCUMENT  第二百零八章 乱世野狼抢仙姬 月夜轻歌颂真情
 content/2de960df396c6.nwd  NOVEL      DOCUMENT  第二百零九章 残寺四妖归正果 都城皇榜引禅心
+content/bfffc0d6890dd.nwd  NOVEL      DOCUMENT  第二百一十章 玄丝诊脉试圣僧 禅心暂解帝王忧
+content/163fafb13836f.nwd  NOVEL      DOCUMENT  第二百一十一章 犬嗅神猴惊洞府 粉香遮味扮小妖
+content/7e0b88483b384.nwd  NOVEL      DOCUMENT  第二百一十二章 粉香喷嚏露原形 一语惊翻大圣心
+content/f69b9658ac98c.nwd  NOVEL      DOCUMENT  第二百一十三章 蜂入深洞听心事 情牵凡界解尘缘
+content/7d3d18a958244.nwd  NOVEL      DOCUMENT  第二百一十四章 前尘仙缘空错过 尘心偏见锁相思
+content/1748a344de4ef.nwd  NOVEL      DOCUMENT  第二百一十五章 麒麟山上心相见 鉴心池前解尘迷
+content/20e481c7a62f8.nwd  NOVEL      DOCUMENT  第二百一十六章 尘缘尽解朱紫安 仙犬归位赴西行
+content/091323cd23f42.nwd  NOVEL      DOCUMENT  第二百一十七章 灵霄殿双仙瞒天机 盘丝岭群妖布大阵
+content/98b6075abb384.nwd  NOVEL      DOCUMENT  第二百一十八章 大圣暗挑呆子意 八戒贪色闯盘丝
+content/24818d1bfa22f.nwd  NOVEL      DOCUMENT  第二百一十九章 八戒逞威闯盘丝洞 七妖现形捆猪妖
+content/c9b100aaa5fdb.nwd  NOVEL      DOCUMENT  第二百二十章 悟空破阵识冤屈 八戒怀惭送还衣
+content/be281eb23cf77.nwd  NOVEL      DOCUMENT  第二百二十一章 天罡北斗织灵阵 七蛛同心破百眼
+content/1fde190d93c72.nwd  NOVEL      DOCUMENT  第二百二十二章 三界风云起 狮驼火锅局
+content/43a3ae7f2c58a.nwd  NOVEL      DOCUMENT  第二百二十三章 土地传凶狮驼岭 师徒伪装敌后队
+content/347d75a6b13f4.nwd  NOVEL      DOCUMENT  第二百二十四章 妖王中计失宝瓶 大圣脱身掀风云
+content/f92d1f87cc2c1.nwd  NOVEL      DOCUMENT  第二百二十五章 计中计・连环计（上）
+content/096b35393c5d4.nwd  NOVEL      DOCUMENT  第二百二十六章 计中计・连环计（中）
+content/941c248391e9c.nwd  NOVEL      DOCUMENT  第二百二十七章 计中计・连环计（下）
+content/a516bbeafbead.nwd  NOVEL      DOCUMENT  第二百二十八章 群妖入阵遭困缚 菩萨收妖国归清
+content/bfa42ff37e201.nwd  NOVEL      DOCUMENT  第二百二十九章 灵山暗局 佛心藏锋
+content/cafabb9c15038.nwd  NOVEL      DOCUMENT  第二百三十章 妖城初现 稚子啼血
+content/1aea59c119869.nwd  NOVEL      DOCUMENT  第二百三十一章 驿馆秘议定生路 深宫毒计害僧徒
+content/ed7bd69b1f25f.nwd  NOVEL      DOCUMENT  第二百三十二章 仙僧闯殿讥邪道 妙药藏威破伪丹
+content/8b0a1db862b09.nwd  NOVEL      DOCUMENT  第二百三十三章 爆丹显形吐奸计 真神现貌追妖邪
+content/130611bca6292.nwd  NOVEL      DOCUMENT  第二百三十四章 柳坡寻妖收邪祟 仙翁赐药留仙居
+content/c161279798708.nwd  NOVEL      DOCUMENT  第二百三十五章 比丘归山传所学 花果山中学趣浓
+content/a7e5a7f3b1658.nwd  NOVEL      DOCUMENT  第二百三十六章 黑松林美人施计 唐僧善心被掳
+content/deb95a98ba0f4.nwd  NOVEL      DOCUMENT  第二百三十七章 钓鱼执法反被钓 巧计脱身掳圣僧
+content/7f65df7a226b4.nwd  NOVEL      DOCUMENT  第二百三十八章 寻踪陷空山 初探无底洞
+content/3930908a27281.nwd  NOVEL      DOCUMENT  第二百三十九章 二探陷空得牌位 天庭争辩救师父
+content/8de9f4ed141e5.nwd  NOVEL      DOCUMENT  第二百四十章 持牌对质天王醒 老君点破文昌局
+content/f8d423fcbfcbe.nwd  NOVEL      DOCUMENT  第二百四十一章 文昌密构连环计 天王严锁陷空山
+content/a95a1246aa6e5.nwd  NOVEL      DOCUMENT  第二百四十二章 夜潜仙营毁宝器 天明挥兵闯鼠洞
+content/fd886c4f9b3cb.nwd  NOVEL      DOCUMENT  第二百四十三章 宝毁兵慌陷迷阵 灵鼠擒神兄妹争
+content/ecc5b4b775a2d.nwd  NOVEL      DOCUMENT  第二百四十四章 败营藏诡疑文昌 紫霞携宠议救师
+content/a472adfb6236d.nwd  NOVEL      DOCUMENT  第二百四十五章 一战虽胜忧长久 后花园暗备大婚
+content/a022d39185bfc.nwd  NOVEL      DOCUMENT  第二百四十六章 巧变甜饵诱妖洞 智救唐僧脱鼠窝
+content/92a43b4621bc7.nwd  NOVEL      DOCUMENT  第二百四十七章 灵山灯芯遇故鼠 计定天庭钓文昌
+content/fb686f399d66c.nwd  NOVEL      DOCUMENT  第二百四十八章 夜谒天王析疑窦 五路精兵征妖洞
+content/544da670ecc57.nwd  NOVEL      DOCUMENT  第二百四十九章 灵帕扫雾开妖洞 鼠女当庭认血亲
+content/7de1a68b24f68.nwd  NOVEL      DOCUMENT  第二百五十章 大殿审奸明罪状 鼠女归山了尘缘
 content/1d7b48157de63.nwd  NOVEL      DOCUMENT  完整版
 content/9f737543b5807.nwd  NOVEL      DOCUMENT  完结彩蛋
 content/9f11989164003.nwd  NOVEL      DOCUMENT  终章彩蛋：代码库里的秘密
@@ -553,6 +595,8 @@ content/561488b897656.nwd  ARCHIVE    DOCUMENT  设定
 content/7c5418c52238f.nwd  ARCHIVE    DOCUMENT  1000
 content/37e610cfaec0d.nwd  ARCHIVE    DOCUMENT  封神到星际
 content/9dac1ee9d77ec.nwd  ARCHIVE    DOCUMENT  技术
+content/463359c929f11.nwd  ARCHIVE    DOCUMENT  盘古
+content/41c91c21112fc.nwd  ARCHIVE    DOCUMENT  核心知识
 content/2af1e121249b8.nwd  ARCHIVE    DOCUMENT  设定
 content/c6416c0deb10b.nwd  ARCHIVE    DOCUMENT  思想
 content/d2f3040aa9e9f.nwd  ARCHIVE    DOCUMENT  意识长存
