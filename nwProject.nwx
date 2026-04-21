@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-21 06:32:47">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22273" editTime="9997196">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-21 12:00:46">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22488" editTime="10016875">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,26 +9,26 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">e02d1ec0742f8</entry>
+      <entry key="editor">6428254eb8266</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="574" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="573" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
     </status>
     <importance>
-      <entry key="i662472" count="262" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="i662472" count="263" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="i34cafd" count="0" red="200" green="50" blue="0" shape="SQUARE">Minor</entry>
       <entry key="i1347ee" count="0" red="200" green="150" blue="0" shape="SQUARE">Major</entry>
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="836" novelWords="67851" notesWords="9709">
+  <content items="836" novelWords="68340" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -382,7 +382,7 @@
       <name status="s54df93" import="i662472" active="yes">校对</name>
     </item>
     <item handle="3a68ce320e48e" parent="65264730a80e6" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="75" wordCount="9" paraCount="1" cursorPos="80" />
+      <meta expanded="no" heading="H0" charCount="268" wordCount="23" paraCount="6" cursorPos="0" />
       <name status="s54df93" import="i662472" active="yes">扩写方式</name>
     </item>
     <item handle="1e2a29b766cba" parent="61a3d33ed7e88" root="c4a9a239c9ccb" order="1" type="FOLDER" class="NOVEL">
@@ -450,7 +450,7 @@
       <name status="s54df93" import="i662472" active="yes">第十三章 蓝图初现・灵算雏形</name>
     </item>
     <item handle="6428254eb8266" parent="1239f03996c93" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3338" wordCount="34" paraCount="26" cursorPos="3395" />
+      <meta expanded="no" heading="H2" charCount="3338" wordCount="34" paraCount="26" cursorPos="1223" />
       <name status="s54df93" import="i662472" active="yes">第十四章 未知窥探・噪波护山</name>
     </item>
     <item handle="aff73e099bdf5" parent="61a3d33ed7e88" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -502,7 +502,7 @@
       <name status="s54df93" import="i662472">01-10</name>
     </item>
     <item handle="5dfa1c0ceab34" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="868" wordCount="35" paraCount="28" cursorPos="814" />
+      <meta expanded="no" heading="H2" charCount="868" wordCount="35" paraCount="28" cursorPos="934" />
       <name status="s54df93" import="i662472" active="yes">引子 神话纪元的召唤</name>
     </item>
     <item handle="98e4a994d83fd" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -514,15 +514,15 @@
       <name status="s54df93" import="i662472" active="yes">第二章 金色蜥蜴的信使</name>
     </item>
     <item handle="4ace76adc5086" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3245" wordCount="72" paraCount="56" cursorPos="1540" />
+      <meta expanded="no" heading="H2" charCount="3245" wordCount="72" paraCount="56" cursorPos="3370" />
       <name status="s54df93" import="i662472" active="yes">第三章 金箍微动破樊笼</name>
     </item>
     <item handle="ef225e1bc3aa2" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3100" wordCount="57" paraCount="42" cursorPos="2219" />
+      <meta expanded="no" heading="H2" charCount="3100" wordCount="57" paraCount="42" cursorPos="3188" />
       <name status="s54df93" import="i662472" active="yes">第四章 真言疑云，龟壳藏踪</name>
     </item>
     <item handle="69ed4b98ee867" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3345" wordCount="49" paraCount="36" cursorPos="3421" />
+      <meta expanded="no" heading="H2" charCount="10035" wordCount="147" paraCount="108" cursorPos="10268" />
       <name status="s54df93" import="i662472" active="yes">第五章 逆咒瞒天，土拨替身</name>
     </item>
     <item handle="aad0221857b45" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -530,11 +530,11 @@
       <name status="s54df93" import="i662472" active="yes">第六章 归山・荒林里的二进制纹路</name>
     </item>
     <item handle="2e6e478b06955" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3190" wordCount="73" paraCount="60" cursorPos="1202" />
+      <meta expanded="no" heading="H2" charCount="3190" wordCount="73" paraCount="60" cursorPos="3318" />
       <name status="s54df93" import="i662472" active="yes">第七章 洞开见故人 欢语满洞天</name>
     </item>
     <item handle="b68ae28925742" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3214" wordCount="65" paraCount="57" cursorPos="2687" />
+      <meta expanded="no" heading="H2" charCount="3214" wordCount="65" paraCount="57" cursorPos="3333" />
       <name status="s54df93" import="i662472" active="yes">第八章 夜话・水帘洞的物流终端</name>
     </item>
     <item handle="3a5379769cdfe" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -542,23 +542,19 @@
       <name status="s54df93" import="i662472" active="yes">第九章 闯营・南天门里旧相逢</name>
     </item>
     <item handle="22833b7893f33" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3144" wordCount="35" paraCount="28" cursorPos="3205" />
+      <meta expanded="no" heading="H2" charCount="3155" wordCount="35" paraCount="28" cursorPos="3216" />
       <name status="s54df93" import="i662472" active="yes">第十章 篝火聚旧部，回首诉坚守</name>
     </item>
-    <item handle="9208d2eacbe2c" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="15" wordCount="2" paraCount="0" cursorPos="21" />
-      <name status="s54df93" import="i662472" active="yes">第十章 篝火议事・花果山核心班子就位</name>
+    <item handle="d8159ec11b117" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3524" wordCount="63" paraCount="35" cursorPos="3600" />
+      <name status="s54df93" import="i662472" active="yes">第十一章 分职定策・蓝图初现</name>
     </item>
-    <item handle="d8159ec11b117" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4249" wordCount="83" paraCount="11" cursorPos="1451" />
-      <name status="s54df93" import="i662472" active="yes">第十一章 分职定策・五大板块启新程</name>
+    <item handle="b62e04ac37386" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3502" wordCount="49" paraCount="26" cursorPos="3419" />
+      <name status="s54df93" import="i662472" active="yes">第十二章 月下谈心・灵算初定</name>
     </item>
-    <item handle="b62e04ac37386" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3903" wordCount="51" paraCount="1" cursorPos="3936" />
-      <name status="s54df93" import="i662472" active="yes">第十二章 蓝图初现・月下约定与暗防</name>
-    </item>
-    <item handle="d383a1c642ade" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2849" wordCount="71" paraCount="1" cursorPos="2880" />
+    <item handle="d383a1c642ade" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3116" wordCount="58" paraCount="44" cursorPos="3209" />
       <name status="s54df93" import="i662472" active="yes">第十三章 灵韵异动・暗防布下</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -570,11 +566,11 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="15359" wordCount="146" paraCount="1" cursorPos="15462" />
+      <meta expanded="no" heading="H2" charCount="2839" wordCount="54" paraCount="1" cursorPos="454" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="4670" wordCount="34" paraCount="1" cursorPos="4695" />
+      <meta expanded="no" heading="H0" charCount="2592" wordCount="53" paraCount="1" cursorPos="2639" />
       <name status="s54df93" import="i662472" active="yes">豆包2</name>
     </item>
     <item handle="95beab59852b6" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -586,7 +582,7 @@
       <name status="s54df93" import="i662472" active="yes">豆包4</name>
     </item>
     <item handle="604984570faf4" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="16691" wordCount="359" paraCount="258" cursorPos="17275" />
+      <meta expanded="no" heading="H2" charCount="47925" wordCount="844" paraCount="617" cursorPos="49278" />
       <name status="s54df93" import="i662472" active="yes">完整版2.0</name>
     </item>
     <item handle="d1ba28cba9c01" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="5" type="FOLDER" class="NOVEL">
@@ -642,11 +638,11 @@
       <name status="s54df93" import="i662472" active="yes">第九章 闯营・桃花香里旧相逢</name>
     </item>
     <item handle="5026bd8ff2484" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3912" wordCount="73" paraCount="40" cursorPos="428" />
+      <meta expanded="no" heading="H2" charCount="3912" wordCount="73" paraCount="40" cursorPos="2451" />
       <name status="s54df93" import="i662472" active="yes">第十章（上） 篝火议事・花果山核心班子就位</name>
     </item>
     <item handle="496fa250009ce" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="5035" wordCount="67" paraCount="46" cursorPos="472" />
+      <meta expanded="no" heading="H2" charCount="5035" wordCount="67" paraCount="46" cursorPos="1964" />
       <name status="s54df93" import="i662472" active="yes">第十章（下）蓝图初现・月下约定</name>
     </item>
     <item handle="af6ff8a93b470" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -654,7 +650,7 @@
       <name status="s54df93" import="i662472" active="yes">第十一章 石扉初启・巡山启途</name>
     </item>
     <item handle="7e4011c4bb28c" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3106" wordCount="91" paraCount="46" cursorPos="23" />
+      <meta expanded="no" heading="H2" charCount="3106" wordCount="91" paraCount="46" cursorPos="137" />
       <name status="s54df93" import="i662472" active="yes">第十二章 石扉初启・凝思旧忆</name>
     </item>
     <item handle="41146878d69d0" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -662,7 +658,7 @@
       <name status="s54df93" import="i662472" active="yes">【彩蛋・一桃定情缘】</name>
     </item>
     <item handle="ff4fa2ed6bc30" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="15" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3953" wordCount="135" paraCount="64" cursorPos="21" />
+      <meta expanded="no" heading="H2" charCount="3953" wordCount="135" paraCount="64" cursorPos="405" />
       <name status="s54df93" import="i662472" active="yes">第十三章 石扉初启・日志谜章</name>
     </item>
     <item handle="3c9b7eb4a0672" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="16" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -3372,6 +3368,10 @@
     <item handle="cee6f77a2daf5" parent="ab032525a499c" root="ab032525a499c" order="0" type="FOLDER" class="TRASH">
       <meta expanded="no" />
       <name status="s54df93" import="i662472">梗概</name>
+    </item>
+    <item handle="9208d2eacbe2c" parent="ab032525a499c" root="ab032525a499c" order="1" type="FILE" class="TRASH" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="15" wordCount="2" paraCount="0" cursorPos="21" />
+      <name status="s54df93" import="i662472" active="yes">第十章 篝火议事・花果山核心班子就位</name>
     </item>
   </content>
 </novelWriterXML>
