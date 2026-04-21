@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-21 12:00:46">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22488" editTime="10016875">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-22 07:45:41">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22627" editTime="10087970">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,7 +9,7 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">6428254eb8266</entry>
+      <entry key="editor">d8159ec11b117</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="836" novelWords="68340" notesWords="9709">
+  <content items="836" novelWords="68326" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -390,7 +390,7 @@
       <name status="s54df93" import="i662472">IT</name>
     </item>
     <item handle="1239f03996c93" parent="61a3d33ed7e88" root="c4a9a239c9ccb" order="2" type="FOLDER" class="NOVEL">
-      <meta expanded="yes" />
+      <meta expanded="no" />
       <name status="s54df93" import="i662472">0-20</name>
     </item>
     <item handle="5b552ab37bcae" parent="1239f03996c93" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -430,7 +430,7 @@
       <name status="s54df93" import="i662472" active="yes">第八章 夜话・水帘洞的物流终端</name>
     </item>
     <item handle="d986ab424f9c8" parent="1239f03996c93" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2843" wordCount="24" paraCount="18" cursorPos="2883" />
+      <meta expanded="no" heading="H2" charCount="2843" wordCount="24" paraCount="18" cursorPos="275" />
       <name status="s54df93" import="i662472" active="yes">第九章 南天门设局，旧影忆桃香</name>
     </item>
     <item handle="2a84f76629adf" parent="1239f03996c93" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -450,7 +450,7 @@
       <name status="s54df93" import="i662472" active="yes">第十三章 蓝图初现・灵算雏形</name>
     </item>
     <item handle="6428254eb8266" parent="1239f03996c93" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3338" wordCount="34" paraCount="26" cursorPos="1223" />
+      <meta expanded="no" heading="H2" charCount="3338" wordCount="34" paraCount="26" cursorPos="3395" />
       <name status="s54df93" import="i662472" active="yes">第十四章 未知窥探・噪波护山</name>
     </item>
     <item handle="aff73e099bdf5" parent="61a3d33ed7e88" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -526,11 +526,11 @@
       <name status="s54df93" import="i662472" active="yes">第五章 逆咒瞒天，土拨替身</name>
     </item>
     <item handle="aad0221857b45" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3756" wordCount="48" paraCount="38" cursorPos="3837" />
+      <meta expanded="no" heading="H2" charCount="3756" wordCount="48" paraCount="38" cursorPos="1802" />
       <name status="s54df93" import="i662472" active="yes">第六章 归山・荒林里的二进制纹路</name>
     </item>
     <item handle="2e6e478b06955" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3190" wordCount="73" paraCount="60" cursorPos="3318" />
+      <meta expanded="no" heading="H2" charCount="3190" wordCount="73" paraCount="60" cursorPos="1694" />
       <name status="s54df93" import="i662472" active="yes">第七章 洞开见故人 欢语满洞天</name>
     </item>
     <item handle="b68ae28925742" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -538,24 +538,24 @@
       <name status="s54df93" import="i662472" active="yes">第八章 夜话・水帘洞的物流终端</name>
     </item>
     <item handle="3a5379769cdfe" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4272" wordCount="61" paraCount="45" cursorPos="4369" />
+      <meta expanded="no" heading="H2" charCount="4227" wordCount="60" paraCount="46" cursorPos="363" />
       <name status="s54df93" import="i662472" active="yes">第九章 闯营・南天门里旧相逢</name>
     </item>
     <item handle="22833b7893f33" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3155" wordCount="35" paraCount="28" cursorPos="3216" />
+      <meta expanded="no" heading="H2" charCount="3562" wordCount="56" paraCount="51" cursorPos="2068" />
       <name status="s54df93" import="i662472" active="yes">第十章 篝火聚旧部，回首诉坚守</name>
     </item>
     <item handle="d8159ec11b117" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3524" wordCount="63" paraCount="35" cursorPos="3600" />
+      <meta expanded="no" heading="H2" charCount="3958" wordCount="55" paraCount="41" cursorPos="4034" />
       <name status="s54df93" import="i662472" active="yes">第十一章 分职定策・蓝图初现</name>
     </item>
     <item handle="b62e04ac37386" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3502" wordCount="49" paraCount="26" cursorPos="3419" />
+      <meta expanded="no" heading="H2" charCount="3660" wordCount="36" paraCount="28" cursorPos="21" />
       <name status="s54df93" import="i662472" active="yes">第十二章 月下谈心・灵算初定</name>
     </item>
     <item handle="d383a1c642ade" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="13" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3116" wordCount="58" paraCount="44" cursorPos="3209" />
-      <name status="s54df93" import="i662472" active="yes">第十三章 灵韵异动・暗防布下</name>
+      <meta expanded="no" heading="H2" charCount="3377" wordCount="55" paraCount="45" cursorPos="19" />
+      <name status="s54df93" import="i662472" active="yes">第十三章 灵韵巡探・噪波布防</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -566,7 +566,7 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2839" wordCount="54" paraCount="1" cursorPos="454" />
+      <meta expanded="no" heading="H2" charCount="3478" wordCount="44" paraCount="1" cursorPos="1528" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -634,7 +634,7 @@
       <name status="s54df93" import="i662472" active="yes">第八章 夜话・水帘洞的物流终端</name>
     </item>
     <item handle="38a4ac3e2101f" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3091" wordCount="52" paraCount="39" cursorPos="3052" />
+      <meta expanded="no" heading="H2" charCount="3091" wordCount="52" paraCount="39" cursorPos="1047" />
       <name status="s54df93" import="i662472" active="yes">第九章 闯营・桃花香里旧相逢</name>
     </item>
     <item handle="5026bd8ff2484" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -706,7 +706,7 @@
       <name status="s54df93" import="i662472" active="yes">【番外｜通信仪的诞生】</name>
     </item>
     <item handle="4e1616c58b90a" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="27" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3533" wordCount="65" paraCount="38" cursorPos="19" />
+      <meta expanded="no" heading="H2" charCount="3533" wordCount="65" paraCount="38" cursorPos="76" />
       <name status="s54df93" import="i662472" active="yes">第二十四章 太白金星・云栈言梦</name>
     </item>
     <item handle="175e7b427a5da" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="28" type="FILE" class="NOVEL" layout="DOCUMENT">
