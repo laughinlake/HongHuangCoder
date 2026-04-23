@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-23 03:30:49">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22708" editTime="10159078">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-23 23:29:22">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22733" editTime="10230991">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">59c4c0a2fe9bb</entry>
+      <entry key="editor">3de93f464d65d</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="576" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="577" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="839" novelWords="68509" notesWords="9709">
+  <content items="840" novelWords="68593" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -542,11 +542,11 @@
       <name status="s54df93" import="i662472" active="yes">第九章 闯营・南天门里旧相逢</name>
     </item>
     <item handle="22833b7893f33" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3577" wordCount="58" paraCount="51" cursorPos="1748" />
+      <meta expanded="no" heading="H2" charCount="3577" wordCount="58" paraCount="51" cursorPos="1970" />
       <name status="s54df93" import="i662472" active="yes">第十章 篝火聚旧部，回首诉坚守</name>
     </item>
     <item handle="d8159ec11b117" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3970" wordCount="56" paraCount="40" cursorPos="4054" />
+      <meta expanded="no" heading="H2" charCount="3970" wordCount="56" paraCount="40" cursorPos="672" />
       <name status="s54df93" import="i662472" active="yes">第十一章 分职定策・蓝图初现</name>
     </item>
     <item handle="b62e04ac37386" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="12" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -562,12 +562,16 @@
       <name status="s54df93" import="i662472" active="yes">第十四章 石扉初启・巡山序章</name>
     </item>
     <item handle="6040bd4ee6ae4" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="15" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3762" wordCount="72" paraCount="49" cursorPos="3868" />
+      <meta expanded="no" heading="H2" charCount="3762" wordCount="72" paraCount="49" cursorPos="2238" />
       <name status="s54df93" import="i662472" active="yes">第十五章 石扉初启・灵韵归心</name>
     </item>
     <item handle="59c4c0a2fe9bb" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="16" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4310" wordCount="91" paraCount="66" cursorPos="4450" />
+      <meta expanded="no" heading="H2" charCount="4433" wordCount="92" paraCount="67" cursorPos="4575" />
       <name status="s54df93" import="i662472" active="yes">第十六章 石扉初启・日志谜章</name>
+    </item>
+    <item handle="3de93f464d65d" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="17" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4505" wordCount="84" paraCount="60" cursorPos="963" />
+      <name status="s54df93" import="i662472" active="yes">第十七章 灵渠数典・渠网新筑</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -578,7 +582,7 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3339" wordCount="106" paraCount="1" cursorPos="3003" />
+      <meta expanded="no" heading="H2" charCount="3779" wordCount="105" paraCount="1" cursorPos="3827" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -666,7 +670,7 @@
       <name status="s54df93" import="i662472" active="yes">第十二章 石扉初启・凝思旧忆</name>
     </item>
     <item handle="41146878d69d0" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="14" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="488" wordCount="13" paraCount="12" cursorPos="7" />
+      <meta expanded="no" heading="H2" charCount="488" wordCount="13" paraCount="12" cursorPos="516" />
       <name status="s54df93" import="i662472" active="yes">【彩蛋・一桃定情缘】</name>
     </item>
     <item handle="ff4fa2ed6bc30" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="15" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -674,7 +678,7 @@
       <name status="s54df93" import="i662472" active="yes">第十三章 石扉初启・日志谜章</name>
     </item>
     <item handle="3c9b7eb4a0672" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="16" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3732" wordCount="103" paraCount="46" cursorPos="22" />
+      <meta expanded="no" heading="H2" charCount="3732" wordCount="103" paraCount="46" cursorPos="3830" />
       <name status="s54df93" import="i662472" active="yes">第十四章 灵渠数典・渠网新筑</name>
     </item>
     <item handle="d99c0a5984ddf" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="17" type="FILE" class="NOVEL" layout="DOCUMENT">
