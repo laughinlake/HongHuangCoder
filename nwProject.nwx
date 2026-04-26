@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-25 03:45:20">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22793" editTime="10332749">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-26 20:33:11">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22827" editTime="10479620">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">0eba2b38ad85b</entry>
+      <entry key="editor">243212a8a4a43</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="581" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="584" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="844" novelWords="68572" notesWords="9709">
+  <content items="847" novelWords="68853" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -582,12 +582,24 @@
       <name status="s54df93" import="i662472" active="yes">第十九章 仓廪玄机・失窃疑云</name>
     </item>
     <item handle="29bd90b710e3b" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="20" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4012" wordCount="61" paraCount="57" cursorPos="2066" />
+      <meta expanded="no" heading="H2" charCount="4012" wordCount="61" paraCount="57" cursorPos="4130" />
       <name status="s54df93" import="i662472" active="yes">第二十章 仓廪危机・安防布局</name>
     </item>
     <item handle="0eba2b38ad85b" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="21" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="4200" wordCount="91" paraCount="67" cursorPos="4360" />
       <name status="s54df93" import="i662472" active="yes">第二十一章 仓廪危机・灵网初调</name>
+    </item>
+    <item handle="5ff59c6375ecc" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="22" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4300" wordCount="41" paraCount="33" cursorPos="4370" />
+      <name status="s54df93" import="i662472" active="yes">第二十二章 仙桃树语・灵桃改良</name>
+    </item>
+    <item handle="c621baa967fe5" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="23" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3937" wordCount="45" paraCount="40" cursorPos="4021" />
+      <name status="s54df93" import="i662472" active="yes">第二十三章 仙桃树语・妄客搅局</name>
+    </item>
+    <item handle="243212a8a4a43" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="24" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3029" wordCount="93" paraCount="37" cursorPos="2802" />
+      <name status="s54df93" import="i662472" active="yes">第二十四章 仙桃树语・蟠园旧梦</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -598,19 +610,19 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4606" wordCount="74" paraCount="1" cursorPos="4663" />
+      <meta expanded="no" heading="H2" charCount="4821" wordCount="63" paraCount="1" cursorPos="4872" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="2011" wordCount="49" paraCount="1" cursorPos="379" />
+      <meta expanded="no" heading="H0" charCount="2882" wordCount="89" paraCount="1" cursorPos="2632" />
       <name status="s54df93" import="i662472" active="yes">豆包2</name>
     </item>
     <item handle="95beab59852b6" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="813" wordCount="34" paraCount="1" cursorPos="844" />
+      <meta expanded="no" heading="H0" charCount="3884" wordCount="90" paraCount="1" cursorPos="3918" />
       <name status="s54df93" import="i662472" active="yes">豆包3</name>
     </item>
     <item handle="b663f43e5c4af" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="3126" wordCount="34" paraCount="31" cursorPos="3186" />
+      <meta expanded="no" heading="H0" charCount="3679" wordCount="51" paraCount="1" cursorPos="3717" />
       <name status="s54df93" import="i662472" active="yes">豆包4</name>
     </item>
     <item handle="604984570faf4" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="7" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -710,7 +722,7 @@
       <name status="s54df93" import="i662472" active="yes">第十七章 仓廪玄机・库房焕新</name>
     </item>
     <item handle="3d18ec41af81e" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="20" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4399" wordCount="109" paraCount="55" cursorPos="680" />
+      <meta expanded="no" heading="H2" charCount="4399" wordCount="109" paraCount="55" cursorPos="1962" />
       <name status="s54df93" import="i662472" active="yes">第十八章 仙桃树语・灵桃改良</name>
     </item>
     <item handle="92ce05f7d03b2" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="21" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -830,7 +842,7 @@
       <name status="s54df93" import="i662472" active="yes">第四十四章 归山安营 辞寨赴方寸</name>
     </item>
     <item handle="3b0fa659158da" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="7" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">45-78</name>
     </item>
     <item handle="46309625ded39" parent="3b0fa659158da" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
