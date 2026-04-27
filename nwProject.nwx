@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-27 02:53:05">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22848" editTime="10502415">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-27 12:11:12">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22857" editTime="10535902">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">8e0b522d062ce</entry>
+      <entry key="editor">3414a8629e31d</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="587" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="588" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="850" novelWords="69490" notesWords="9709">
+  <content items="851" novelWords="69532" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -606,8 +606,12 @@
       <name status="s54df93" import="i662472" active="yes">第二十四章 仙桃树语・蟠园旧梦</name>
     </item>
     <item handle="ae4073e18de56" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="25" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3541" wordCount="69" paraCount="37" cursorPos="3619" />
+      <meta expanded="no" heading="H2" charCount="3541" wordCount="69" paraCount="37" cursorPos="1407" />
       <name status="s54df93" import="i662472" active="yes">第二十五章 灵田兴垦・川泽同耕</name>
+    </item>
+    <item handle="3414a8629e31d" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="26" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3954" wordCount="63" paraCount="49" cursorPos="4059" />
+      <name status="s54df93" import="i662472" active="yes">第二十六章 灵田兴垦・蟾庭旧忆</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -618,11 +622,11 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3304" wordCount="67" paraCount="1" cursorPos="291" />
+      <meta expanded="no" heading="H2" charCount="3289" wordCount="57" paraCount="1" cursorPos="3088" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="2882" wordCount="89" paraCount="1" cursorPos="2632" />
+      <meta expanded="no" heading="H0" charCount="5130" wordCount="78" paraCount="1" cursorPos="5189" />
       <name status="s54df93" import="i662472" active="yes">豆包2</name>
     </item>
     <item handle="95beab59852b6" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -742,11 +746,11 @@
       <name status="s54df93" import="i662472" active="yes">第二十章 花果新耕・灵田双改</name>
     </item>
     <item handle="c774a362afeaa" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="23" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3454" wordCount="63" paraCount="40" cursorPos="3541" />
+      <meta expanded="no" heading="H2" charCount="3454" wordCount="63" paraCount="40" cursorPos="2345" />
       <name status="s54df93" import="i662472" active="yes">第二十一章 花果新耕・月宫探亲</name>
     </item>
     <item handle="4cfb678c226d3" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="24" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4005" wordCount="77" paraCount="54" cursorPos="4119" />
+      <meta expanded="no" heading="H2" charCount="4005" wordCount="77" paraCount="54" cursorPos="19" />
       <name status="s54df93" import="i662472" active="yes">第二十二章 月上西楼・月宫品鉴会</name>
     </item>
     <item handle="4811be59b1e61" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="25" type="FILE" class="NOVEL" layout="DOCUMENT">
