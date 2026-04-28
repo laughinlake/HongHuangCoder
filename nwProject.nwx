@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-28 02:17:32">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="22954" editTime="10586681">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-28 16:58:12">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23017" editTime="10639521">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">53acfe90a0401</entry>
+      <entry key="editor">b11e9c3426fd7</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="591" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="595" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="854" novelWords="69863" notesWords="9709">
+  <content items="858" novelWords="70093" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -618,12 +618,28 @@
       <name status="s54df93" import="i662472" active="yes">第二十六章 灵田兴垦・蟾庭旧忆</name>
     </item>
     <item handle="e1fd33cc89048" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="27" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4809" wordCount="78" paraCount="59" cursorPos="8" />
-      <name status="s54df93" import="i662472" active="yes">第二十七章 月上西楼・蟾宫品鉴</name>
+      <meta expanded="no" heading="H2" charCount="4809" wordCount="78" paraCount="59" cursorPos="18" />
+      <name status="s54df93" import="i662472" active="yes">第二十七章 月上西楼・桂庭雅聚</name>
     </item>
     <item handle="53acfe90a0401" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="28" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3946" wordCount="62" paraCount="49" cursorPos="3788" />
+      <meta expanded="no" heading="H2" charCount="4267" wordCount="64" paraCount="50" cursorPos="4371" />
       <name status="s54df93" import="i662472" active="yes">第二十八章 月上西楼・桂树传音</name>
+    </item>
+    <item handle="cef212fbab662" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="29" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="792" wordCount="18" paraCount="13" cursorPos="822" />
+      <name status="s54df93" import="i662472" active="yes">【彩蛋｜步话机的诞生】</name>
+    </item>
+    <item handle="ac3372c091c79" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="30" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3815" wordCount="64" paraCount="39" cursorPos="7" />
+      <name status="s54df93" import="i662472" active="yes">第二十九章 太白金星・初定尘契</name>
+    </item>
+    <item handle="91f049c2dc9c2" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="31" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3522" wordCount="48" paraCount="38" cursorPos="17" />
+      <name status="s54df93" import="i662472" active="yes">第三十章 太白金星・御马旧踪</name>
+    </item>
+    <item handle="675aede79f6e1" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="32" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4551" wordCount="84" paraCount="58" cursorPos="4671" />
+      <name status="s54df93" import="i662472" active="yes">第三十一章 御马监・残盏窥秘</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -634,7 +650,7 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3892" wordCount="61" paraCount="1" cursorPos="15" />
+      <meta expanded="no" heading="H2" charCount="3813" wordCount="75" paraCount="1" cursorPos="3860" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -766,23 +782,23 @@
       <name status="s54df93" import="i662472" active="yes">第二十二章 月上西楼・月宫品鉴会</name>
     </item>
     <item handle="4811be59b1e61" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="25" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3973" wordCount="62" paraCount="48" cursorPos="3776" />
+      <meta expanded="no" heading="H2" charCount="3973" wordCount="62" paraCount="48" cursorPos="19" />
       <name status="s54df93" import="i662472" active="yes">第二十三章 月上西楼・桂树传仙音</name>
     </item>
     <item handle="c5c14743ea44f" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="26" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="710" wordCount="17" paraCount="11" cursorPos="718" />
+      <meta expanded="no" heading="H2" charCount="711" wordCount="17" paraCount="12" cursorPos="740" />
       <name status="s54df93" import="i662472" active="yes">【番外｜通信仪的诞生】</name>
     </item>
     <item handle="4e1616c58b90a" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="27" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3533" wordCount="65" paraCount="38" cursorPos="76" />
+      <meta expanded="no" heading="H2" charCount="3533" wordCount="65" paraCount="38" cursorPos="18" />
       <name status="s54df93" import="i662472" active="yes">第二十四章 太白金星・云栈言梦</name>
     </item>
     <item handle="175e7b427a5da" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="28" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3403" wordCount="72" paraCount="37" cursorPos="18" />
+      <meta expanded="no" heading="H2" charCount="3401" wordCount="72" paraCount="37" cursorPos="3478" />
       <name status="s54df93" import="i662472" active="yes">第二十五章 太白金星・温候弼马</name>
     </item>
     <item handle="b11e9c3426fd7" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="29" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3725" wordCount="71" paraCount="45" cursorPos="3819" />
+      <meta expanded="no" heading="H2" charCount="3724" wordCount="71" paraCount="45" cursorPos="3266" />
       <name status="s54df93" import="i662472" active="yes">第二十六章 御马监・残盏窥秘</name>
     </item>
     <item handle="5c64cad625a8c" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="30" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -862,7 +878,7 @@
       <name status="s54df93" import="i662472" active="yes">【番外｜小玄的初次相遇】</name>
     </item>
     <item handle="b068bd077972e" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="49" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="1479" wordCount="28" paraCount="20" cursorPos="1523" />
+      <meta expanded="no" heading="H2" charCount="1479" wordCount="28" paraCount="20" cursorPos="423" />
       <name status="s54df93" import="i662472" active="yes">第四十四章 归山安营 辞寨赴方寸</name>
     </item>
     <item handle="3b0fa659158da" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="7" type="FOLDER" class="NOVEL">
@@ -1102,7 +1118,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百章 观音赐箍藏佛计 大圣暗改灵山门</name>
     </item>
     <item handle="084245d117cfc" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="9" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">101-148</name>
     </item>
     <item handle="46d94416f4a51" parent="084245d117cfc" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1138,7 +1154,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百零八章 流沙河逢旧部 半盏映前尘</name>
     </item>
     <item handle="0e930476540e5" parent="084245d117cfc" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3270" wordCount="81" paraCount="56" cursorPos="3390" />
+      <meta expanded="no" heading="H2" charCount="3270" wordCount="81" paraCount="56" cursorPos="2038" />
       <name status="s54df93" import="i662472" active="yes">第一百零九章 双盏合璧 灾备定沙河</name>
     </item>
     <item handle="31219793e4fd0" parent="084245d117cfc" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1302,7 +1318,7 @@
       <name status="s54df93" import="i662472" active="yes">第一百四十八章 戏耍迦叶 三院初立</name>
     </item>
     <item handle="da206e06a4a07" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="10" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">149-192</name>
     </item>
     <item handle="fdbd8636a5aa1" parent="da206e06a4a07" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
