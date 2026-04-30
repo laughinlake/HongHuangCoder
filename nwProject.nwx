@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-30 09:43:07">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23084" editTime="10786216">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-30 17:33:02">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23101" editTime="10814412">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">ae4073e18de56</entry>
+      <entry key="editor">11890f250e7f3</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="601" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="602" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="867" novelWords="71227" notesWords="9709">
+  <content items="868" novelWords="71388" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -530,7 +530,7 @@
       <name status="s54df93" import="i662472" active="yes">第四章 真言疑云，龟壳藏踪</name>
     </item>
     <item handle="69ed4b98ee867" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3345" wordCount="49" paraCount="36" cursorPos="3423" />
+      <meta expanded="no" heading="H2" charCount="3555" wordCount="49" paraCount="36" cursorPos="3631" />
       <name status="s54df93" import="i662472" active="yes">第五章 逆咒瞒天，土拨替身</name>
     </item>
     <item handle="aad0221857b45" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -661,17 +661,21 @@
       <meta expanded="no" heading="H2" charCount="3749" wordCount="62" paraCount="47" cursorPos="3847" />
       <name status="s54df93" import="i662472" active="yes">第三十六章 灵核仙网・算力告急</name>
     </item>
-    <item handle="f2898686dfb3f" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="38" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="15" wordCount="2" paraCount="0" cursorPos="0" />
-      <name status="s54df93" import="i662472" active="yes">第三十七章 灵核仙网・广寒取桂</name>
+    <item handle="5b1f70ce9b298" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="38" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3919" wordCount="59" paraCount="53" cursorPos="4031" />
+      <name status="s54df93" import="i662472" active="yes">第三十七章 灵核仙网・仙使降临</name>
     </item>
-    <item handle="46930e319509d" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="39" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="15" wordCount="2" paraCount="0" cursorPos="0" />
-      <name status="s54df93" import="i662472" active="yes">第三十八章 灵核仙网・双模通联</name>
+    <item handle="f2898686dfb3f" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="39" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3967" wordCount="64" paraCount="35" cursorPos="7" />
+      <name status="s54df93" import="i662472" active="yes">第三十八章 灵核仙网・广寒取桂</name>
     </item>
-    <item handle="4c951ff0e1f08" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="40" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="15" wordCount="2" paraCount="0" cursorPos="0" />
-      <name status="s54df93" import="i662472" active="yes">第三十九章 灵核仙网・算力镇山</name>
+    <item handle="46930e319509d" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="40" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4199" wordCount="65" paraCount="57" cursorPos="4317" />
+      <name status="s54df93" import="i662472" active="yes">第三十九章 灵核仙网・双模通联</name>
+    </item>
+    <item handle="4c951ff0e1f08" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="41" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="14" wordCount="2" paraCount="0" cursorPos="6" />
+      <name status="s54df93" import="i662472" active="yes">第四十章 灵核仙网・算力镇山</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -682,11 +686,11 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="2328" wordCount="39" paraCount="30" cursorPos="1938" />
+      <meta expanded="no" heading="H2" charCount="2556" wordCount="45" paraCount="1" cursorPos="2595" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="2959" wordCount="57" paraCount="1" cursorPos="2998" />
+      <meta expanded="no" heading="H0" charCount="2532" wordCount="28" paraCount="1" cursorPos="2557" />
       <name status="s54df93" import="i662472" active="yes">豆包2</name>
     </item>
     <item handle="95beab59852b6" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -850,7 +854,7 @@
       <name status="s54df93" import="i662472" active="yes">第三十二章 薅秃广寒宫！小玉带货月桂来</name>
     </item>
     <item handle="11890f250e7f3" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="36" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3793" wordCount="84" paraCount="55" cursorPos="3908" />
+      <meta expanded="no" heading="H2" charCount="3793" wordCount="84" paraCount="55" cursorPos="338" />
       <name status="s54df93" import="i662472" active="yes">第三十三章 双模基站通三界，魔性舞步测宽带</name>
     </item>
     <item handle="f3a1a91532dc3" parent="92f3b83a3c2c9" root="c4a9a239c9ccb" order="37" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -906,7 +910,7 @@
       <name status="s54df93" import="i662472" active="yes">第四十四章 归山安营 辞寨赴方寸</name>
     </item>
     <item handle="3b0fa659158da" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="6" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">45-78</name>
     </item>
     <item handle="46309625ded39" parent="3b0fa659158da" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1046,7 +1050,7 @@
       <name status="s54df93" import="i662472" active="yes">第七十八章 悟洁卧底解危局 紫霞一剑斩蟹王</name>
     </item>
     <item handle="7e493d5ec4f80" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="7" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">79-100</name>
     </item>
     <item handle="5f36a5125b24f" parent="7e493d5ec4f80" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
