@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-30 04:01:28">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23080" editTime="10765718">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-04-30 09:43:07">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23084" editTime="10786216">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,7 +9,7 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">f0cbac9338bcf</entry>
+      <entry key="editor">ae4073e18de56</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="867" novelWords="71238" notesWords="9709">
+  <content items="867" novelWords="71227" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -610,11 +610,11 @@
       <name status="s54df93" import="i662472" active="yes">第二十四章 仙桃树语・蟠园旧梦</name>
     </item>
     <item handle="ae4073e18de56" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="25" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3541" wordCount="69" paraCount="37" cursorPos="1407" />
+      <meta expanded="no" heading="H2" charCount="4067" wordCount="58" paraCount="49" cursorPos="4169" />
       <name status="s54df93" import="i662472" active="yes">第二十五章 灵田兴垦・川泽同耕</name>
     </item>
     <item handle="3414a8629e31d" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="26" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3954" wordCount="63" paraCount="49" cursorPos="4059" />
+      <meta expanded="no" heading="H2" charCount="3954" wordCount="63" paraCount="49" cursorPos="3979" />
       <name status="s54df93" import="i662472" active="yes">第二十六章 灵田兴垦・蟾庭旧忆</name>
     </item>
     <item handle="e1fd33cc89048" parent="5a7947d9b5605" root="c4a9a239c9ccb" order="27" type="FILE" class="NOVEL" layout="DOCUMENT">
