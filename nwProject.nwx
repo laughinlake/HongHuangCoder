@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-05-04 14:03:04">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23232" editTime="11147414">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-05-05 20:55:20">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23249" editTime="11258549">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">45e8c944af5ec</entry>
+      <entry key="editor">938d356dc2adc</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="618" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="620" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="884" novelWords="72492" notesWords="9709">
+  <content items="886" novelWords="72634" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -738,8 +738,16 @@
       <name status="s54df93" import="i662472" active="yes">第五十二章 叩山，棋盘解语开山门</name>
     </item>
     <item handle="cc0d4a74635b3" parent="e6f85667768eb" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="15" wordCount="2" paraCount="0" cursorPos="0" />
+      <meta expanded="no" heading="H2" charCount="3494" wordCount="40" paraCount="38" cursorPos="3574" />
       <name status="s54df93" import="i662472" active="yes">第五十三章 洞门开・师徒再相逢</name>
+    </item>
+    <item handle="4b1390ac77e31" parent="e6f85667768eb" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3906" wordCount="38" paraCount="35" cursorPos="3982" />
+      <name status="s54df93" import="i662472" active="yes">第五十四章 仙府初游・七院藏道</name>
+    </item>
+    <item handle="07f24c64474ba" parent="e6f85667768eb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4038" wordCount="52" paraCount="47" cursorPos="4136" />
+      <name status="s54df93" import="i662472" active="yes">第五十五章 栖苑寻趣・棋道修心</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -750,11 +758,11 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="2979" wordCount="34" paraCount="29" cursorPos="3035" />
+      <meta expanded="no" heading="H1" charCount="1962" wordCount="31" paraCount="1" cursorPos="1984" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H0" charCount="1984" wordCount="35" paraCount="1" cursorPos="62" />
+      <meta expanded="no" heading="H0" charCount="3256" wordCount="52" paraCount="1" cursorPos="3301" />
       <name status="s54df93" import="i662472" active="yes">豆包2</name>
     </item>
     <item handle="95beab59852b6" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="6" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -982,7 +990,7 @@
       <name status="s54df93" import="i662472" active="yes">第四十五章 祥云叩方寸 棋盘解语入山门</name>
     </item>
     <item handle="938d356dc2adc" parent="3b0fa659158da" root="c4a9a239c9ccb" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3728" wordCount="36" paraCount="28" cursorPos="3790" />
+      <meta expanded="no" heading="H2" charCount="3728" wordCount="36" paraCount="28" cursorPos="3136" />
       <name status="s54df93" import="i662472" active="yes">第四十六章 灵台仙山藏玄境 悟元两辈续文脉</name>
     </item>
     <item handle="1e5752b114599" parent="3b0fa659158da" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
