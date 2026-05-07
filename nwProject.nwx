@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-05-08 05:38:08">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23331" editTime="11462717">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-05-08 06:41:07">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23337" editTime="11466497">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">deeabcee8c2ee</entry>
+      <entry key="editor">06e260637febb</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="629" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="631" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="896" novelWords="73532" notesWords="9709">
+  <content items="898" novelWords="73588" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -758,7 +758,7 @@
       <name status="s54df93" import="i662472" active="yes">第五十四章 仙府初游・七院藏道</name>
     </item>
     <item handle="07f24c64474ba" parent="e6f85667768eb" root="c4a9a239c9ccb" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="4198" wordCount="52" paraCount="49" cursorPos="3724" />
+      <meta expanded="no" heading="H2" charCount="4198" wordCount="52" paraCount="49" cursorPos="3601" />
       <name status="s54df93" import="i662472" active="yes">第五十五章 栖苑寻趣・棋道修心</name>
     </item>
     <item handle="cc6e695f53613" parent="e6f85667768eb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -785,6 +785,14 @@
       <meta expanded="no" heading="H2" charCount="3951" wordCount="52" paraCount="47" cursorPos="193" />
       <name status="s54df93" import="i662472" active="yes">第六十一章 山风渡旧影・云畔觅幽涧</name>
     </item>
+    <item handle="35ad55e91ccbb" parent="e6f85667768eb" root="c4a9a239c9ccb" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="4892" wordCount="62" paraCount="53" cursorPos="5003" />
+      <name status="s54df93" import="i662472" active="yes">第六十二章 棋开星位定大势</name>
+    </item>
+    <item handle="0099c846fefc0" parent="e6f85667768eb" root="c4a9a239c9ccb" order="11" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="13" wordCount="2" paraCount="0" cursorPos="0" />
+      <name status="s54df93" import="i662472" active="yes">第六十三章 武科试劲晓刚柔</name>
+    </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
       <name status="s54df93" import="i662472" active="yes">千问</name>
@@ -794,7 +802,7 @@
       <name status="s54df93" import="i662472" active="yes">元宝</name>
     </item>
     <item handle="06e260637febb" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="3322" wordCount="54" paraCount="1" cursorPos="3362" />
+      <meta expanded="no" heading="H1" charCount="3324" wordCount="46" paraCount="1" cursorPos="3361" />
       <name status="s54df93" import="i662472" active="yes">豆包1</name>
     </item>
     <item handle="9abb451769933" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
