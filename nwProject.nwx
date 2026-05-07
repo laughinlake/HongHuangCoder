@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-05-08 01:02:08">
-  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23311" editTime="11446158">
+<novelWriterXML appVersion="2.6.3" hexVersion="0x020603f0" fileVersion="1.5" fileRevision="4" timeStamp="2026-05-08 03:53:08">
+  <project id="1676f223-82cb-4e39-9085-049083a29eb2" saveCount="30" autoCount="23318" editTime="11456417">
     <name>HongHuang</name>
     <author>JQ</author>
   </project>
@@ -9,14 +9,14 @@
     <language>zh_CN</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">11a8a9336f189</entry>
+      <entry key="editor">dcbdd032640a0</entry>
       <entry key="viewer">None</entry>
       <entry key="novelTree">c4a9a239c9ccb</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="s54df93" count="628" red="100" green="100" blue="100" shape="SQUARE">New</entry>
+      <entry key="s54df93" count="629" red="100" green="100" blue="100" shape="SQUARE">New</entry>
       <entry key="s7300d5" count="0" red="200" green="50" blue="0" shape="SQUARE">Note</entry>
       <entry key="sfa227a" count="0" red="200" green="150" blue="0" shape="SQUARE">Draft</entry>
       <entry key="s9dadae" count="0" red="50" green="200" blue="0" shape="SQUARE">Finished</entry>
@@ -28,7 +28,7 @@
       <entry key="iafafff" count="0" red="50" green="200" blue="0" shape="SQUARE">Main</entry>
     </importance>
   </settings>
-  <content items="895" novelWords="73537" notesWords="9709">
+  <content items="896" novelWords="73532" notesWords="9709">
     <item handle="c4a9a239c9ccb" parent="None" root="c4a9a239c9ccb" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s54df93" import="i662472">洪荒代码架构师</name>
@@ -778,8 +778,12 @@
       <name status="s54df93" import="i662472" active="yes">第五十九章 术法授艺・七十二变（上）</name>
     </item>
     <item handle="11a8a9336f189" parent="e6f85667768eb" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="7735" wordCount="116" paraCount="108" cursorPos="7954" />
+      <meta expanded="no" heading="H2" charCount="3863" wordCount="59" paraCount="54" cursorPos="66" />
       <name status="s54df93" import="i662472" active="yes">第六十章 术法授艺・七十二变（下）</name>
+    </item>
+    <item handle="dcbdd032640a0" parent="e6f85667768eb" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="3951" wordCount="52" paraCount="47" cursorPos="20" />
+      <name status="s54df93" import="i662472" active="yes">第六十一章 山风渡旧影・云畔觅幽涧</name>
     </item>
     <item handle="e8d7eebfb98b7" parent="7ad4729ad7dbb" root="c4a9a239c9ccb" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H0" charCount="1645" wordCount="41" paraCount="1" cursorPos="1674" />
@@ -1870,7 +1874,7 @@
       <name status="s54df93" import="i662472" active="yes">第二百五十章 大殿审奸明罪状 鼠女归山了尘缘</name>
     </item>
     <item handle="d5e7de7491170" parent="6790da3cae3b2" root="c4a9a239c9ccb" order="11" type="FOLDER" class="NOVEL">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s54df93" import="i662472">251-320</name>
     </item>
     <item handle="1d90f94654030" parent="d5e7de7491170" root="c4a9a239c9ccb" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -1906,7 +1910,7 @@
       <name status="s54df93" import="i662472" active="yes">第二百五十八章 龙潭险渡 塔影迷踪</name>
     </item>
     <item handle="4d00b6926d691" parent="d5e7de7491170" root="c4a9a239c9ccb" order="8" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="3604" wordCount="59" paraCount="37" cursorPos="3682" />
+      <meta expanded="no" heading="H2" charCount="3604" wordCount="59" paraCount="37" cursorPos="2884" />
       <name status="s54df93" import="i662472" active="yes">第二百五十九章 灵喵识善 一啸归山</name>
     </item>
     <item handle="871f928517558" parent="d5e7de7491170" root="c4a9a239c9ccb" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
